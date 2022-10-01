@@ -1,14 +1,14 @@
 package com.api.webscrapingmagalu.service;
 
-
-
-import java.util.ArrayList;
+import java.io.IOException;
 import java.util.List;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.api.webscrapingmagalu.WebScrapingMagaluApplication;
+import com.api.webscrapingmagalu.model.WebScraping;
+import com.api.webscrapingmagalu.repository.PassingRepository;
 
 
 
@@ -17,9 +17,17 @@ public class WebCrapingService {
 
     
 
-    public  static void Produtos(String url){
-        
+    @Autowired
+    PassingRepository repository;
 
+    public void extrairDados() throws IOException {
+        List<WebScraping> passers = WebScrapingMagaluApplication.extrairDados();
+
+        for (WebScraping p: passers){
+            System.out.println("Produto: " + p.getNomeProduto() + "||" + p.getValorProduto());
+            repository.save(p);
+        }
+    }
 
 }
    /*public static List<WebScraping> extrairDados() throws IOException {
@@ -60,4 +68,4 @@ public class WebCrapingService {
         }
     }*/
 
-}
+

@@ -1,35 +1,13 @@
-package com.api.webscrapingmagalu;
+package com.api.webscrapingmagalu.service;
 
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.api.webscrapingmagalu.model.WebScraping;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-
-import java.io.IOException;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-@SpringBootApplication
-public class WebScrapingMagaluApplication {
-
-    public WebScrapingMagaluApplication() throws IOException {
-    }
-
-    public static void main(String[] args) throws IOException {
-
-        int count = 0;
+public class ScrapingHtmlService {
+/* 
+    int count = 0;
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
     //int i = 1;
-    for(int j = 1; j<=2;j++){
+    for(int j = 1; j<=1;j++){
         
         //1 - URL do site a ser acessado
         String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
@@ -38,11 +16,9 @@ public class WebScrapingMagaluApplication {
         //3 - Obtendo os artigos por classe
         List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
         List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
-        
         List<Element> nome = new ArrayList<>();
-        List<String> valor = new ArrayList<>();
-
         List<Element> dinheiro = new ArrayList<>();
+        List<String> valor = new ArrayList<>();
         List<String> listDinheiro = new ArrayList<>();
 
         //4 - Obtendo as tags "a" dos artigos
@@ -66,22 +42,12 @@ public class WebScrapingMagaluApplication {
         
             nome.forEach(s -> {
                 
-               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.get(count).text() + "  || Data: " + dateFormat.format(date));
+               System.out.println("Produto: "  + s +  "\n Valor: "+ dinheiro.get(count) + "" + dateFormat.format(date));
+                
             });  
             
-    }
-}
-
-    //Bonus: método para converter um objeto em um Json
-    private static void converterToJson(WebScraping passing){
-        ObjectMapper mapper = new ObjectMapper();
-        try {
-            String json = mapper.writeValueAsString(passing);
-            System.out.println("Objeto em JSON: " + json);
-        } catch (JsonProcessingException e) {
-            e.printStackTrace();
+           
         }
-    }
-
-
+*/
 }
+
