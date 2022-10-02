@@ -31,7 +31,7 @@ public class WebScraping {
     //int i = 1;
     for(int j = 1; j<=2;j++){
         
-        //1 - URL do site a ser acessado
+        //1 - URL do site acessado
         String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
         //2 - Conectando e obtendo uma cópia do html inteiro da página
         Document doc = Jsoup.connect(url).get();
@@ -63,8 +63,8 @@ public class WebScraping {
                 listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
     }
-        for(int in = 0; in <= nome.size() ; in++){
-            System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
-        }
+        //for(int in = 0; in <= nome.size() ; in++){
+            //System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
+        //}
     }
 }

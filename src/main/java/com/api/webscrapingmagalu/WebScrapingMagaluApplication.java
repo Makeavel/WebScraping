@@ -48,23 +48,26 @@ public class WebScrapingMagaluApplication {
 
         //5 - Obtendo o conteudo das tags 
             nome.forEach(element -> {
-                valor.add(element.attr("sc-hFxENk fskQXn"));
+                valor.add(element.attr("sc-hFxENk fskQXn")); //h2
             });
 
             valorProduto.forEach(element -> {
-                listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
+                listDinheiro.add(element.attr("sc-hFxENk fskQXn")); // <p  preco-value
             });
         //6 - Imprimindo os links
-        
-            //nome.forEach(s -> {
+            int count = 1;
+            nome.forEach(s -> {
                 
-            //   System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.get(count).text() + "  || Data: " + dateFormat.format(date));
+               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.get(count).text() + "  || Data: " + dateFormat.format(date));
                 
-           // });  
+            });  
+            valorProduto.forEach(p ->{
+                //System.out.println("Valor: " + p.text());
+            });
             
-            for(int in = 0; in <= nome.size() ; in++){
-                System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
-            }
+            //for(int in = 0; in <= nome.size() ; in++){
+             //   System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
+            //}
             
     }
 }
