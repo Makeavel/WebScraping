@@ -21,7 +21,7 @@ public class WebScrapingMagaluApplication {
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
     //int i = 1;
-    for(int j = 1; j<=2;j++){
+    for(int j = 1; j<=17;j++){
         
         //1 - URL do site a ser acessado
         String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
@@ -55,10 +55,10 @@ public class WebScrapingMagaluApplication {
                 listDinheiro.add(element.attr("sc-hFxENk fskQXn")); // <p  preco-value
             });
         //6 - Imprimindo os links
-            int count = 1;
+            int count = 0;
             nome.forEach(s -> {
                 
-               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.get(count).text() + "  || Data: " + dateFormat.format(date));
+               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.listIterator(0) + "  || Data: " + dateFormat.format(date));
                 
             });  
             valorProduto.forEach(p ->{
