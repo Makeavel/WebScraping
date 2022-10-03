@@ -6,6 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -24,19 +25,20 @@ public class WebScraping {
     //private String valorProduto;
     private List<String> valor = new ArrayList<>();
     private List<String> listDinheiro = new ArrayList<>();
+
     
 
-    public void SmartphoneScraping() throws IOException{
+    public void SmartphoneScraping() throws IOException, InterruptedException{
    
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
-    //int i = 1;
+    TimeUnit.SECONDS.sleep(5);    
     for(int j = 1; j<=17;j++){
         
         //1 - URL do site acessado
         String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
         //2 - Conectando e obtendo uma cópia do html inteiro da página
-        Document doc = Jsoup.connect(url).get();
+        Document doc = Jsoup.connect(url).timeout(30000).get();
         //3 - Obtendo os artigos por classe
         List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
         List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
@@ -70,14 +72,14 @@ public class WebScraping {
         }
     }
 
-    public void NotebookScraping() throws IOException{
+    public void NotebookScraping() throws IOException, InterruptedException{
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         for(int j = 1; j<=17;j++){
-
+            TimeUnit.SECONDS.sleep(5);
             String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
             //2 - Conectando e obtendo uma cópia do html inteiro da página
-            Document doc = Jsoup.connect(url).get();
+            Document doc = Jsoup.connect(url).timeout(30000).get();
             //3 - Obtendo os artigos por classe
             List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
             List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
@@ -106,4 +108,116 @@ public class WebScraping {
         }
     }
 
+    public void PlacaDeVideoScraping() throws IOException, InterruptedException{
+        DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+        Date date = new Date();
+        for(int j = 1; j<=17;j++){
+            TimeUnit.SECONDS.sleep(5);
+            String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
+            //2 - Conectando e obtendo uma cópia do html inteiro da página
+            Document doc = Jsoup.connect(url).timeout(30000).get();
+            //3 - Obtendo os artigos por classe
+            List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
+            List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
+            
+            List<Element> nome = new ArrayList<>();
+                
+            List<Element> dinheiro = new ArrayList<>();
+
+            //4 - Obtendo as tags/classses dos artigos
+            artigos.forEach(element -> {
+                nome.add(element.getElementsByTag("h2").first());                   
+            });
+
+            valorProduto.forEach(element ->{
+                dinheiro.add(element.getElementsByClass("sc-crHmcD cUbEYF sc-iukxot cqVUBD").first());
+            });
+
+            nome.forEach(element -> {
+                this.valor.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+            valorProduto.forEach(element -> {
+                this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+        }
+    }
+
+    
+    public void TvScraping() throws IOException, InterruptedException{
+        DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+        Date date = new Date();
+        for(int j = 1; j<=17;j++){
+            TimeUnit.SECONDS.sleep(5);
+            String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
+            //2 - Conectando e obtendo uma cópia do html inteiro da página
+            Document doc = Jsoup.connect(url).timeout(30000).get();
+            //3 - Obtendo os artigos por classe
+            List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
+            List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
+            
+            List<Element> nome = new ArrayList<>();
+                
+            List<Element> dinheiro = new ArrayList<>();
+
+            //4 - Obtendo as tags/classses dos artigos
+            artigos.forEach(element -> {
+                nome.add(element.getElementsByTag("h2").first());                   
+            });
+
+            valorProduto.forEach(element ->{
+                dinheiro.add(element.getElementsByClass("sc-crHmcD cUbEYF sc-iukxot cqVUBD").first());
+            });
+
+            nome.forEach(element -> {
+                this.valor.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+            valorProduto.forEach(element -> {
+                this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+        }
+    }
+
+    
+    public void SmartWatchScraping() throws IOException, InterruptedException{
+        DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+        Date date = new Date();
+        for(int j = 1; j<=17;j++){
+            TimeUnit.SECONDS.sleep(5);
+            String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
+            //2 - Conectando e obtendo uma cópia do html inteiro da página
+            Document doc = Jsoup.connect(url).timeout(30000).get();
+            //3 - Obtendo os artigos por classe
+            List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
+            List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
+            
+            List<Element> nome = new ArrayList<>();
+                
+            List<Element> dinheiro = new ArrayList<>();
+
+            //4 - Obtendo as tags/classses dos artigos
+            artigos.forEach(element -> {
+                nome.add(element.getElementsByTag("h2").first());                   
+            });
+
+            valorProduto.forEach(element ->{
+                dinheiro.add(element.getElementsByClass("sc-crHmcD cUbEYF sc-iukxot cqVUBD").first());
+            });
+
+            nome.forEach(element -> {
+                this.valor.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+            valorProduto.forEach(element -> {
+                this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
+            });
+
+        }
+    }
+    public void PrintList(){
+
+    }
 }

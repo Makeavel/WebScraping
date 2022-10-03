@@ -12,21 +12,23 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 @SpringBootApplication
 public class WebScrapingMagaluApplication {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
 
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
     //int i = 1;
     for(int j = 1; j<=17;j++){
-        
+
+        TimeUnit.SECONDS.sleep(5);
         //1 - URL do site a ser acessado
         String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
         //2 - Conectando e obtendo uma cópia do html inteiro da página
-        Document doc = Jsoup.connect(url).get();
+        Document doc = Jsoup.connect(url).timeout(30000).get();
         //3 - Obtendo os artigos por classe
         List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
         List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
@@ -58,13 +60,14 @@ public class WebScrapingMagaluApplication {
             int count = 0;
             nome.forEach(s -> {
                 
-               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.listIterator(0) + "  || Data: " + dateFormat.format(date));
+               System.out.println("Produto: "  + s.text() +  " || Valor: "+ dinheiro.get(0).text() + " || Data: " + dateFormat.format(date));
                 
             });  
             valorProduto.forEach(p ->{
                 //System.out.println("Valor: " + p.text());
             });
-            
+           
+            System.out.println("*****************************"+j + "********************************");
             //for(int in = 0; in <= nome.size() ; in++){
              //   System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
             //}
