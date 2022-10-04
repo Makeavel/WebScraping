@@ -14,6 +14,10 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.Writer;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.text.DateFormat;
 import java.text.Format;
 import java.text.SimpleDateFormat;
@@ -32,80 +36,11 @@ public class WebScrapingMagaluApplication {
 
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
-    int i = 1;
-     for (int j = 11; j <= 17; j++) {
-
-    //     //1 - URL do site a ser acessado
-    //     //String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
-    //     //2 - Conectando e obtendo uma cópia do html inteiro da página
-    //     //Document doc = Jsoup.connect(url).timeout(30000).get();
-    //     // //3 - Obtendo os artigos por classe
-    //     // List<Element> artigos = doc.getElementsByClass("sc-cnHmbd dQVIVc");
-    //     // List<Element> valorProduto = doc.getElementsByClass("sc-hKwDye iKLUrB sc-itWPBs jrSJVN");
-    //     // List<Element> produtoEsgotado = doc.select("div ul li a div h2 ~ div:last-child span");
-        
-    //     // List<Element> nome = new ArrayList<>();
-    //     // List<String> valor = new ArrayList<>();
-
-    //     // List<Element> dinheiro = new ArrayList<>();
-    //     // List<String> listDinheiro = new ArrayList<>();
-
-    //     // List<Element> esgotado = new ArrayList<>();
-    //     // List<String> listEsgotado = new ArrayList<>();
-
-    //     // produtoEsgotado.forEach(pe -> {
-    //     //     esgotado.add(pe);
-    //     // });
-
-    //     // esgotado.forEach(le -> {
-    //     //     listEsgotado.add(le.text());
-    //     // });
-
-    //     // dinheiro.con
-
-    //     // //4 - Obtendo as tags/classses dos artigos
-    //     //     artigos.forEach(element -> {
-    //     //         nome.add(element.getElementsByTag("h2").first());                   
-    //     //     });
-
-    //     //     valorProduto.forEach(element -> {
-    //     //         dinheiro.add(element.getElementsByClass("sc-crHmcD cUbEYF sc-iukxot cqVUBD").first());
-    //     //     });
-
-    //     // //5 - Obtendo o conteudo das tags 
-    //     //     nome.forEach(element -> {
-    //     //         valor.add(element.attr("sc-hFxENk fskQXn")); //h2
-    //     //     });
-
-    //     //     valorProduto.forEach(element -> {
-    //     //         listDinheiro.add(element.attr("sc-hFxENk fskQXn")); // <p  preco-value
-    //     //     });
-
-
-
-    //     // //6 - Imprimindo os links
-    //     // AtomicInteger ordinal = new AtomicInteger(0);
-
-    //     //     // nome.forEach(s -> {
-                
-    //     //     //     //System.out.println("Produto " + (ordinal.get()+1) + ": "  + s.text() +   " || Data: " + dateFormat.format(date));
-    //     //     //     System.out.println("Produto " + ordinal.get() + ": "  + s.text() +  " || Valor: "+ valorProduto.get(0).text() + " || Data: " + dateFormat.format(date));
-    //     //     //     ordinal.set(ordinal.get()+1);
-    //     //     // });  
-
-    //     //     // valorProduto.forEach(p ->{
-    //     //     //     System.out.println("Index: " + ordinal.get() + " Valor: " + p.text());
-    //     //     //     ordinal.set(ordinal.get()+1);
-    //     //     // });
-           
-    //     //     System.out.println("*****************************"+j + "********************************");
-    //     //     TimeUnit.SECONDS.sleep(5);
-    //     //     //for(int in = 0; in <= nome.size() ; in++){  " || Valor: "+  dinheiro.get(0).text() +
-    //     //      //   System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
-    //     //     //}
-
-        
-    //     // Tests Silvio.
+    FileWriter write = new FileWriter("MagaluTv.txt", true);
+    //OutputStream os = new FileOutputStream("TvMagalu.txt");
+    //Writer wr = new OutputStreamWriter(os); 
+    //BufferedWriter write = new BufferedWriter(wr);
+     for (int j = 8; j <= 8; j++) {
 
          String url = "https://www.magazineluiza.com.br/busca/smart+tv/?page="+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -154,7 +89,12 @@ public class WebScrapingMagaluApplication {
          products.forEach(prod -> {
     //         // Printamos cada produto formatado como desejado.
             
-
+             try {
+                write.write(" " + products + "\n");
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
              System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date));
                 
     // Incrementamos o contador.
@@ -169,6 +109,7 @@ public class WebScrapingMagaluApplication {
     //     // Aguardar 5 segundos antes de prosseguir para a próxima repetição
          TimeUnit.SECONDS.sleep(5);
         }
+        write.close();
      
     //for (int i = 1; i <= 44; i++) {
         // Kabum
@@ -246,6 +187,9 @@ public class WebScrapingMagaluApplication {
         // // Aguardar 5 segundos antes de prosseguir para a próxima repetição
         // TimeUnit.SECONDS.sleep(5);
     }
+
+  
+
 }
 
    
