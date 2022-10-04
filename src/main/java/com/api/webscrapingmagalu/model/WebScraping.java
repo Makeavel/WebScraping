@@ -32,7 +32,7 @@ public class WebScraping {
    
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
-    TimeUnit.SECONDS.sleep(5);    
+   
     for(int j = 1; j<=17;j++){
         
         //1 - URL do site acessado
@@ -66,6 +66,7 @@ public class WebScraping {
             valorProduto.forEach(element -> {
                 this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
+            TimeUnit.SECONDS.sleep(5);
     }
         for(int in = 0; in <= this.valor.size() ; in++){
            // System.out.println("Produto: "  + nome.get(in).text() +  " || Valor: "+ dinheiro.get(in).text() + "  || Data: " + dateFormat.format(date));
@@ -76,7 +77,7 @@ public class WebScraping {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         for(int j = 1; j<=17;j++){
-            TimeUnit.SECONDS.sleep(5);
+        
             String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
             //2 - Conectando e obtendo uma cópia do html inteiro da página
             Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -104,7 +105,7 @@ public class WebScraping {
             valorProduto.forEach(element -> {
                 this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
-
+            TimeUnit.SECONDS.sleep(5);
         }
     }
 
@@ -112,7 +113,7 @@ public class WebScraping {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         for(int j = 1; j<=17;j++){
-            TimeUnit.SECONDS.sleep(5);
+            
             String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
             //2 - Conectando e obtendo uma cópia do html inteiro da página
             Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -140,7 +141,7 @@ public class WebScraping {
             valorProduto.forEach(element -> {
                 this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
-
+            TimeUnit.SECONDS.sleep(5);
         }
     }
 
@@ -149,7 +150,7 @@ public class WebScraping {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         for(int j = 1; j<=17;j++){
-            TimeUnit.SECONDS.sleep(5);
+            
             String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
             //2 - Conectando e obtendo uma cópia do html inteiro da página
             Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -177,7 +178,7 @@ public class WebScraping {
             valorProduto.forEach(element -> {
                 this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
-
+            TimeUnit.SECONDS.sleep(5);
         }
     }
 
@@ -186,7 +187,7 @@ public class WebScraping {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         for(int j = 1; j<=17;j++){
-            TimeUnit.SECONDS.sleep(5);
+
             String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
             //2 - Conectando e obtendo uma cópia do html inteiro da página
             Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -214,7 +215,7 @@ public class WebScraping {
             valorProduto.forEach(element -> {
                 this.listDinheiro.add(element.attr("sc-hFxENk fskQXn"));
             });
-
+            TimeUnit.SECONDS.sleep(5);
         }
     }
     public void PrintList(){
