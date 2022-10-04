@@ -1,25 +1,18 @@
 package com.api.webscrapingmagalu;
 
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.io.BufferedWriter;
-import java.io.FileOutputStream;
+import com.api.webscrapingmagalu.model.MagaluScrapper;
+
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
-import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
 import java.text.DateFormat;
-import java.text.Format;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -34,15 +27,16 @@ public class WebScrapingMagaluApplication {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
+    //MagaluScrapper scrapper = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+tv/?page=");
+    //scrapper.getAllSmartTV(1);
+
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
     FileWriter write = new FileWriter("MagaluTv.txt", true);
-    //OutputStream os = new FileOutputStream("TvMagalu.txt");
-    //Writer wr = new OutputStreamWriter(os); 
-    //BufferedWriter write = new BufferedWriter(wr);
-     for (int j = 8; j <= 8; j++) {
 
-         String url = "https://www.magazineluiza.com.br/busca/smart+tv/?page="+j;
+     for (int j = 1; j <= 17; j++) {
+
+         String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
 
            // Pegar todos os cards de detalhes de produtos da página.
@@ -88,15 +82,15 @@ public class WebScrapingMagaluApplication {
          counter.set(0);
          products.forEach(prod -> {
     //         // Printamos cada produto formatado como desejado.
-            
-             try {
-                write.write(" " + products + "\n");
+            System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date));
+            try {
+                write.write((prod.get("productName") + " ; " + prod.get("productPrice") + " ;  Data: " + dateFormat.format(date) + " \n"));
             } catch (IOException e) {
-                // TODO Auto-generated catch block
                 e.printStackTrace();
-            }
-             System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date));
-                
+            }   
+            
+             //write.write(System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date)));
+            
     // Incrementamos o contador.
              counter.set(counter.get() + 1);
     //         // Obs: O contador não é necessário para nada, a não ser saber a quantidade de registros que existe na List,
@@ -105,7 +99,12 @@ public class WebScrapingMagaluApplication {
 
     //     // Imprime o fechamento do divisor de páginas pulando uma linha
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
-            
+         // try {
+        //        write.write(" " + products + dateFormat.format(date) + "\n" );
+         //       write.write(System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date)));
+         //   } catch (IOException e) {
+         //       e.printStackTrace();
+        //    }   
     //     // Aguardar 5 segundos antes de prosseguir para a próxima repetição
          TimeUnit.SECONDS.sleep(5);
         }
