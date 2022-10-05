@@ -11,16 +11,16 @@ public class WebScrapingMagaluApplication {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         AmericanasScrapper scrapperSmartphoneAM = new AmericanasScrapper("https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/g/tipo-de-produto-Celular/tipo-de-produto-Iphone/tipo-de-produto-Smartphone?chave=pfm_hm_tt_1_0_smartphone&viewMode=grid&limit=24&offset=");
-        scrapperSmartphoneAM.getAllSmartphoneAM(50);
+        scrapperSmartphoneAM.getAllSmartphoneAM(20);
 
         AmericanasScrapper scrapperNotebookAM = new AmericanasScrapper("https://www.americanas.com.br/busca/notebook?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=notebook&filter=%7B'id'%3A'categoria'%2C'value'%3A'Informática'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
-        scrapperNotebookAM.getAllNotebookAM(50);
+        scrapperNotebookAM.getAllNotebookAM(20);
 
         AmericanasScrapper scrapperSmartwatchAM = new AmericanasScrapper("https://www.americanas.com.br/busca/smartwatch?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=smartwatch&filter=%7B'id'%3A'categoria'%2C'value'%3A'Smartwatch'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
-        scrapperSmartwatchAM.getAllSmartwatchAM(50);
+        scrapperSmartwatchAM.getAllSmartwatchAM(10);
 
         AmericanasScrapper scrapperTVAM = new AmericanasScrapper("https://www.americanas.com.br/busca/smart-tv?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=smart%20tv&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater'%2C'fixed'%3Afalse%7D&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater%7CTV'%2C'fixed'%3Afalse%7D&filter=%7B'id'%3A'condicao'%2C'value'%3A'novo'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
-        scrapperTVAM.getAllSmartTVAM(50);
+        scrapperTVAM.getAllSmartTVAM(10);
 
         AmericanasScrapper scrapperPlacaDeVIdeoAM = new AmericanasScrapper("https://www.americanas.com.br/busca/placa-de-video?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=placa%20de%20video&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
         scrapperPlacaDeVIdeoAM.getAllPlacaDeVideoAM(20);

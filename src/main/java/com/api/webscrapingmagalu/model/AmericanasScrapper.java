@@ -8,7 +8,9 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.TimeZone;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -23,7 +25,9 @@ public class AmericanasScrapper {
     
     //throws IOException, InterruptedException 
     String baseUrl = "";
-    DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+    
+    DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy");
+    
     Date date = new Date();
 
     public AmericanasScrapper(String url){
