@@ -5,13 +5,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.api.webscrapingmagalu.model.MagaluScrapper;
-
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -32,11 +28,11 @@ public class WebScrapingMagaluApplication {
 
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
-    FileWriter write = new FileWriter("MagaluTv.txt", true);
+    FileWriter write = new FileWriter("MagaluSmartwatch.txt", true);
 
      for (int j = 1; j <= 17; j++) {
 
-         String url = "https://www.magazineluiza.com.br/busca/notebook/?page="+j;
+         String url = "https://www.magazineluiza.com.br/busca/smart+watch/?page="+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
 
            // Pegar todos os cards de detalhes de produtos da página.
@@ -106,7 +102,7 @@ public class WebScrapingMagaluApplication {
          //       e.printStackTrace();
         //    }   
     //     // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(5);
+         TimeUnit.SECONDS.sleep(6);
         }
         write.close();
      
