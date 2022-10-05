@@ -124,6 +124,6 @@ public class WebScrapingMagaluApplication {
         //     TimeUnit.SECONDS.sleep(10);
         // }
     }
-}
 
+}
 
