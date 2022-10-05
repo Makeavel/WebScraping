@@ -5,6 +5,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.api.webscrapingmagalu.model.MagaluScrapper;
+
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -23,9 +25,22 @@ public class WebScrapingMagaluApplication {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
-    //MagaluScrapper scrapper = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+tv/?page=");
-    //scrapper.getAllSmartTV(1);
+    MagaluScrapper scrapperTV = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+tv/?page=");
+    scrapperTV.getAllSmartTV(17);
 
+    MagaluScrapper scrapperSmartphone = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smartphone/?page=");
+    scrapperSmartphone.getAllSmartphone(17);
+
+    MagaluScrapper scrapperNotebook = new MagaluScrapper("https://www.magazineluiza.com.br/busca/notebook/?page=");
+    scrapperNotebook.getAllNotebook(17);
+
+    MagaluScrapper scrapperWatch = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+watch/?page=");
+    scrapperWatch.getAllSmartwatch(17);
+
+    MagaluScrapper scrapperPlacaVideo = new MagaluScrapper("https://www.magazineluiza.com.br/busca/placa+de+video/?page=");
+    scrapperPlacaVideo.getAllPlacaDeVideo(17);
+
+    /*
     DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
     Date date = new Date();
     FileWriter write = new FileWriter("MagaluSmartwatch.txt", true);
@@ -105,7 +120,7 @@ public class WebScrapingMagaluApplication {
          TimeUnit.SECONDS.sleep(6);
         }
         write.close();
-     
+     */
     //for (int i = 1; i <= 44; i++) {
         // Kabum
     //    String url = "https://www.kabum.com.br/celular-smartphone/smartphones?page_number=" + i + "&page_size=100&facet_filters=&sort=most_searched";
