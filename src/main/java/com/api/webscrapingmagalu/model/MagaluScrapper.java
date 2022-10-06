@@ -33,7 +33,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("MagaluTV1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluTV1.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -110,7 +110,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("MagaluPlacaDevideo1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluPlacaDevideo1.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -187,7 +187,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("MagaluNotebook1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluNotebook1.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -264,7 +264,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("MagaluSmartphone1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone1.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -341,7 +341,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("MagaluSmartwatch1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartwatch1.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
