@@ -37,7 +37,7 @@ public class AmericanasScrapper {
     public List<Map<String, String>> getAllSmartphoneAM(int pages) throws IOException, InterruptedException {
         // Array para armazenar os produtos.
         List<Map<String, String>> allProducts = new ArrayList<>();
-        FileWriter writer = new FileWriter("AmericanasSmartphone.txt" , true);
+        FileWriter writer = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartphone.txt" , true);
         for (int i = 1; i <= pages; i++) {
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
@@ -124,7 +124,7 @@ public class AmericanasScrapper {
     public List<Map<String, String>> getAllNotebookAM(int pages) throws IOException, InterruptedException {
         // Array para armazenar os produtos.
         List<Map<String, String>> allProducts = new ArrayList<>();
-        FileWriter writer = new FileWriter("AmericanasNotebook.txt" , true);
+        FileWriter writer = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/AmericanasNotebook.txt" , true);
         for (int i = 1; i <= pages; i++) {
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
@@ -211,7 +211,7 @@ public class AmericanasScrapper {
     public List<Map<String, String>> getAllSmartTVAM(int pages) throws IOException, InterruptedException {
         // Array para armazenar os produtos.
         List<Map<String, String>> allProducts = new ArrayList<>();
-        FileWriter writer = new FileWriter("AmericanasTV.txt" , true);
+        FileWriter writer = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/AmericanasTV.txt" , true);
         for (int i = 1; i <= pages; i++) {
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
@@ -298,7 +298,7 @@ public class AmericanasScrapper {
     public List<Map<String, String>> getAllSmartwatchAM(int pages) throws IOException, InterruptedException {
         // Array para armazenar os produtos.
         List<Map<String, String>> allProducts = new ArrayList<>();
-        FileWriter writer = new FileWriter("AmericanasSmartwatch.txt" , true);
+        FileWriter writer = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartwatch.txt" , true);
         for (int i = 1; i <= pages; i++) {
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
@@ -385,7 +385,7 @@ public class AmericanasScrapper {
     public List<Map<String, String>> getAllPlacaDeVideoAM(int pages) throws IOException, InterruptedException {
         // Array para armazenar os produtos.
         List<Map<String, String>> allProducts = new ArrayList<>();
-        FileWriter writer = new FileWriter("AmericanasPlacaDeVideo.txt" , true);
+        FileWriter writer = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/AmericanasPlacaDeVideo.txt" , true);
         for (int i = 1; i <= pages; i++) {
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
