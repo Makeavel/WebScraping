@@ -33,7 +33,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluTV1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluTV.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -100,7 +100,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(6);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
@@ -110,7 +110,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluPlacaDevideo1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluPlacaDevideo.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -177,7 +177,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(6);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
@@ -187,7 +187,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluNotebook1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluNotebook.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -254,7 +254,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(6);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
@@ -264,9 +264,9 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone.txt", true);
 
-     for (int j = 1; j <= pages; j++) {
+     for (int j = 5; j <= 5; j++) {
 
          String url = "https://www.magazineluiza.com.br/busca/smartphone/?page="+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
@@ -331,7 +331,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(6);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
@@ -341,7 +341,7 @@ public class MagaluScrapper {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
-        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartwatch1.txt", true);
+        FileWriter write = new FileWriter("src/main/java/com/api/webscrapingmagalu/files/MagaluSmartwatch.txt", true);
 
      for (int j = 1; j <= pages; j++) {
 
@@ -408,7 +408,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(6);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
