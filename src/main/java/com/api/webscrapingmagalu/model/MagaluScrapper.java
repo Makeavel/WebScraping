@@ -37,7 +37,7 @@ public class MagaluScrapper {
 
      for (int j = 1; j <= pages; j++) {
 
-         String url = "https://www.magazineluiza.com.br/busca/smart+tv/?page="+j;
+         String url = this.baseUrl+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
 
            // Pegar todos os cards de detalhes de produtos da página.

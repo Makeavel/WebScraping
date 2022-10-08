@@ -15,7 +15,7 @@ public class WebScrapingMagaluApplication {
         MagaluScrapper scrapperTVMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+tv/?page=");
         scrapperTVMG.getAllProductMagalu(17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluTV.txt");
 
-       MagaluScrapper scrapperSmartphoneMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smartphone/?page=");
+        MagaluScrapper scrapperSmartphoneMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smartphone/?page=");
         scrapperSmartphoneMG.getAllProductMagalu(17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone.txt");
 
         MagaluScrapper scrapperNotebookMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/notebook/?page=");
