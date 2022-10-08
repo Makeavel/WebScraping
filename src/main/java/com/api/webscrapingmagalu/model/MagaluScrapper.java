@@ -97,7 +97,7 @@ public class MagaluScrapper {
          });
 
          // Imprime o fechamento do divisor de páginas pulando uma linha
-         System.out.println("\n***************************** FIM PÁGINA " + j + " ********************************\n");
+         System.out.println("\n***************************** FIM PÁGINA " + j + " Magalu ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
          TimeUnit.SECONDS.sleep(7);

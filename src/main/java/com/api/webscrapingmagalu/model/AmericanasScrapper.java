@@ -37,7 +37,7 @@ public class AmericanasScrapper {
         List<Map<String, String>> allProducts = new ArrayList<>();
         FileWriter writer = new FileWriter(route , true);
         for (int i = 1; i <= pages; i++) {
-            
+
             System.out.println("Fetching the following URL: " + this.baseUrl + ((i-1)*24) + "\n");
             Document doc = Jsoup
                     .connect(this.baseUrl + ((i - 1) * 24))
@@ -109,7 +109,7 @@ public class AmericanasScrapper {
             });
 
             // Imprime o fechamento do divisor de páginas pulando uma linha
-            System.out.println("\n***************************** FIM PÁGINA " + i + " ********************************\n");
+            System.out.println("\n***************************** FIM PÁGINA " + i + " Americanas ********************************\n");
 
             allProducts.addAll(products);
 
