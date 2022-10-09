@@ -29,13 +29,13 @@ public class MagaluScrapper {
         this.baseUrl = url;
     }
 
-    public List<Map<String, String>> getAllProductMagalu (int pages , String route) throws IOException, InterruptedException {
+    public List<Map<String, String>> getAllProductMagalu (int inicio , int pages , String route) throws IOException, InterruptedException {
         
         DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         Date date = new Date();
         FileWriter write = new FileWriter(route, true);
 
-     for (int j = 1; j <= pages; j++) {
+     for (int j = inicio; j <= pages; j++) {
 
          String url = this.baseUrl+j;
          Document doc = Jsoup.connect(url).timeout(30000).get();
