@@ -83,12 +83,12 @@ public class MagaluScrapper {
          counter.set(0);
          products.forEach(prod -> {
     //         // Printamos cada produto formatado como desejado.
-            System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date));
             try {
                 write.write((prod.get("productName") + " ; " + prod.get("productPrice") + " ;  Data: " + dateFormat.format(date) + " \n"));
             } catch (IOException e) {
                 e.printStackTrace();
             }   
+            System.out.println("Produto " + (counter.get()+1) + ": " + prod.get("productName") + " || " + prod.get("productPrice") + " || Data: " + dateFormat.format(date));
             
     // Incrementamos o contador.
              counter.set(counter.get() + 1);
