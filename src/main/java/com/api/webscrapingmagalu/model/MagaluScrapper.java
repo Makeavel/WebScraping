@@ -100,7 +100,7 @@ public class MagaluScrapper {
          System.out.println("\n***************************** FIM PÁGINA " + j + " Magalu ********************************\n");
   
         // Aguardar 5 segundos antes de prosseguir para a próxima repetição
-         TimeUnit.SECONDS.sleep(9);
+         TimeUnit.SECONDS.sleep(7);
         }
         write.close();
         return null;
