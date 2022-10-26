@@ -11,7 +11,7 @@ public class WebScrapingMagaluApplication {
     public static void main(String[] args) throws IOException, InterruptedException {
 
 
-//              -----------------------  Lojas Americanas  --------------------
+//*               -----------------------  Lojas Americanas  --------------------
         AmericanasScrapper scrapperSmartphoneAM = new AmericanasScrapper("https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/g/tipo-de-produto-Celular/tipo-de-produto-Iphone/tipo-de-produto-Smartphone?chave=pfm_hm_tt_1_0_smartphone&viewMode=grid&limit=24&offset=");
         scrapperSmartphoneAM.getAllProductAM(1, 20 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartphone.txt");
 
