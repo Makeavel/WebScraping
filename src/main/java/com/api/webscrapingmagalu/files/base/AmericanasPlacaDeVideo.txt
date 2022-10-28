@@ -11019,3 +11019,480 @@ Placa de video Gainward nvidia rtx2060 12gb ghost gddr6 192bits - ne62060018k9-1
 Placa de Vídeo Galax Geforce rtx 2060 oc Dual 6GB GDDR6 192Bit 26NRL7HPX7OC ; R$ 5.030,12 ;  Data: 27-10-2022
 Placa de Vídeo Zotac nvidia GeForce rtx 3060 Twin Edge oc, 12GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-A30600H-10M ; R$ 4.077,67 ;  Data: 27-10-2022
 Placa de video amd radeon rx 550 4GB GDDR5 128 bits dual-fan graffiti series - PJRX550DR5128B ; R$ 931,82 ;  Data: 27-10-2022
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 799,00 ;  Data: 28-10-2022
+Placa de Video Gainward GeForce gtx 1660 Super Pegasus 1785MHz ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.199,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus tuf Gaming GeForce gtx 1660 Super 6GB GDDR6 192Bit TUF-GTX1660S-O6G-GAMING ; R$ 2.237,53 ;  Data: 28-10-2022
+Placa de Vídeo xfx amd rx 6600 8Gb GDDR6 Speedster Swft210 RX66XL8LFDQ ; R$ 2.085,56 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Afox GeForce gt 610 1GB DDR3 64Bits ; R$ 250,00 ;  Data: 28-10-2022
+Placa de Vídeo Afox Nvidia Geforce GT730 4GB DDR3 128 bits ; R$ 535,00 ;  Data: 28-10-2022
+Placa de Vídeo Duex amd Radeon rx 550, 4GB, DDR5 - DXRX5504GB ; R$ 599,99 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa De Video Pci Nvidia Geforce Hdmi Vga Dvi Dex Gt-210 ; R$ 208,95 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 nb duo lhr-v 12GB GDDR6 192bit ; R$ 2.799,00 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 799,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia PcYes GeForce G210 1GB DDR3 64 Bits - PAKG2101GBDR3SF ; R$ 215,35 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Advanced oc lhr-v 12GB GDDR6 192bit ; R$ 2.879,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward nvidia GeForce rtx 3060 Ghost, 12GB, GDDR6, lhr, 192 Bits, hdmi/dp - NE63060019K9-190AU ; R$ 2.888,78 ;  Data: 28-10-2022
+Placa de Vídeo PCI-Express 2.0 DDR5 1GB hdmi/vga/dvi 1024MB ; R$ 410,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Galax Rtx 3060 12Gb 1 Click o. C ; R$ 3.412,50 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 4.567,40 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Afox Geforce Gt 210 1gb Ddr3 64 Bits Vga Dvi Hdmi Af210-1024d3l5-v2 ; R$ 216,84 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gt 1030 2GB GDDR4 64bit V5-V ; R$ 549,00 ;  Data: 28-10-2022
+Placa de Video 4Gb GT730 Ddr3 128bits Vga/Hdmi/Dvi AKN730D3S4GL1 Arktek ; R$ 499,90 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 799,00 ;  Data: 28-10-2022
+Placa De Vídeo Pcyes Radeon Rx550, 4Gb, Gddr5, 128 Bits, Graffiti Series - Pajrx550Dr5Df ; R$ 1.417,50 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia Geforce rtx 2060 Plus 1-Click oc 6GB GDDR6 hdmi/dp/dvi 26NRL7HP68CX ; R$ 2.222,11 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce gtx 1660 ti 1 Click oc 6GB GDDR6 192 Bits dp/hdmi/dvi 60IRL7DSY91C ; R$ 2.267,67 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3050 Ex 1-click Oc Lhr 8gb Gddr6 128 Bits - 35nsl8md6yex Preto ; R$ 2.029,00 ;  Data: 28-10-2022
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 799,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce rtx 3060 1-Click oc 12GB GDDR6 lhr 192 Bits hdmi/dp 36NOL7MD1VOC ; R$ 2.888,78 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 2060 Super nb V2-V 8GB GDDR6 256bit ; R$ 2.599,00 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gtx 1660 Super nb V2-V 6GB GDDR6 192bit ; R$ 1.749,00 ;  Data: 28-10-2022
+Placa de Vídeo msi Nvidia rtx 3080 10Gb GDDR6x Ventus 3x Plus 912-V389-263 ; R$ 6.454,29 ;  Data: 28-10-2022
+Placa de Vídeo PCYes amd Radeon R7 240, 4GB, GDDR5 - PJ240R71284GD5 ; R$ 689,89 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3070 Ultra W oc lhr-v 8GB GDDR6 256bit ; R$ 4.499,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Ultra W oc lhr-v 12GB GDDR6 192bit ; R$ 2.879,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Ti Vulcan oc lhr 8GB GDDR6 256bit ; R$ 3.799,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce rtx 4090 Phantom Gainward 24Gb GDDR6X 384Bits NED4090019SB-1020P ; R$ 16.839,90 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 3050 Ultra W oc 8GB-V ; R$ 2.109,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 4.567,40 ;  Data: 28-10-2022
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 799,00 ;  Data: 28-10-2022
+Placa De Vídeo Rtx 3070 Ti, Gainward, 8 Gb, Phoenix, Gddr6X, Rgb ; R$ 5.155,40 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3070 Bilibili E-sports Edition oc lhr-v 8GB GDDR6 256bit ; R$ 4.499,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3070 Ti Ultra W oc -v 8GB GDDR6X 256bit ; R$ 4.769,00 ;  Data: 28-10-2022
+Placa Video Colorful GeForce rtx 3050 nb 8G ex-v ; R$ 2.499,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Bilibili E-sports Edition oc lhr-v 12GB GDDR6 192bit ; R$ 2.879,00 ;  Data: 28-10-2022
+Placa De Video Msi Rtx 2060 Ventus Gp 6g Ddr6 194 Bits Hdmi/3x Displayport ; R$ 3.299,00 ;  Data: 28-10-2022
+Placa De Vídeo Asus Nvidia Geforce Dual Rtx3060 12Gb V2 ; R$ 4.399,50 ;  Data: 28-10-2022
+Placa de Vídeo Power Color Radeon RX 580 8GB Red Dragon 256Bit GDDR5 8GBD5-DHDV2/OC ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de Video Gigabyte nvidia GeForce gtx 1650 oc Dual, 4GB, GDDR5, 128Bit, GV-N1650OC-4GD ; R$ 1.733,20 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Bilibili E-Sports Edition 12GB GDDR6 192bit ; R$ 3.299,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3080 Ultra oc lhr-v 10GB GDDR6X 320bit ; R$ 6.999,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce rtx 4090 XLR-8 pny 24Gb GDDR6X 384Bits VCG409024TFXXPB1-O ; R$ 16.899,90 ;  Data: 28-10-2022
+Placa De Video Galax Nvidia Geforce Rtx 3060 Ti Lhr 8Gb ; R$ 3.464,90 ;  Data: 28-10-2022
+Placa de Vídeo msi Gaming Z Trio 12GB GeForce RTX3060 GDDR6 / rgb - 912-V390-245 ; R$ 4.635,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax nvidia GeForce rtx 3070 ti 1-Click oc 8GB 256BITS GDDR6X hdmi/dp 37ISM6MD4COC ; R$ 4.988,77 ;  Data: 28-10-2022
+Placa de Vídeo PowerColor Fighter Radeon rx 6500 xt 4GB Pci Express 4.0 ; R$ 2.080,99 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce rtx 3060 ti 1-Click oc 8GB GDDR6 lhr hdmi/dp 36ISL6MD1VQW ; R$ 3.455,44 ;  Data: 28-10-2022
+Placa de Vídeo GTX1060 3GB 192Bit Nvidia Gamer - Placa Gráfica GeForce Veineda ; R$ 1.297,14 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Mini oc 12GB GDDR6 192bit ; R$ 3.499,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 2060 Super (1-Click Oc) V2 ; R$ 2.800,82 ;  Data: 28-10-2022
+Placa Vídeo amd Radeon RX580 Phantom Gaming Elite 8G Usada ; R$ 1.023,69 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx-550Ti 1Gb Ddr5 128Bits ; R$ 629,79 ;  Data: 28-10-2022
+Placa De Vídeo Xfx Radeon Rx 590 Fatboy Oc+ 8gb Rx-590p8dfd6 Gddr5 ; R$ 2.549,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 2060 Plus 1-Click Oc 6Gb ; R$ 2.120,90 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Gtx 1660 Super 6gb GDDR6 192-bit ; R$ 1.879,50 ;  Data: 28-10-2022
+Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ; R$ 7.898,26 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 2060 nb V2-V 6GB GDDR6 192bit ; R$ 1.979,00 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gtx 1050 ti ne 4GB GDDR5 128bit ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce rtx 3080 ti sg, 1 Click, oc, 12GB, GDDR6X, 384 Bits, lhr, rgb, hdmi e DisplayPort - 38IOM5MD99DD ; R$ 8.777,67 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Nvidia Geforce rtx 4090 24gb Phantom ; R$ 15.999,00 ;  Data: 28-10-2022
+Placa De Video Pci-e 8gb Rtx 3070 256bit Evga Xc3 Ultra Gaming Oc - 08g-p5-3755-kr ; R$ 3.998,00 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce rtx 3050 Dual, 8GB, GDDR6, lhr, 128 Bits, hdmi/dp - NE63050019P1-190AD ; R$ 2.844,33 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce RTX 3070 Ti Advanced OC 8GB GDDR6X 256bit ; R$ 5.099,00 ;  Data: 28-10-2022
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.299,00 ;  Data: 28-10-2022
+Placa De Vídeo Pc Geforce Gt710 2Gb Ddr3 64 Bits Nvidia Hdmi ; R$ 438,00 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.889,90 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Geforce Rtx 3060 Ghost 12Gb Gddr6 ; R$ 3.097,40 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming GeForce gtx 1660 Super Overclocked 6GB, hdmi dp dvi, GDDR6 - TUF-GTX1660S-O6G-GAMING ; R$ 2.156,75 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3080 Vulcan oc lhr-v 10GB GDDR6X 320bit ; R$ 6.999,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward Nvidia rtx 4090 Phantom 24 gb GDDR6X 384Bits - NED4090019SB-1020P ; R$ 16.665,50 ;  Data: 28-10-2022
+Placa de video Galax geforce rtx 2060 plus 1-click oc 6gb gddr6 192 bits - 26nrl7hp68cx ; R$ 2.378,60 ;  Data: 28-10-2022
+Placa De Video Galax Nvidia Geforce Rtx 3070 Oc 8gb Gddr6 256bit ; R$ 5.699,00 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gtx 1050 ti 4GB GDDR5 128bit ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa De Video Galax Geforce Rtx 3080 Hof, Lhr, 10gb, Gddr6x, Dlss, Ray Tracing, 38nwm3md3bjj ; R$ 17.299,16 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gt 710 1GB GDDR3 64bit ; R$ 349,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce gtx 1650 ex, 1 Click, oc, 4GB, GDDR6, 192 Bits, dvi, hdmi e DisplayPort - 65SQL8DS66E6 ; R$ 1.887,78 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Geforce rtx 2060 6GB GDDR6 dlss Ray Tracing GV-N2060D6-6GD ; R$ 2.699,90 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 2060 nb-v 6GB GDDR6 192bit ; R$ 4.099,00 ;  Data: 28-10-2022
+Placa De Video Gt 740 4gb Ddr5 128 Bits Pax740d54gb - 112494 ; R$ 799,00 ;  Data: 28-10-2022
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;  Data: 28-10-2022
+Placa De Vídeo Rx 580 8gb Asus Dual Oc Edition ; R$ 5.500,00 ;  Data: 28-10-2022
+Placa de Vídeo asus tuf Gaming V2 oc 12GB GeForce RTX3060 GDDR6 - TUF-RTX3060-012G-V2-GAMING ; R$ 5.580,00 ;  Data: 28-10-2022
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Nvidia Rtx 2060 - 12Gb, D6, 192Bits ; R$ 2.950,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3060 Ti Advanced oc lhr-v 8GB GDDR6 256bit ; R$ 5.249,00 ;  Data: 28-10-2022
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;  Data: 28-10-2022
+Placa de Vídeo Asus Tuf GeForce gtx 1650 oc Edition 4GB GDDR6 128 bits TUF-GTX1650-O4GD6-GAMING ; R$ 2.999,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward nvidia GeForce rtx 3060 ti Ghost V1, 8GB, GDDR6, lhr, 256 Bits, hdmi/dp - NE6306T019P2-190AB ; R$ 3.555,44 ;  Data: 28-10-2022
+Placa De Vídeo Galax Rtx 2060 12Gb Gddr6 192 Bit ; R$ 2.732,71 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Gtx 1660 6gb Gddr5 Oc 60srh7dsy91c ; R$ 3.166,10 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.889,90 ;  Data: 28-10-2022
+Placa De Vídeo Amd Radeon Rx 550, 4gb Gddr5 128bits ; R$ 1.129,00 ;  Data: 28-10-2022
+Placa de Vídeo evga GeForce rtx 3080 Ti FTW3 ultra gaming lhr, 12GB GDDR6X, argb led, Metal Backplate, dlss, Ray Tracing ; R$ 7.700,00 ;  Data: 28-10-2022
+Placa De Video Galax Nvidia Geforce Rtx 3060 Ti Lhr 8Gb ; R$ 3.430,82 ;  Data: 28-10-2022
+Placa de Vídeo evga nvidia GeForce rtx 3080 FTW3 Ultra Gaming 12GB GDDR6X hdmi/dp 12G-P5-4877-KL ; R$ 7.999,89 ;  Data: 28-10-2022
+Placa de Vídeo asus rog strix Gaming oc V2 10GB GeForce RTX3080 GDDR6 / lhr / rgb - ROG-STRIX-RTX3080-O10G-V2-GAMING ; R$ 10.990,00 ;  Data: 28-10-2022
+Placa de Vídeo Geforce Afox GT610 2GB DDR3 64BITS lp - AF610-2048D3L5 - 0075538-01 ; R$ 315,00 ;  Data: 28-10-2022
+Placa de vídeo Nvidia gtx 650 2gb 128gb GDDR5 Kllisre. ; R$ 659,99 ;  Data: 28-10-2022
+Placa de Vídeo Zotac GeForce rtx 3060 Twin Edge 12GB lhr GDDR6 192 bits ZT-A30600E-10M ; R$ 6.099,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1050 ti 1 Click oc 4GB ; R$ 1.417,50 ;  Data: 28-10-2022
+Placa De Video Gpu Radeon Rx 580 8Gb Ddr5 256Bits ; R$ 3.105,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward nvidia GeForce rtx 3070 ti Phoenix 8GB GDDR6X hdmi/dp NED307T019P2-1046X ; R$ 5.144,33 ;  Data: 28-10-2022
+Placa de Video Pcyes Radeon HD6570 4gb Ddr5 hdmi/dvi/vga ; R$ 535,90 ;  Data: 28-10-2022
+Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 Ti ; R$ 10.705,23 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 3070 Ti nb 8GB GDDR6X 256bit ; R$ 6.599,00 ;  Data: 28-10-2022
+Placa de Vídeo Palit GeForce rtx 3060 Dual oc lhr 12GB 192Bit GDDR6 NE63060T19K9-190AD ; R$ 5.699,00 ;  Data: 28-10-2022
+Placa De Vídeo Asus Gtx 1660 Super 90yv0dt0-M0na00 Ph-Gtx1660s-O6g 6gb Ddr6 ; R$ 1.999,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3080 Ti Vulcan oc-v 12GB GDDR6X 384bit ; R$ 12.999,00 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce rtx 3070 nb V2 lhr-v 8GB GDDR6 256bit ; R$ 4.099,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Nvidia Geforce Rtx 3080 Ti Sg 1 Click ; R$ 8.504,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce rtx 3070 Rog Strix Gigabyte 8Gb GDDR6 256Bits lhr ROG-STRIX-RTX3070-O8G-V2-GAMING ; R$ 6.399,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte nvidia GeForce gtx 1660, oc, 6GB, GDDR5, 192 Bits, hdmi/dp - GV-N1660OC-6GD ; R$ 1.999,89 ;  Data: 28-10-2022
+Placa de Vídeo Galax rtx 2060 Super 8GB dp/hdmi 26ISL6HP68LD ; R$ 2.800,82 ;  Data: 28-10-2022
+Placa De Video Afox Geforce Gt730, 4gb, DDR3, 128-Bit, Af730-4096d3l6 ; R$ 600,01 ;  Data: 28-10-2022
+Placa De Vídeo Palit nvidia GeForce gtx 1650 gp, 4GB, GDDR6, 128 Bits, hdmi/dp - NE6165001BG1-1175A ; R$ 1.733,22 ;  Data: 28-10-2022
+Placa de Vídeo Gainward Nvidia rtx 3080 10Gb Phoenix GDDR6x 320 Bits NED3080019IA132AX ; R$ 5.995,44 ;  Data: 28-10-2022
+Placa De Vídeo Asus Nvidia Geforce Dual Rtx3060 12Gb V2 ; R$ 4.378,55 ;  Data: 28-10-2022
+Placa de Video Galax GeForce rtx 2060 Plus, 1-Click oc, 12GB, GDDR6, dlss, Ray Tracing, 26NRL7HP68NC ; R$ 2.836,43 ;  Data: 28-10-2022
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.171,88 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.865,10 ;  Data: 28-10-2022
+Placa de video sapphire radeon rx 6600 xt pulse, 8GB, GDDR6, 128-BIT, 11309-03-20G ; R$ 2.599,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus Radeon rx 6600 8GB GDDR6 hdmi/dp DUAL-RX6600-8G ; R$ 2.777,67 ;  Data: 28-10-2022
+Placa de Vídeo PowerColor Radeon RX6800 Red Dragon, 16GB, GDDR6, AXRX6800 16GBD6-3DHR/OC ; R$ 9.999,00 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake ; R$ 5.562,99 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 2060 Plus 1-Click Oc 6Gb ; R$ 2.086,82 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx 1060 6gb Ssc Evga Gaming + nf ; R$ 2.190,00 ;  Data: 28-10-2022
+Geforce Gtx Performance Placa De Video Msi 912-v809-2272 Gtx 1050ti Oc 4gb Ddr5 128bit 7008mhz Dvi Hdmi Dp ; R$ 1.699,00 ;  Data: 28-10-2022
+Placa de Video Mancer GeForce gtx 1060, 3GB, GDDR5, 192-bit, MCR-10603GDDR5-V1 ; R$ 1.810,90 ;  Data: 28-10-2022
+Placa de Vídeo Colorful Geforce gt 1030 4gb Ddr4 hdmi/vga ; R$ 957,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3080 Rog Strix oc V2 10GB GDDR6X LHR RTX3080-O10G-V2-GAMING asus ; R$ 13.322,67 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte nvidia GeForce rtx 3050 Gaming oc, lhr, 8GB, GDDR6, dlss, Ray Tracing, GV-N3050GAMING OC-8GD ; R$ 2.980,57 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit axrx 580 8GBD5-DHDV2/OC PowerColor Red Dragon ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de Video Afox Geforce Gt220 1gb Ddr3 128-bit-af220 ; R$ 207,68 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx 1660 1 Click 6Gb Gddr5 192 Bits ; R$ 1.889,90 ;  Data: 28-10-2022
+Placa De Video 2gb Ddr3 Amd Radeon R5 220 Vga Hdmi Pc Gamer ; R$ 333,22 ;  Data: 28-10-2022
+Placa Vídeo Msi Geforce Rtx 3090 Ti Gaming X Trio 24Gb ; R$ 19.108,51 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Pny Geforce rtx 4090 Oc 24gb GDDR6x - VCG409024TFXXPB1-O ; R$ 17.999,00 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de Vídeo pny nvidia GeForce gtx 1650, 4GB, GDDR6, 128Bit, VCG16504D6DFPPB ; R$ 1.299,00 ;  Data: 28-10-2022
+Placa De Vídeo Amd Afox Radeon R5 220 2gb GDDR3 64-bit ; R$ 289,00 ;  Data: 28-10-2022
+Placa De Vídeo Amd Sapphire Pulse Radeon Series Rx 580 8Gb ; R$ 4.410,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus nvidia GeForce gtx 1650 tuf Gaming 4GB GDDR6 hdmi/dp/dvi TUF-GTX1650-4GD6-GAMING ; R$ 1.833,22 ;  Data: 28-10-2022
+Placa de video Galax geforce rtx 2060 plus 1-click oc 6gb gddr6 192 bits - 26nrl7hp68cx ; R$ 2.378,60 ;  Data: 28-10-2022
+Placa de Vídeo Sapphire nitro + RX6600XT oc, 8GB GDDR6, amd rdna 2 Architecture ; R$ 2.599,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus GeForce gtx 1050 Ti Dual oc cerberus 4GB GDDR5 128Bit CERBERUS-GTX1050TI-O4G ; R$ 2.149,90 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Geforce Rtx 3060 Ti Ghost 8Gb Gddr6 ; R$ 3.674,90 ;  Data: 28-10-2022
+Placa de Vídeo Asus nvidia GeForce tuf rtx 3080 0O10G V2 Gaming, 10GB GDDR6X, dlss, lhr, rgb, 19 Gbps, Ray Tracing, LED ; R$ 6.498,00 ;  Data: 28-10-2022
+Placa De Video Pci-e 12gb Gddr6 Palit Dual Oc Rtx 3060 ; R$ 5.441,55 ;  Data: 28-10-2022
+Placa de Vídeo Asus nvidia GeForce tuf gtx 1660 Super oc 6GB GDDR6 dp/hdmi/dvi TUF-GTX1660S-O6G-GAMING ; R$ 2.222,11 ;  Data: 28-10-2022
+Placa de video sapphire nitro amd radeon rx 6700 xt gaming oc 12 gb gddr6 1130 ; R$ 5.399,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia GeForce rtx 2060 super ghost 8GB GDDR6 pci-e 3.0 NE6206S018P2-1160X gainward ; R$ 3.030,57 ;  Data: 28-10-2022
+Placa de vídeo rx 550 4GB amd PowerColor Radeon Red Dragon ; R$ 999,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce gtx 1650 Ex 1 Click oc Galax 4Gb GDDR6 128Bits 65SQL8DS66E6 ; R$ 1.429,90 ;  Data: 28-10-2022
+Placa de Vídeo Galax Geforce GT1030 2GB DDR5 - 30NPH4HVQ4ST ; R$ 892,40 ;  Data: 28-10-2022
+Black Box - Placa De Video Nvidia Geforce Gtx 1660 Super Oc Gddr6 6gb 192 Bits Dual Fan - Pp1660soc19214g6 ; R$ 8.999,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce rtx 2060 Super Ghost Gainward 8Gb GDDR6 256Bits NE6206S018P2-1160X-1 ; R$ 2.699,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte nvidia Geforce gtx 1660 Super oc 6GB GDDR6 hdmi/dp GV-N166SOC-6GD ; R$ 2.199,89 ;  Data: 28-10-2022
+Placa Vídeo amd Radeon RX580 Phantom Gaming Elite 8G Usada ; R$ 1.040,26 ;  Data: 28-10-2022
+Placa De Vídeo Afox 4Gb Radeon R9 370 Gddr5 - Afr9370-4096D5H4 X ; R$ 960,00 ;  Data: 28-10-2022
+Placa de vídeo 4 gb gtx 1050-TI dual fan msi ; R$ 2.089,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte nvidia GeForce rtx 3050 Eagle 8GB GDDR6 dlss Ray Tracing GV-N3050EAGLE-8GD ; R$ 3.007,40 ;  Data: 28-10-2022
+Placa de Video Afox Geforce Gt610 1gb Ddr3 128-bit-af610 ; R$ 249,25 ;  Data: 28-10-2022
+Placa de Vídeo 8gb Rtx 3060ti Ex Galax Gddr6 36isl6md1wgg ; R$ 4.079,96 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 3060 ti Twin Edge oc, 8GB, GDDR6, 256 Bits, lhr, IceStorm 2.0, hdmi e DisplayPort - ZT-A30610H-10MLHR ; R$ 4.409,91 ;  Data: 28-10-2022
+Placa de Video Pci Express 2GB DDR3 64Bits Gt610 ; R$ 357,50 ;  Data: 28-10-2022
+Placa de video asus geforce rtx 3070 ti 8GB 256 bits - ROG-STRIX-RTX3070TI-O8G-GAMING ; R$ 7.899,78 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Gtx 1660 6gb 192-bits Gddr5 ; R$ 1.629,90 ;  Data: 28-10-2022
+Placa De Vídeo Amd Radeon Hd6570 4gb 128 Hdmi Gaming Edition ; R$ 549,90 ;  Data: 28-10-2022
+Placa de video GT730 4GB DDR3 128BITS vga dvi hdmi afox ; R$ 724,65 ;  Data: 28-10-2022
+Placa de Vídeo palit nvidia GeForce gtx 1050 ti stormx 4GB GDDR5 NE5105T018G1-1070F ; R$ 1.529,00 ;  Data: 28-10-2022
+Placa De Video Galax Nvidia Geforce Rtx 3060 Ti Lhr 8Gb ; R$ 3.464,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte 2GB R7 260X PCI-Exp ; R$ 1.249,50 ;  Data: 28-10-2022
+Placa de vídeo - nvidia GeForce rtx 3070 (8GB / pci-e) - gigabyte Vision oc - GV-N3070VISION OC-8GD ; R$ 5.558,82 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 3.979,00 ;  Data: 28-10-2022
+Placa de Vídeo gtx 1050 ti 1-click oc 4Gb DDR5 128 Bit ; R$ 2.430,00 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.900,71 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Quadro P5000 16GB Gddr5x 256-bit Cuda 2560 ; R$ 5.888,48 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3050 Ghost 8GB GDDR6 NE63050019P1-190AB gainward ; R$ 2.699,99 ;  Data: 28-10-2022
+Placa De Vídeo Gtx1660 6gb Gddr6 Superghost Geforce Gainward ; R$ 2.199,44 ;  Data: 28-10-2022
+Placa De Vídeo Zotac Nvidia Geforce Rtx 3090 Ti 24Gb Gddr6X ; R$ 16.516,40 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3050 Ex 1-click Oc Lhr 8gb Gddr6 128 Bits - 35nsl8md6yex Preto ; R$ 2.029,00 ;  Data: 28-10-2022
+Placa de Video gtx 1050 ti Galax 4 gb oc GDDR5 50IQH8DSQ3DD ; R$ 1.669,50 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Dex Geforce 700 Series Gtx 750 Ti GTX750TI 2gb ; R$ 957,00 ;  Data: 28-10-2022
+Placa de vídeo asus tuf nvidia rtx 3070 - 8GB, 256bits ; R$ 6.453,90 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 4.583,75 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce rtx 2060 Super 1-Click oc 8GB GDDR6 256Bit 26ISL6HP68LD ; R$ 2.942,72 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Aorus Amd Rx 6900Xt - 16Gb, 256Bits ; R$ 12.057,55 ;  Data: 28-10-2022
+Placa de Video msi nvidia GeForce rtx 3080 gaming Z trio 12GB, 384BIT, GDDR6X ; R$ 9.779,00 ;  Data: 28-10-2022
+Placa de Video Mancer Radeon rx 550, 4GB, GDDR5, 128-bit, MCR-RX5504GD5-V4 ; R$ 902,90 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 3090 ti amp Extreme Holo, 24GB, GDDR6X, 384 Bits, IceStorm 2.0, rgb, hdmi e DisplayPort - ZT-A30910B-10P ; R$ 15.988,78 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 3070 ti Trinity oc, 8GB, GDDR6X, 256 Bits, rgb, IceStorm 2.0, hdmi e DisplayPort - ZT-A30710J-10P ; R$ 6.211,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward nvidia GeForce rtx 3050 Ghost, 8GB, GDDR6, dlss, Ray Tracing- 63050019P1-190AB ; R$ 2.260,91 ;  Data: 28-10-2022
+Placa de Vídeo nvidia msi GeForce rtx 3070 ti 8GB DDR6 256 Bits - 912-V505-007 ; R$ 5.785,34 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Nvidia Geforce Gtx 1650 D6 0C 4G 4Gb ; R$ 2.088,45 ;  Data: 28-10-2022
+Placa de Video Galax Geforce rtx 3070 (1 Click oc) lhr 8GB GDDR6 256 bits - 37NSL6MD2KCH ; R$ 5.156,83 ;  Data: 28-10-2022
+Placa De Vídeo Galax, Geforce Rtx 3070 (1-click Oc), Lhr, 8gb, Gddr6, Dlss, Ray Tracing, 37nsl6md2kch ; R$ 5.270,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Revenger GeForce gtx 750 vga/hdmi 2GB ; R$ 762,49 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Eagle 8GB Radeon RX6600 GDDR6 - GV-R66EAGLE-8GD ; R$ 4.459,00 ;  Data: 28-10-2022
+Placa Vídeo Nvidia Quadro M5000, 8 Giga, 256 Bit, 2048 Cuda ; R$ 3.948,48 ;  Data: 28-10-2022
+Placa de Vídeo msi nvidia GeForce gtx 1660 super Ventus xs oc 6GB GDDR6 192Bits 912-V375-279 ; R$ 2.163,52 ;  Data: 28-10-2022
+Placa De Vídeo Gtx 1660 Super Msi 6Gb - 912-V375-467 ; R$ 1.993,95 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce gtx 1660 Super gp, 6GB, GDDR6, 192bit, NE6166S018J9-1160A-1 ; R$ 2.399,00 ;  Data: 28-10-2022
+Placa De Video Amd R7 240 128Bits Ddr5 2Gb Dex Pv-04A ; R$ 730,32 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Nvidia Geforce Gtx 1650 Oc Low Profile, 4GB, GDDR5 ; R$ 2.099,00 ;  Data: 28-10-2022
+Placa de Vídeo msi GeForce rtx 2060 Ventus gp oc Dual 6GB GDDR6 192Bit 912-V375-808 ; R$ 2.619,35 ;  Data: 28-10-2022
+Placa Vídeo Nvidia Quadro K4200 4GB Gddr5 256 Bits 1344 Cuda ; R$ 2.014,49 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce rtx 2060 Super 1-Click oc 8GB GDDR6 256 Bits dp/hdmi/dvi 26ISL6HP68LD ; R$ 2.899,00 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Geforce Afox Gt 730 4gb Ddr3 128-bits AF730-4096D3L6 ; R$ 549,90 ;  Data: 28-10-2022
+Placa de Vídeo evga sc Ultra Gaming 6GB GeForce GTX1660 Super GDDR6 - 06G-P4-1068-KR ; R$ 3.690,00 ;  Data: 28-10-2022
+Placa De Video Galax Geforce Gt 710 Passive 1gb Ddr3 71ggf4dc00wg ; R$ 372,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce Gamer 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;  Data: 28-10-2022
+Placa de Vídeo evga nvidia GeForce gtx 1660 sc Ultra Gaming 6GB, GDDR5 - 06G-P4-1067-KR ; R$ 2.299,89 ;  Data: 28-10-2022
+Placa de Video Geforce Gamer Gtx 650 Ti 1gb 128bits Gddr5 Hdmi Vga Dvi ; R$ 599,00 ;  Data: 28-10-2022
+Placa de Vídeo msi Gaming X Trio 24GB GeForce RTX3090 GDDR6X / rgb - 912-V388-054 ; R$ 18.600,00 ;  Data: 28-10-2022
+Placa de Vídeo msi Gaming X Trio 24GB GeForce RTX3090 GDDR6X - 912-V388-065 ; R$ 20.970,00 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Gt 710 1Gb Ddr3 64Bit 1600Mhz Dvi Hmdi ; R$ 460,95 ;  Data: 28-10-2022
+Placa de Video PowerColor Radeon rx 6400 Low Profile, 4GB, GDDR6, 64-bit, AXRX-6400-LP-4GBD6-DH ; R$ 1.783,98 ;  Data: 28-10-2022
+Placa De Video ColorFul G-C1030 V5 GT1030 2gb Ddr4 hdmi/vga ; R$ 790,90 ;  Data: 28-10-2022
+Placa de Video Galax NVIDIA GeForce RTX 2060 6GB, GDDR6 - 26NRL7HPX7OC ; R$ 2.709,90 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Pny Quadro T600 4Gb Gddr6 4x mDP ; R$ 1.699,00 ;  Data: 28-10-2022
+Placa de Video Asus rog Strix Geforce rtx 3080 oc Edition, lhr, 10GB, GDDR6X, 320bit, ROG-STRIX-RTX3080-O10G-V2-GAMING ; R$ 15.699,27 ;  Data: 28-10-2022
+Placa de Vídeo msi Ventus 3X oc 12GB GeForce RTX3060 GDDR6 - 912-V397-051 ; R$ 4.275,00 ;  Data: 28-10-2022
+Placa de video msi geforce gtx 1050 ti 4gb gaming x ; R$ 1.599,99 ;  Data: 28-10-2022
+Placa de Vídeo Geforce gt 420 2GB DDR3 AF4202048D3L2-V- Afox ; R$ 593,01 ;  Data: 28-10-2022
+Placa De Vídeo Asus Amd Radeon Rx 6600 Dual 8Gb Gddr6 ; R$ 2.989,82 ;  Data: 28-10-2022
+Placa de video Pcyes nvidia geforce gtx 1650 super 4gb gddr6 128 bits dual-fan graffiti sereis - pak1650s4gbdf ; R$ 2.070,60 ;  Data: 28-10-2022
+Placa De Video Asus Geforce Gtx1650 Tuf Gaming 4Gb Ddr6 128 ; R$ 1.572,32 ;  Data: 28-10-2022
+Placa video pcyes 3060TI 8GB 256BT GDDR6 ; R$ 4.800,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward GeForce rtx 3060 Ti 8GB GDDR6 ghost Series NE6306T019P2-190AB ; R$ 3.659,00 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 3050 Twin Edge oc, 8GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-A30500H-10M ; R$ 3.333,22 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Radeon rx 6500 xt Eagle, 4GB, GDDR6, fsr, Ray Tracing - GV-R65XTEAGLE-4GD ; R$ 2.278,80 ;  Data: 28-10-2022
+Placa De Vídeo Speedster Swft210 Amd Rx 6600 - 8Gb, 128Bits ; R$ 4.347,61 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce rtx 3070 ex lhr 8GB GDDR6 256-bit (1-Click oc) Ray Tracing 2 - 37NSL6MD2VXI ; R$ 5.318,74 ;  Data: 28-10-2022
+Placa de Vídeo PCYes rx 550 Radeon 4GB DDR5 128 Bits hdmi dvi vga PCI-Express X16 3.0 Graffiti Series - PJR550DR5128B ; R$ 949,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte GeForce gtx 1050 ti 4G GDDR5 128Bits ; R$ 1.637,90 ;  Data: 28-10-2022
+Placa De Video Pci-e 8gb Gddr6 Palit Gaming Pro Rtx 3070 ; R$ 5.280,83 ;  Data: 28-10-2022
+Placa de Video Nvidia GeForce gtx 1660 Ti 6GB GDDR6 VCG1660T6DFPPB1 pny ; R$ 2.497,70 ;  Data: 28-10-2022
+Placa De Vídeo Asus Geforce Rtx 3060 Ti Dual V2 Lhr Oc 8Gb ; R$ 6.985,13 ;  Data: 28-10-2022
+Placa de Vídeo msi GeForce rtx 3090 Ti Gaming X Trio 24GB GDDR6X, dlss, Ray Tracing, 384Bit, 912-V509-008 ; R$ 18.174,58 ;  Data: 28-10-2022
+Placa De Vídeo Galax Nvidia Geforce Rtx 3080 Ti Sg 1 Click ; R$ 8.470,82 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Gainward GeForce rtx 3050 lhr 8GB DDR6 192 Bits - 63050019P1-190AB ; R$ 2.782,35 ;  Data: 28-10-2022
+Placa de Vídeo Galax Geforce rtx 2060 Plus 1-click oc 6GB GDDR6 26NRL7HP68CX ; R$ 2.541,29 ;  Data: 28-10-2022
+Placa de vídeo gainward Phantom rtx 4090 - 24GB, GDDR6X, 384bits ; R$ 19.102,90 ;  Data: 28-10-2022
+Placa de Video msi Geforce rtx 3060 Gaming Z 3X 12GB GDDR6 - 912-V390-245 ; R$ 4.435,26 ;  Data: 28-10-2022
+Placa de video (gpu)rx 6600 8GB GDDR6 8GBD6-3DHL power color radeon ; R$ 3.169,49 ;  Data: 28-10-2022
+Placa de Vídeo Colorful GeForce gt 730 2GB DDR3 2GD3-V 64 Bit dvi vga hdmi PCI-Express ; R$ 618,44 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Revenger GeForce gtx 750 Ti hdmi 2GB ; R$ 894,99 ;  Data: 28-10-2022
+Placa De Video Asus Rx 550 Phoenix 4gb Gddr5 128bits Ph-rx550-4g-evo ; R$ 984,18 ;  Data: 28-10-2022
+Placa Vídeo Pcyes Gtx 1050 Ti 4Gb, Dual Fan, Gddr5, 128 Bits ; R$ 1.522,50 ;  Data: 28-10-2022
+Placa de Vídeo Gainward nvidia Geforce rtx 3090 Phoenix 24GB GDDR6X 384 Bits hdmi/dp NED3090019SB-132BX ; R$ 14.999,99 ;  Data: 28-10-2022
+Placa de Vídeo Arktek Cyclops Gaming 1GB GeForce GT730 DDR3 - AKN730D3S1GL1 ; R$ 578,00 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Nvidia Geforce Rtx 2060 D6 6g, Gddr6 - Gv-n2060d6-6gd ; R$ 2.487,75 ;  Data: 28-10-2022
+Placa De Vídeo Amd Randeon xfx rx 6600 8GB Gddr6 Speedster ; R$ 2.149,00 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming GeForce gtx 1650 4GB DDR6 - TUF-GTX1650-4GD6-GAMING ; R$ 2.158,85 ;  Data: 28-10-2022
+Placa de Vídeo Palit GeForce gtx 1650 gp oc 4GB 128Bit GDDR6 NE61650S1BG1-1175A ; R$ 2.440,00 ;  Data: 28-10-2022
+Placa de Video Asus GeForce rtx 3050 Dual oc Edition, lhr, 8GB, GDDR6, dlss, Ray Tracing, DUAL-RTX3050-O8G ; R$ 3.466,22 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce rtx 3050 Dual, lhr, 8GB, GDDR6, dlss, Ray Tracing, NE63050019P1-190AD ; R$ 3.562,92 ;  Data: 28-10-2022
+Black Box - Placa De Video Nvidia Geforce Gtx 1660 Dual Oc Gddr5 6gb 192 Bits Dual Fan - Pp1660oc19206g5 ; R$ 8.999,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3060 Dual 12GB GDDR6 rgb NE63060019K9-190AD palit ; R$ 4.427,70 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce gtx 1050 Ti StormX, 4GB, GDDR5, 128bit, NE5105T018G1-1070F ; R$ 1.413,19 ;  Data: 28-10-2022
+Placa De Vídeo Palit Rtx 3070 8 Gb Gamingpro Lhr Gddr6 - ; R$ 5.123,90 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Ti Lhr 1 Click 8Gb Preta ; R$ 5.249,90 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Geforce Nvidia Gtx1650 4Gb Ddr6 ; R$ 2.751,68 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3080 Advanced oc lhr-v 10GB GDDR6X 320bit ; R$ 12.499,00 ;  Data: 28-10-2022
+Placa de Video GeForce gtx 1650 4GB GDDR6 128bit - pny ; R$ 1.599,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus tuf Gaming GeForce gtx 1650 Super oc, 4GB, GDDR6 - TUF-GTX1650S-O4G-GAMING ; R$ 4.047,15 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce rtx 3080 Ti Advanced oc-v 12GB GDDR6X 384bit ; R$ 9.399,00 ;  Data: 28-10-2022
+Placa de video afox geforce GT610, 2GB, DDR3, 64-BIT, AF610-2048D3L5 ; R$ 293,78 ;  Data: 28-10-2022
+Placa de Vídeo nvidia GeForce rtx 3060 ti Ghost V1 8GB GDDR6 lhr NE6306T019P2-190AB V1 gainward ; R$ 5.200,92 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx-550Ti 1Gb Ddr5 128Bits ; R$ 629,79 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx-550Ti 1Gb Ddr5 128Bits ; R$ 696,50 ;  Data: 28-10-2022
+Placa De Video Asus Geforce Rtx 3050 Oc 8g Gddr6 128bits Dual-rtx3050-o8g ; R$ 3.499,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia rtx 3060 o. C 12GB GRRD6 192 Bits 36NOL7MD1VOC Galax ; R$ 4.315,75 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Galax Rtx 3060 12Gb 1 Click o. C ; R$ 6.824,90 ;  Data: 28-10-2022
+Placa de Video afox Geforce GT420 4GB DDR3 128 bits lp - hdmi - dvi - vga - AF420-4096D3L2 ; R$ 599,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Gainward GeForce rtx 3070 8GB DDR6 256 Bits - NE63070019P2-1041X ; R$ 5.320,34 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 4.533,32 ;  Data: 28-10-2022
+Placa de video pci-e 4GB 128BITS gtx 1650 DDR6 asus tuf / TUF-GTX1650-O4GD6-P-GAMING ; R$ 2.699,90 ;  Data: 28-10-2022
+Placa de Video Colorful Series GeForce rtx 3060 Ti nb duo LHR-V2 8GB GDDR6 256bit ; R$ 6.499,00 ;  Data: 28-10-2022
+Placa De Video Graphics 64bit Saidas De Video Dvi-d/hdmi/vga Kp-gt210 Kp-gt210 Knup ; R$ 315,00 ;  Data: 28-10-2022
+Placa De Vídeo Galax Nvidia Geforce Rtx 3060 (1-Click Oc), 15 Gbps, 12gb Gddr6 36nol7md1voc ; R$ 5.699,00 ;  Data: 28-10-2022
+Placa de Vídeo Palit GeForce gtx 1050 Ti StormX 4GB GDDR5 - NE5105T018G1-1070F ; R$ 1.499,90 ;  Data: 28-10-2022
+Placa de Vídeo Sapphire Pulse Raeon rx 580 8Gb Gddr ; R$ 5.336,00 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce rtx 3070 GamingPro, 8GB, GDDR6, 256 bits, lhr, hdmi/dp - NE63070019P2-1041A ; R$ 4.966,56 ;  Data: 28-10-2022
+Placa De Vídeo Gpu Gigabyte Rtx 3080 12Gb Gddr6X 384 Bits ; R$ 13.648,95 ;  Data: 28-10-2022
+Placa de Vídeo evga nvidia GeForce rtx 2060 sc Gaming, 6GB, GDDR6 - 06G-P4-2062-KR ; R$ 2.899,99 ;  Data: 28-10-2022
+Placa de Video Galax, GeForce, rtx 2060 Super V2, 1-Click oc, 8GB, GDDR6, 256Bit, 26ISL6HP68LD ; R$ 3.788,77 ;  Data: 28-10-2022
+Placa de Vídeo Nvidea GeForce rtx 3080 sg o. C lhr 10GB GDDR6X 38NWM3MD99RG galax ; R$ 8.366,78 ;  Data: 28-10-2022
+Placa de Video Afox GeForce GT730, 4GB, DDR3, 128-bit, AF730-4096D3L6 ; R$ 534,90 ;  Data: 28-10-2022
+Placa de Vídeo GeForce rtx 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X gainward ; R$ 6.160,57 ;  Data: 28-10-2022
+Placa de vídeo power color Hellhound amd Radeon rx 6600 8GB GDDR6 radeon - axrx 6600 8GBD6-3DHL ; R$ 4.499,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia rtx 3060 Ghost GD6 12GB GDDR6 pci-e 4.0 NE63060019K9-190AU gainward ; R$ 3.487,03 ;  Data: 28-10-2022
+Placa de Vídeo nvida GeForce G210 1GB DDR3 64 Bits PcYes ; R$ 233,39 ;  Data: 28-10-2022
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.199,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia PcYes GeForce gtx 1050 2GB DDR5 128 Bits - PA10502GBDF128 ; R$ 1.564,35 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming Geforce rtx 3070 Ti oc, lhr, 8GB, GDDR6X, 256Bit, TUF-RTX3070TI-O8G-GAMING ; R$ 9.999,90 ;  Data: 28-10-2022
+Placa de video RTX3060 12GB 1-CLICK oc GDDR6 192BITS galax 36NOL7MD1VOC ; R$ 4.199,00 ;  Data: 28-10-2022
+Placa de Video GT730 2Gb 128bit Vga/Hdmi/Dvi KP-GT730 Knup ; R$ 995,00 ;  Data: 28-10-2022
+Placa de vídeo asus rog nvidia rtx 3070 Ti - 8GB, 256bits ; R$ 10.841,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce RTX 3080 Phoenix 10GB GRRD6X NED3080019IA-132AX GAINWARD ; R$ 11.343,53 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Galax GeForce rtx 3070 8GB DDR6 256 Bits - 37NSL6MD2KCH ; R$ 5.354,34 ;  Data: 28-10-2022
+Placa de video xfx geforce 9400GT ; R$ 704,99 ;  Data: 28-10-2022
+Placa de Vídeo Pcyes Amd Radeon rx 550 4GB Dual Fan Graffiti GDDR5 - PAJRX550DR5DF ; R$ 1.099,99 ;  Data: 28-10-2022
+Placa De Vídeo Asus Tuf Rtx 3060 Oc V2 12Gb Gaming Lhr Gddr6 ; R$ 5.023,10 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Geforce Gt740 4gb Gddr5 4096 Mb 128 Bits Hdmi Dvi Vga Pci Express 3.0 Afox - Af740-4096d5h2-v2 ; R$ 1.178,00 ;  Data: 28-10-2022
+Placa De Video Amd R7 240 128Bits Ddr5 2Gb Dex Pv-04A ; R$ 757,04 ;  Data: 28-10-2022
+Placa De Vídeo afox nvidia GeForce GT610 2GB DDR3 64bits - AF610-2048D3L7-V8 ; R$ 399,99 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1650 ex 1-Click oc 4GB 128Bit GDDR6 65SQL8DS66E6 ; R$ 1.900,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia GeForce gtx 1660 Super 6GB GDDR6 pci-e 3.0 60SRL7DSY91S galax ; R$ 2.685,84 ;  Data: 28-10-2022
+Placa de Vídeo amd Power Color Radeon rx 6700 xt 12GB DDR6 192 Bits - axrx 6700XT 12GBD6-3 ; R$ 6.174,34 ;  Data: 28-10-2022
+Placa De Video Msi Nvidia Geforce Gtx 1050 Aero Itx 2gb Gddr5 128 Bits 912-v809-2455 ; R$ 1.605,90 ;  Data: 28-10-2022
+Placa De Video Gtx 550ti 1gb Ddr5 128bits 1500mhz Pci-e Pv-05 ; R$ 675,99 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Geforce gtx 1050TI 4GB DDR5 128Bits ; R$ 2.199,00 ;  Data: 28-10-2022
+Placa de Vídeo nvidia PcYes GeForce gtx 1660 ti 6GB DDR6 192 Bits - PA1660TI6GR6FS ; R$ 3.536,35 ;  Data: 28-10-2022
+Placa de Vídeo Colorful iGame Ultra White oc 12GB GeForce RTX3060 GDDR6 - RTX3060 ultra W oc 12G l-v ; R$ 5.661,00 ;  Data: 28-10-2022
+Placa de video Gainward GeForce rtx 3050 Pegasus, lhr, 8GB, GDDR6, dlss, Ray Tracing (NE63050019P1-190AE) ; R$ 2.699,00 ;  Data: 28-10-2022
+Placa de video nvidia GTX1650 4GB ex 1CLICK oc G5 128B galax 65SQL8DS66E6 - gpu gtx 1650 ; R$ 1.777,84 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Geforce Gtx 1650 4gb Ghost Gddr6 128-bits ; R$ 1.675,00 ;  Data: 28-10-2022
+Placa De Video Afox Geforce Gt210 1Gb Ddr3 64 Bits Lp - Hdmi - Dvi - Vga - Af210-1024D3L8 ; R$ 272,90 ;  Data: 28-10-2022
+Placa De Vídeo Pcyes Gt 740 4Gb Ddr5 128 Bits ; R$ 1.127,67 ;  Data: 28-10-2022
+Placa De Vídeo Radeon Power Color Rx 550 4Gb Red Dragon ; R$ 1.199,93 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce rtx 3050 ex 1-Click oc 8GB GDDR6 128-bit - 35NSL8MD6YEX ; R$ 3.237,04 ;  Data: 28-10-2022
+Placa de Video Palit Gtx 1050ti 4gb Ddr5 ; R$ 2.350,32 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1660 Ti 6GB GDDR6 oc 60IRL7DSY91C ; R$ 2.165,30 ;  Data: 28-10-2022
+Placa de Vídeo power color Radeon axrx 6600 8GB GDDR6 - axrx 6600 8GBD6-3DHL ; R$ 4.799,90 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Amd Rx6500Xt E - 4Gb, Gddr6, 128Bits ; R$ 2.786,13 ;  Data: 28-10-2022
+Placa de Video GeForce GTX 1050 ti 4GB Ddr5 Cerberus - Asus ; R$ 1.900,59 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce rtx 3060 12GB lhr - 1 Click oc 192 bits 36NOL7MD1VOC ; R$ 4.200,00 ;  Data: 28-10-2022
+Placa De Vídeo Afox Geforce Gt 740 4gb Gddr5 dvi/hdmi/vga ; R$ 916,90 ;  Data: 28-10-2022
+Placa de Vídeo nvidia GeForce GT420 4GB DDR3 128 Bits Espelho Low Profile afox - AF420-4096D3L2 - 0077002-01 ; R$ 762,20 ;  Data: 28-10-2022
+Placa De Vídeo Asus Amd Radeon Rx 6600 Dual 8Gb Gddr6 ; R$ 3.023,90 ;  Data: 28-10-2022
+Placa De Video Rx 550 4gb Gdd5 128 Bits ; R$ 1.129,00 ;  Data: 28-10-2022
+Placa de Vídeo amd Radeon rx 6600 xt 8GB Speedster swft 210 GDDR6 RX-66XT8DFDQ xfx ; R$ 3.284,69 ;  Data: 28-10-2022
+Placa de Video Gigabyte nvidia GeForce gtx 1660 Super oc Dual, 6GB, GDDR6, 192Bit, GV-N166SOC-6GD ; R$ 2.438,90 ;  Data: 28-10-2022
+Placa de Video Asus GeForce gtx 1050 Ti Dual oc cerberus, 4GB, GDDR5, 128Bit, CERBERUS-GTX1050TI-O4G ; R$ 2.053,58 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 2060, 6GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-T20600H-10M ; R$ 1.999,89 ;  Data: 28-10-2022
+Placa Vídeo Asus rtx 2060 6GB 192 Bits Dual-rtx2060-o6g-evo ; R$ 3.990,00 ;  Data: 28-10-2022
+Placa de Video Galax GeForce gtx 1650 ex 1-Click oc 4GB GDDR6 128Bit 65SQL8DS66E6 ; R$ 2.297,35 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming Geforce rtx 3080 ti oc, 12GB GDDR6X, 384bit, lhr, TUF-RTX3080TI-O12G-GAMING ; R$ 15.999,00 ;  Data: 28-10-2022
+Placa De Vídeo Msi Geforce Rtx 2060 6Gb Ventus Gp Oc Gddr6 - 912-V375-808 ; R$ 2.683,47 ;  Data: 28-10-2022
+Placa de Vídeo Palit GeForce rtx 3080 GamingPro lhr 10GB GDDR6X - NED3080019IA-132AA ; R$ 6.999,00 ;  Data: 28-10-2022
+Placa de vídeo Dazz Geforce GT730 2GB DDR3 64BIT Single Fan ; R$ 619,90 ;  Data: 28-10-2022
+Placa de Video Gigabyte Geforce RTX2060 12gb Ddr6 hdmi/dp ; R$ 3.247,90 ;  Data: 28-10-2022
+Placa De Video Asus Geforce Gtx 1660 Super Oc Tuf Edition 6 ; R$ 2.414,90 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Galax Gtx1660Ti 6Gb 1 Click Oc G6 192B ; R$ 2.204,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Afox Geforce Gtx 750 4gb DDR5 ; R$ 1.235,90 ;  Data: 28-10-2022
+Placa de Video Palit Gtx 1050ti 4gb Ddr5 ; R$ 2.176,22 ;  Data: 28-10-2022
+Placa de Vídeo amd Radeon rx 6600 Swft 210 8GB GDDR6 RX-66XL8LFDQ xfx ; R$ 2.888,17 ;  Data: 28-10-2022
+Placa De Vídeo Afox Geforce Gt1030 2Gb Ddr5 64 Bits Hdmi ; R$ 1.011,14 ;  Data: 28-10-2022
+Placa de Video Gainward GeForce rtx 3070 Phoenix gs 8GB, lhr, GDDR6 256Bits, NE63070S19P2-1041X V1 ; R$ 8.909,40 ;  Data: 28-10-2022
+Placa de video pci-e 8GB rtx 3060TI asus tuf oc V2 - TUF-RTX3060TI-O8G-V2-GAMING - lhr ; R$ 7.199,90 ;  Data: 28-10-2022
+Placa De Video Nvidea Geforce Gt 730 Ddr5 4gb 64bits Pc Yes ; R$ 853,90 ;  Data: 28-10-2022
+Placa De Vídeo Rtx2060 6gb Gddr6 1-click Oc Geforce Galax ; R$ 4.943,33 ;  Data: 28-10-2022
+Placa de vídeo galax nvidia rtx 3080 Ti sg - 12GB, 384bits ; R$ 10.841,90 ;  Data: 28-10-2022
+Placa De Vídeo Afox Radeon R5 220, 1Gb Hdmi/Dvi/Vga ; R$ 293,90 ;  Data: 28-10-2022
+Placa De Vídeo Galax Nvidia Geforce Gtx 1650 Ex (1-Click Oc), 4gb, Gddr6 - 65sql8ds66e6 ; R$ 2.559,00 ;  Data: 28-10-2022
+Placa de vídeo nvidia Quadro P1000 - pny VCQP1000V2-PB (4GB DDR5, PCIe 3.0 x16) ; R$ 3.829,40 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.889,90 ;  Data: 28-10-2022
+Placa de video asus geforce rtx 3050 oc edition 8GB GDDR6 - HDMI/3X displayport - DUAL-RTX3050-O8G ; R$ 2.599,99 ;  Data: 28-10-2022
+Placa de Video 1Gb GTX550TI Ddr5 128bit Vga/Dvi/Hdmi PV-05 dex ; R$ 615,75 ;  Data: 28-10-2022
+Placa De Vídeo Gtx1650 4Gb Ex 1Click Oc G6 128B Galax ; R$ 1.676,93 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3070 Phantom + 8GB GDDR6 NE63070019P2-1040M gainward ; R$ 5.586,84 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Nvidia Geforce Rtx 2060 D6 6G, Gddr6 ; R$ 4.647,96 ;  Data: 28-10-2022
+Placa de Vídeo asus tuf gaming Radeon rx 6900 xt, 16 Gbps, 16GB GDDR6 - TUF-RX6900XT-O16G-GAMING ; R$ 30.877,00 ;  Data: 28-10-2022
+Placa de Video Colorful iGame GeForce gtx 1660 Ti nb 6GB V2-V GDDR6 192bit ; R$ 3.999,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1050 Ti, 1 Click, oc, Dual, 4GB GDDR5, 128Bit 50IQH8DSQ3CC ; R$ 1.710,52 ;  Data: 28-10-2022
+Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 2060, 6GB, GDDR6 - ZT-T20600H-10M ; R$ 7.866,00 ;  Data: 28-10-2022
+Placa De Vídeo Palit Rtx 3050 8 Gb Lhr Dual Gddr6 - ; R$ 2.748,95 ;  Data: 28-10-2022
+Placa de video gigabyte geforce gtx 1050 ti D5 4GB GDDR5 128BITs GVN105TD54GD 11 ; R$ 2.579,99 ;  Data: 28-10-2022
+Placa de Vídeo Palit nvidia GeForce rtx 3090 GamingPro, 24GB GDDR6X, NED3090019SB-132BA ; R$ 23.430,00 ;  Data: 28-10-2022
+Placa de video G210 512MB DDR3 G210LP512MD3 duex ; R$ 194,79 ;  Data: 28-10-2022
+Placa de Video Galax Geforce GT 210 1gb Ddr3 64 Bits Dvi/hdmi/vga - LOW Profile - 21ggf4hi00np ; R$ 278,46 ;  Data: 28-10-2022
+Placa de vídeo msi nvidia GeForce rtx 3060 Ti ventus 2X oc V1, lhr, 8GB GDDR6, dlss, Ray Tracing (912-V397-232) ; R$ 4.550,00 ;  Data: 28-10-2022
+Placa de Vídeo asus 4GB GeForce GTX1050Ti GDDR5 - PH-GTX1050TI-4G ; R$ 2.350,00 ;  Data: 28-10-2022
+Placa de vídeo galax nvidia rtx 2060 Plus - 12GB, 192bits ; R$ 2.968,90 ;  Data: 28-10-2022
+Placa de Video Palit Geforce Rtx 3060 Ti 8gb Gddr6 256 Bits Lhr * - Ne6306t019p2-190ad V1 ; R$ 5.999,90 ;  Data: 28-10-2022
+Placa de Vídeo asus 2GB GeForce GT1030 GDDR5 - GT1030-2G-CSM ; R$ 999,00 ;  Data: 28-10-2022
+Placa De Vídeo Zotac Geforce Rtx 3070 Ti Trinity Oc 8Gb ; R$ 6.341,90 ;  Data: 28-10-2022
+Placa de video huananzhi nvidia geforce gtx 650 2GB GDDR5 128 bits ; R$ 929,90 ;  Data: 28-10-2022
+Placa de vídeo - nvidia GeForce rtx 3070 (8GB / pci-e) - msi Ventus 2X 8G oc lhr - G3070V2XCL ; R$ 4.941,16 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1660 Ti oc (1-Click oc) Dual, 6GB GDDR6, 192Bit, 60IRL7DSY91C ; R$ 2.817,13 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce rtx 2060 Plus, 1 Click, oc, 12GB, GDDR6, 192 Bits, hdmi/dp/dvi - 26NRL7HP68NC ; R$ 3.312,22 ;  Data: 28-10-2022
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake ; R$ 1.399,00 ;  Data: 28-10-2022
+Placa de Vídeo Gainward GeForce rtx 3090 Phantom + 24GB GDDR6X ; R$ 23.000,00 ;  Data: 28-10-2022
+Placa de Video Pci Express 4GB DDR3 128Bits Gt730 ; R$ 580,00 ;  Data: 28-10-2022
+Placa de Vídeo Galax GeForce gtx 1660 Ti oc (1-Click oc) Dual 6GB GDDR6 192Bit-60IRL7DSY91C ; R$ 2.427,49 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Rtx 3050 8Gb Lhr Gaming Oc Gddr6 ; R$ 3.154,81 ;  Data: 28-10-2022
+Placa de Vídeo Pcyes Geforce gt 740 4gb Ddr5 Hdmi/Vga/Dvi ; R$ 932,90 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte Gaming oc 12GB GeForce RTX3060 GDDR6 / rgb - GV-N3060GAMING OC-12GD ; R$ 4.500,00 ;  Data: 28-10-2022
+Placa De Video Hd 6570 4Gb Gddr5 128 Bits Single Fan ; R$ 681,45 ;  Data: 28-10-2022
+Placa De Vídeo 12GB pci Express Powercolor RX6700XT DDR6 ; R$ 12.511,89 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte rtx 3090 Turbo 24G GDDR6X 384 bit ; R$ 25.874,90 ;  Data: 28-10-2022
+Placa de vídeo nvidia Geforce GT610 2Gb dvi hdmi vga pci-e AF610-2048D3L7-V8(DDR3) - Low Profile ; R$ 349,99 ;  Data: 28-10-2022
+Placa de vídeo asus Dual nvidia rtx 3050 - 8GB, 128bits, oc ; R$ 2.999,90 ;  Data: 28-10-2022
+Placa de vídeo msi Ventus 2X nvidia rtx 3050 - 8GB, 128bits, oc ; R$ 2.323,90 ;  Data: 28-10-2022
+Placa de Vídeo gpu Galax rtx 3080 sg 10Gb GDDR6X 320 Bits ; R$ 7.999,00 ;  Data: 28-10-2022
+Placa de Video Colorful GeForce gt 1030 4GB 64bit ; R$ 699,00 ;  Data: 28-10-2022
+Placa de Video 12Gb RTX3060 Ddr6 192bit Hdmi/3xDisplayPort RTX-3060 Pegasus Gainward ; R$ 3.399,70 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Afox GeForce gtx 1650 4GB DDR6 128 Bits - AF1650-4096D6H1 ; R$ 1.777,35 ;  Data: 28-10-2022
+Placa De Video Pcyes Radeon rx 550 4gb Ddr5 hdmi/dp/dvi ; R$ 1.062,90 ;  Data: 28-10-2022
+Placa de Vídeo AFox GeForce gt 730, 4GB GDDR3, 128bits, dvi/hdmi/vga, AF730-4096d3l6 ; R$ 611,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Geforce Gtx550ti Ddr5 1gb Hdmi Vga Pci Express 2.0 Knup KP-GTX550TI ; R$ 549,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;  Data: 28-10-2022
+Placa de Video Nvidia Quadro - T600 4GB GDDR6 128 bits (4X mdp) - VCNT600-PORPB ; R$ 2.174,12 ;  Data: 28-10-2022
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;  Data: 28-10-2022
+Placa de video vga galax geforce gtx 1050 ti 1 click oc 4GB ; R$ 2.399,89 ;  Data: 28-10-2022
+Placa De Vídeo Afox Geforce Gt610 2Gb, Ddr3, 64 Bits ; R$ 336,71 ;  Data: 28-10-2022
+Placa de Video Amd Radeon HD 6570 4GB GDDR5 128 Bits Single Fan Gaming Edition ; R$ 607,90 ;  Data: 28-10-2022
+Placa De Vídeo Asus Phoenix Geforce Gtx 1650 Oc 4Gb Gddr6 ; R$ 3.149,90 ;  Data: 28-10-2022
+Placa de vídeo msi gtx 1050 ti 4GB oc GDDR5 128BIT ; R$ 1.860,00 ;  Data: 28-10-2022
+Placa de Vídeo Asus tuf rtx 3060 Oc V2 12GB Gaming lhr GDDR6 rgb - 90YV0GC0-M0NA10 ; R$ 5.899,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Pcyes Geforce Gtx 1050 2gb Ddr5 ; R$ 1.781,90 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming Geforce, rtx 3080 oc, lhr, 10GB, GDDR6X, dlss, Ray Tracing, TUF-RTX3080-O10G-GAMING V2 ; R$ 15.117,84 ;  Data: 28-10-2022
+Placa De Video Graphics 64bit Saidas De Video Dvi-d/hdmi/vga Kp-gt210 Kp-gt210 Knup ; R$ 299,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3050 Ghost 8GB GDDR6 NE63050019P1-190AB gainward ; R$ 2.978,13 ;  Data: 28-10-2022
+Placa De Video Radeon rx 6500 xt Eagle 4GB GDDR6 GV-R65XTEAGLE-4GD G10 gigabyte ; R$ 2.299,11 ;  Data: 28-10-2022
+Placa de Vídeo Asus GeForce rtx 3060 dual oc V2 lhr 12GB GDDR6 dlss Ray Tracing 90YV0GB2-M0NA10 ; R$ 3.798,31 ;  Data: 28-10-2022
+Placa de Vídeo nvidia PcYes GeForce rtx 2060 6GB DDR6 192 Bits - PA2060RTX6GDF ; R$ 2.531,35 ;  Data: 28-10-2022
+Placa De Vídeo Nvidia Zotac Gaming Geforce Gtx 16 Series Gtx 1660 Super Zt-t16620f-10l 6gb ; R$ 4.998,18 ;  Data: 28-10-2022
+Placa de Vídeo rx 550 4gb pci ex Dragon Power Color DDR5 ; R$ 1.524,22 ;  Data: 28-10-2022
+Placa de video GV-N3070EAGLE OC-8GD G20 gigabyte geforce rtx 3070 eagle oc 8GB GDDR6 ; R$ 5.106,00 ;  Data: 28-10-2022
+Placa de video asus nvidia geforce gtx 1650 4GB GDDR5 128 bits DUAL-GTX1650-4G ; R$ 1.608,75 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce Gamer 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;  Data: 28-10-2022
+Placa De Video Pci-e 4gb Gddr5 Afox Rx 560d Afrx560d-4096d5h4-v2 ; R$ 1.569,12 ;  Data: 28-10-2022
+Placa de Vídeo amd Radeon para Pc 2Gb Ddr5 Pci 3.0 200 Series R7 240 dex PV-04A ; R$ 729,80 ;  Data: 28-10-2022
+Placa de vídeo galax nvidia rtx 3060 Ti - 8GB, 256bits, oc ; R$ 4.130,90 ;  Data: 28-10-2022
+Placa de video amd radeon rx 550 4GB GDDR5 128 bits dual-fan graffiti series PJRX550DR5128B ; R$ 1.210,62 ;  Data: 28-10-2022
+Placa de vídeo asus Dual nvidia rtx 3060 Ti - 8GB, 256bits ; R$ 5.420,90 ;  Data: 28-10-2022
+Placa de Video 4Gb GTX1050Ti Ddr5 128bits Dvi/Dp/Hdmi GTX1050Ti Gainward ; R$ 1.518,25 ;  Data: 28-10-2022
+Placa De Vídeo Afox, Geforce Gtx 750 Ti, 4gb, Ddr5, 128bit, Af750ti-4096d5h1 ; R$ 1.571,22 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia rtx 3070Ti Phoenix 8GB GDDR6X pci-e 4.0 NED307T019P2-1046X gainward ; R$ 8.425,25 ;  Data: 28-10-2022
+Placa De Video Sapphire Radeon Rx 550 4gb Pulse Ddr5 128bits ; R$ 2.627,40 ;  Data: 28-10-2022
+Placa de Vídeo Afox GT220 1GB DDR3 128Bits Low Profile hdmi/dvi/vga - AF220-1024D3L2 ; R$ 234,61 ;  Data: 28-10-2022
+Placa de Vídeo Gainward - GeForce gtx 3060 Ti, 8GB GDDR6, ghost Series ; R$ 4.660,00 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia GeForce rtx 3060 Ti oc 8GB GDDR6 PCI-Ex 4.0 36ISL6MD1VQW galax ; R$ 3.470,45 ;  Data: 28-10-2022
+Placa de Vídeo AFOX G210 Geforce 1GB DDR3 HDMI DVI VGA Até 2 Monitores Low Profile - AF210-1024D3L8 ; R$ 365,00 ;  Data: 28-10-2022
+Placa De Vídeo Afox Nvidia Geforce Gt610 2Gb Ddr3 64Bits ; R$ 397,81 ;  Data: 28-10-2022
+Placa De Video Pcyes Geforce G210 1GB DDR3 64 Bits Com Low Profile - PA210G6401D3LP ; R$ 249,90 ;  Data: 28-10-2022
+Placa de vídeo powercolor Fighter amd rx 6600 - 8GB, 128bits ; R$ 2.839,90 ;  Data: 28-10-2022
+Placa de Vídeo Gainward Nvidia rtx 2060 8Gb Super Ghost GDDR6 256 Bits - NE6206S018P2-1160X-1 ; R$ 2.534,68 ;  Data: 28-10-2022
+Placa de Vídeo Galax nvidia GeForce gtx 1660 Ti 1-Click oc 6GB, GDDR6 ; R$ 1.999,90 ;  Data: 28-10-2022
+Placa de Vídeo Nvidia Revenger GeForce gt 740 hdmi DDR5 2GB ; R$ 612,49 ;  Data: 28-10-2022
+Placa de Video Asus ko NVidia Geforce rtx 3060 Ti V2 oc Gaming lhr, 8GB, GDDR6, 256bit, KO-RTX3060TI-O8G-V2-GAMING ; R$ 6.869,33 ;  Data: 28-10-2022
+Placa de Video Asus ko NVidia Geforce rtx 3060 Ti V2 oc Gaming lhr, 8GB, GDDR6, 256bit, KO-RTX3060TI-O8G-V2-GAMING ; R$ 6.869,33 ;  Data: 28-10-2022
+Placa De Vídeo Gigabyte Amd Rx6500Xt E - 4Gb, Gddr6, 128Bits ; R$ 2.820,21 ;  Data: 28-10-2022
+Placa de Vídeo ASRock Intel Arc A380 Challenger itx 6GB ; R$ 2.549,00 ;  Data: 28-10-2022
+Placa De Video Geforce Gtx 1660 1 Click 6Gb Gddr5 192 Bits ; R$ 1.855,82 ;  Data: 28-10-2022
+Placa de Vídeo nvidia GeForce GT420 4GB DDR3 128 Bits Espelho Low Profile afox - AF420-4096D3L2 - 0077002-01 ; R$ 757,05 ;  Data: 28-10-2022
+Placa De Vídeo Zotac Nvidia Geforce Rtx 3090 Ti 24Gb Gddr6X ; R$ 16.488,62 ;  Data: 28-10-2022
+Placa De Vídeo Galax Geforce Rtx 3070 Lhr 1 Click 8Gb Preta ; R$ 4.619,90 ;  Data: 28-10-2022
+Placa De Vídeo Nvida Geforce G210 1Gb Ddr3 64 Bits Pcyes ; R$ 243,23 ;  Data: 28-10-2022
+Placa De Vídeo Zotac Geforce Rtx 3070 Ti Trinity Oc 8Gb ; R$ 6.355,23 ;  Data: 28-10-2022
+Placa de Vídeo gtx 1050 ti 1-click oc 4Gb DDR5 128 Bit ; R$ 2.430,00 ;  Data: 28-10-2022
+Placa De Video Gigabyte Geforce Gtx 1660 Super 6Gb Windforce ; R$ 2.351,90 ;  Data: 28-10-2022
+Placa de Vídeo nvidia Gainward GeForce rtx 3060 12GB DDR6 192 Bits - NE63060019K9-190AU ; R$ 4.226,84 ;  Data: 28-10-2022
+Placa De Vídeo Amd Pcyes Radeon R5 200 Series R5 230 Pa230R5 ; R$ 546,00 ;  Data: 28-10-2022
+Placa de Video Asus Geforce rtx 3060 Ti dual oc, lhr, 8GB GDDR6, 256bit, DUAL-RTX3060TI-O8G-V2 ; R$ 6.802,92 ;  Data: 28-10-2022
+Placa de Video Asus tuf Gaming GeForce gtx 1650 4GB DDR6 - TUF-GTX1650-O4GD6-GAMING ; R$ 2.806,92 ;  Data: 28-10-2022
+Placa de Vídeo Zotac nvidia GeForce rtx 3080 ti Trinity oc, 12GB, GDDR6X, 384 Bits, IceStorm 2.0, rgb, hdmi e DisplayPort - ZT-A30810J-10P ; R$ 10.655,44 ;  Data: 28-10-2022
+Placa de Vídeo Gigabyte geforce rtx 2060 D6 6GB GDDR6 192BIT GV-N2060D6-6DG 2.0 ; R$ 2.800,00 ;  Data: 28-10-2022
+Placa De Vídeo Asus Nvidia Geforce Rtx 3070 Dual 8Gb Gddr6 oc - DUAL-RTX3070-O8G-V2 lhr ; R$ 7.999,90 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Nvidia Geforce Gt 710 2Gb Ddr3 ; R$ 553,20 ;  Data: 28-10-2022
+Placa De Vídeo Gainward Rtx 3060 12gb Ghost GDDR6 192-bit ; R$ 3.559,50 ;  Data: 28-10-2022
+Placa de vídeo pci-e 6GB gtx 1660 super DDR6 asus tuf gaming oc TUF-GTX1660S-O6G-GAMING ; R$ 4.499,90 ;  Data: 28-10-2022
+Placa de Vídeo gpu Gigabyte rtx 2060 Super 1 Click oc 8Gb ; R$ 3.149,00 ;  Data: 28-10-2022
+Placa De Vídeo Amd Powercolor Radeon Reddragon Rx 550 2Gb ; R$ 1.332,45 ;  Data: 28-10-2022
