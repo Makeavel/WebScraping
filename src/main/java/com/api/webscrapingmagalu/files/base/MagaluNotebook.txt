@@ -24954,3 +24954,998 @@ Notebook Acer Swift 3 SF314-59-75QC Intel I7 1165G7 / 8GB/ 256GB SSD/ 14.0" FHD/
 Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro MX 350 2GB 14" FHD 82NM0014BR Preto ; R$ 3.879,94 ;  Data: 28/10/2022 
 Notebook Lenovo IdeaPad3i 82BS0002BR Intel Core i3 - 4GB 1TB 15,6” LCD Windows 10 ; R$ 3.456,28 ;  Data: 28/10/2022 
 Notebook Lenovo Ultrafino IdeaPad 3i i3-10110U 8GB, 256 GB SSD, Windows 11 15.6" Câmera 720p com privacidade 82BS000QBR ; R$ 3.500,00 ;  Data: 28/10/2022 
+Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB SSD Windows 11 Pro 20TB002HBO Preto ; R$ 5.669,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 128GB SSD Linux 15.6" FHD 82MDS00600 ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook Vaio FE15 Intel Core i5 8GB 512GB - SSD 15,6” Full HD Windows 11 ; R$ 3.194,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion Intel Atom - 4GB 128GB eMMC 14,1” LED Windows 10 ; R$ 1.439,10 ;  Data: 29/10/2022 
+Notebook Compaq Presario 427 Intel Pentium N3700 - 4GB 240GB SSD 14,1” Linux ; R$ 1.394,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Intel Core i3 4GB - 256GB SSD 15,6” Full HD Windows 11 82MD000ABR ; R$ 2.294,10 ;  Data: 29/10/2022 
+Notebook Ultra Intel Celeron 4GB 120GB SSD - 14,1” HD Windows 11 UB230 ; R$ 1.394,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 500GB - 15,6” Full HD Windows 11 NP550XDA-KP1BR ; R$ 1.754,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Intel Celeron 4GB 128GB - SSD 15,6” Windows 11 + Office 365 82BU0008BR ; R$ 1.754,10 ;  Data: 29/10/2022 
+Notebook 2 em 1 Positivo DUO Intel N4020 4GB - 64GB eMMC Touch Screen 11,6” Full HD Windows 11 ; R$ 1.439,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i AMD Ryzen 5 8GB - 256GB SSD 15.6” Full HD Linux 82MFS00100 ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion C Intel Celeron Dual-Core - 4GB 120GB SSD 14” LED Windows 11 ; R$ 1.529,10 ;  Data: 29/10/2022 
+Notebook Ultra Intel Celeron 4GB 120GB SSD 14” - Full HD Windows 11 Microsoft 365 1TB Nuvem UB235 ; R$ 1.349,91 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Intel Core i3 - 8GB 256GB SSD 15,6” Full HD Windows 11 ; R$ 2.924,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Intel Pentium Gold - 4GB 128GB SSD 15,6” Full HD Windows 11 ; R$ 2.474,10 ;  Data: 29/10/2022 
+Notebook Vaio FE15 Intel Core i3 4GB 256GB SSD - 15,6” Full HD Windows 11 ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0500-MM10S 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Prata ; R$ 3.824,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo IdeaPad Gaming 3i Intel Core i5-10300H, GeForce GTX 1650, 8GB RAM, SSD 256GB, Tela 15.6 FHD, Linux, Azul - 82CGS00100 ; R$ 3.849,99 ;  Data: 29/10/2022 
+Notebook Intel Atom 2GB RAM 64GB Multilaser Legacy Cloud PC134 Windows 10 Home Cinza ; R$ 1.105,20 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-M10P 15.6" FHD 12ª Geração Intel Core i5 8GB 256GB SSD NVIDIA RTX 3050 Windows 11 ; R$ 6.380,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo IdeaPad Gaming 3i Intel Core - i5 8GB 512GB SSD 15,5” Full HD NVIDIA GTX 1650 ; R$ 4.139,10 ;  Data: 29/10/2022 
+Notebook Compaq Presario Intel Core i3 8GB - 240GB SSD 14,1” HD Linux 439 ; R$ 1.844,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 11 ; R$ 3.059,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-52-50RS Intel Core i5 Windows 11 Home 8GB 512GB SSD GTX 1650 17.3' ; R$ 4.409,10 ;  Data: 29/10/2022 
+Notebook Multilaser M11W Prime 2 em 1 Celeron N4020 11.6 64GB 4GB Win11 Home Prata + Microsoft 365 Personal - PC280 ; R$ 1.313,10 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0700-MM20P 15.6" FHD AMD Ryzen 7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11 ; R$ 8.378,10 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-BR2750 Intel Core i3 1005G1 4GB 256GB SSD Linux 15,6" LED-backlit Cinza ; R$ 2.124,15 ;  Data: 29/10/2022 
+Notebook HP Intel Core i5 8GB 256GB 15,6” - HD Windows 11 256 G8 ; R$ 3.104,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i3 4GB - 256GB SSD 15,6” Full HD Windows 11 NP550XDA-KV3BR ; R$ 2.294,10 ;  Data: 29/10/2022 
+Notebook Asus Intel Celeron 4GB 128 GB SSD - 15,6” Windows 11 ; R$ 1.979,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Core i3 8GB 256GB SSD - 15,6” Windows 11 A315-56-39UP ; R$ 2.564,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 256GB SSD - 15,6” Full HD Windows 11 NP550XDA-KP3BR ; R$ 1.889,10 ;  Data: 29/10/2022 
+Notebook HP Intel Core i3 8GB 256GB SSD 15,6” - HD Windows 11 256 G8 ; R$ 2.609,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Celeron 4GB - 128GB SSD 15,6” Windows 11 82BU0006BR ; R$ 1.754,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 11 Home ; R$ 2.924,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i3 4GB 256GB SSD - Full HD + Pacote Office 365 Personal 1 Ano Digital ; R$ 2.419,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3 8GB 512GB - LED 14” Full HD IPS Windows 11 A514-54-30JG ; R$ 2.789,10 ;  Data: 29/10/2022 
+Notebook Gamer Dell Gamer Dell G15 Intel Core i5 - 8GB 512GB SSD 15,6” Full HD NVIDIA GTX 1650 4GB ; R$ 4.589,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M10P 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto ; R$ 2.963,05 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-52TY Intel Core i5 11ª Gen Windows 11 Home 8GB 256GB SDD 14' Full HD ; R$ 2.969,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3I-15IGL Celeron 128GB SSD 4GB Windows 11 15.6" ; R$ 1.849,90 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook 11.6 Intel Celeron N4020 32GB eMMC 4GB Chrome OS ; R$ 1.699,20 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Intel Core i5 8GB - 256GB SSD 15,6” Full HD Windows 11 82MD0007BR ; R$ 2.969,10 ;  Data: 29/10/2022 
+Notebook Compaq Presario Intel Core i5 8GB - 240GB SSD 14,1” HD Linux 454 ; R$ 2.339,10 ;  Data: 29/10/2022 
+Notebook Positivo Intel Atom Quad Core 4GB 64GB eMMC Tela 14” Windows 10 Motion Q464C-O ; R$ 1.249,49 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i5 8GB - 1TB HD 256GB SSD Nvidia GTX 1650 4GB Windows 11 ; R$ 4.184,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i3 4GB - 256GB SSD 15,6” Windows 11 82BS000JBR ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i7 8GB 256GB SSD - 15,6” Full HD Windows 11 NP550XDA-KU1BR ; R$ 3.824,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5-1135G7 8GB 256GB SSD Intel Iris Xe Linux 15.6" FHD 82MDS00500 ; R$ 2.889,15 ;  Data: 29/10/2022 
+Notebook HP Intel Core i3 8GB 256GB SSD 15,6” - HD Windows 11 256 G8 ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-10210U, GeForce MX 250, 8GB RAM, 512GB SSD NVMe, 15.6 IPS FHD, Windows 11 Home, Prata - A515-54G-52FY ; R$ 3.399,99 ;  Data: 29/10/2022 
+Notebook Asus Intel Core i5 8GB 256GB SSD 15,6” - Full HD Windows 11 X515JA-EJ1792W ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Samsung Intel 8GB 256GB SSD Tela 15,6" Windows 11 ; R$ 2.799,00 ;  Data: 29/10/2022 
+Notebook Gamer AN515-55-79X0 Nitro 5 Intel Core i7 8GB 512GB Windows 11 10ºGer Acer ; R$ 5.352,03 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15.6” i1101-M60SB FHD 11ªger Intel Core i7 16GB 512GB SSD NVIDIA Geforce Windows 11 Mochila ; R$ 5.975,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3 R5-5500U 8GB 256GB SSD W11 15.6" 82MF000ABR + GARANTIA PREMIUM 2 ANOS ; R$ 2.706,42 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i7-10510U, 8GB RAM, 512GB SSD NVMe, Tela 15.6 IPS Full HD, Windows 11 Home, Prata - A515-54-74F9 ; R$ 3.699,99 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AMD Ryzen 7-4800H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6' Full HD IPS 144Hz, Win11 - AN515-44-R4KA ; R$ 5.299,99 ;  Data: 29/10/2022 
+Notebook ASUS M515DA-BR1213 AMD Ryzen 5 3500U 8GB 256GB SSD Endless OS 15,6" LED-backlit Cinza ; R$ 2.549,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Celeron 4GB 128GB SSD Linux Prata 82BUS00100 ; R$ 1.699,00 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1871 CELERON N4020 4GB 128GB SSD KeepOs (Linux) 14" HD Star Black ; R$ 1.576,17 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-54-57CS Intel Core i5 10ª Gen Windows 11 Home 8GB 256GB SDD 15.6' FHD ; R$ 3.239,10 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Cloud Intel Z8530 2GB RAM 32GB Windows 10 Home Tela 14" HD Grafite PC131 ; R$ 1.373,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 11a Geração 1135G7 4.20Ghz 8GB DDR4 Gráficos Intel Iris X 512GB SSD NVMe 15.6" Full HD Windows 11 A515-56-57LB ; R$ 3.561,50 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i3 4GB - 256GB SSD 15,6” Windows 11 82BS000JBR ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i7 8GB 512GB - 15,6” Full HD Linux A515-54-76NA ; R$ 4.229,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M40PP 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.157,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i5 8GB - 512GB SSD 15,6” Full HD IPS NVidia GTX 1650 4GB ; R$ 4.184,10 ;  Data: 29/10/2022 
+Notebook Samsung Intel 8GB 256GB SSD Tela 15,6" Windows 11 ; R$ 2.799,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i7-1165G7 8GB 256GB SSD Placa de Vídeo Intel Iris Xe Linux 15.6" ; R$ 3.581,07 ;  Data: 29/10/2022 
+Notebook 2 em 1 Positivo DUO C4128B Intel Celeron Dual-Core Windows 11 Home Full HD 11.6" Touchscreen - Cinza - Inclui Microsoft 365* ; R$ 1.529,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54G-59BT Intel Core i5 11ª Gen Windows 11 Home MX350 8GB 256GB SDD 14' ; R$ 4.499,10 ;  Data: 29/10/2022 
+Notebook ASUS E510MA-BR700X Intel Celeron Dual Core N4020 4GB 128GB W11 15,6" LED-backlit Branco ; R$ 1.699,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3-10110U, 4GB RAM, SSD 256GB NVMe, 15.6 Full HD Ultrafino, Windows 10 Home, Prata - A515-54-34LD ; R$ 2.899,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M10S 15.6” Full HD 11ª geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.445,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Core i3 11a Geração 4.10Ghz 8GB DDR4 SSD 512GB NVMe Tela 15.6" Full HD Gráficos Iris Xe Windows 11 A315-58-372M ; R$ 2.881,50 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1871 CELERON N4020 4GB 128GB SSD KeepOs (Linux) 14" HD Star Black ; R$ 1.576,17 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U10P 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Linux Preto ; R$ 2.801,55 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4128E Intel Celeron - 4GB 128GB SSD 14,1” LED Windows 10 + Office 365 ; R$ 1.574,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M60S 15.6” Full HD 11ª geração Intel Core i7 16GB 512GB SSD NVIDIA Geforce Windows 11 ; R$ 5.804,10 ;  Data: 29/10/2022 
+Notebook Ultra UB320 Intel Pentium - Quad-Core 4GB 120GB SSD 14,1” HD LCD UB320 ; R$ 1.529,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5-1135G7 8GB 256GB SSD W11 15.6" 82MD000JBR + GARANTIA PREMIUM 2 ANOS ; R$ 2.956,32 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-54-55T5 Intel Core i5 Windows 11 Home 8GB 512GB SSD GTX 1650 17.3' ; R$ 4.589,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion Red Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' Vermelho Inclui Microsoft 365* ; R$ 1.240,15 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook X513EA-BQ2782W Intel Core i5 1135G7 8GB 256GB SSD W11 15,6" LED-backlit Azul ; R$ 3.399,15 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Go 14" Full HD Snapdragon 8 núcleos 4GB 128GB SSD Windows 11 Professional NP340XLA-K05BR ; R$ 1.899,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i Intel Core I7-10510U, GeForce MX330, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11, Prata - 82BS000HBR ; R$ 4.089,99 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-BR2750W Intel Core i3 1005G1 4GB 256GB SSD W11 15,6" LED-backlit Cinza ; R$ 2.384,50 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Intel Core i5 8GB - 256GB SSD 15,6” Windows 11 82BS000GBR ; R$ 3.239,10 ;  Data: 29/10/2022 
+Notebook Legacy Intel Dual Core Windows 10 4Gb Tela Hd 14 Pol, Preto Multilaser - PC201 ; R$ 1.146,51 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-397J Intel Core i3 11ª Gen Windows 11 Home 8GB 256GB SDD 14' Full HD ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i5 8GB - 512GB SSD 15,6” Full HD IPS NVidia GTX 3050 4GB ; R$ 5.399,10 ;  Data: 29/10/2022 
+Notebook Intel Pentium 4GB RAM 500GB HDD Ultra UB322 Tela 14.1" HD Windows 10 Preto - Multilaser ; R$ 1.979,10 ;  Data: 29/10/2022 
+Notebook Intel Core i5 4GB RAM 256GB SSD Acer Aspire 5 A515-54-579S Full HD 15,6" Windows 10 Home ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i7-10750H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6' Full HD IPS 144Hz, Win11 - AN515-55-79X0 ; R$ 5.499,99 ;  Data: 29/10/2022 
+Notebook Positivo Motion Gray Intel Atom 4gb 64gb Q464C-O ; R$ 1.323,20 ;  Data: 29/10/2022 
+Notebook Tablet 2 em 1, Windows 11, Intel Celeron, 4 GB RAM, 128GB, Tela 11,6 Touch Screen, Microsoft 365 + Xbox Game Pass e 1TB na Nuvem - PC281 - Multilaser ; R$ 1.250,10 ;  Data: 29/10/2022 
+Notebook lenovo ideapad 3i i3-10110u/4gb/ssd256gb/15.6/wind.11 home/pta ; R$ 3.518,90 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4gb 64gb SSD Q464C-O ; R$ 1.249,49 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365* ; R$ 1.240,15 ;  Data: 29/10/2022 
+Notebook Dell Alienware m15 R7 AW15-i1200-M10P 15.6" QHD 12ª ger Intel Core i7 16GB 1TB SSD RTX 3070Ti Win 11 ; R$ 13.967,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3, Intel Celeron N4020, 4GB, 128GB SSD NVMe, 15,6", Windows 11 Home + 1 ano de Office 365, Preto - A315-34-C2BV ; R$ 1.849,90 ;  Data: 29/10/2022 
+Notebook Asus AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB, 15,6', Radeon Vega 8, Linux, Cinza - M515DA-BR1213 ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-54G-52FY Intel Core i5 10ª Gen Windows 11 Home MX250 8GB 512GB SDD 15.6' ; R$ 3.329,10 ;  Data: 29/10/2022 
+Macbook Air Apple 13.3, Processador M1, 8GB, SSD 256GB, Space Grey - MGN63BZ/A ; R$ 7.999,99 ;  Data: 29/10/2022 
+Notebook Intel Windows 11 Home 4GB 500GB Tela 15,6 Full HD LED NP550XDA-KP2BR Samsung ; R$ 2.221,02 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1873X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14" Dream White ; R$ 2.464,15 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3 R5-5600H 8GB 256GB SSD PCIe GTX 1650 4GB 15.6" FHD W11 82MJ0002BR - Lenovo ; R$ 4.414,07 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M40S 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.157,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i7 8GB - 1TB SSD 15,6” Full HD IPS NVidia GTX 1650 4GB ; R$ 5.669,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 128GB SSD Linux 15.6" FHD 82MDS00600 ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-BR3932W Core i3 4GB 128GB SSD Windows 11 15,6" Cinza ; R$ 2.209,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 I7-10510U 8Gb 512Gb A515-54-76Na ; R$ 4.890,60 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 I7-10510U 8Gb 512Gb A515-54-76Na ; R$ 5.152,86 ;  Data: 29/10/2022 
+Notebook Ultra UB423 Intel Core i3 4GB - 120GB SSD 14,1” Full HD LCD Linux ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-55-592C Intel Core i5 - 8GB 256GB SSD 15,6” LED Windows 10 ; R$ 3.689,10 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3i i7-11370H 16GB 512GB SSD GTX 1650 4GB 15.6" FHD WVA Linux 82MGS00100 - Lenovo ; R$ 5.439,15 ;  Data: 29/10/2022 
+Notebook ACER A515-45-R760 AMD RYZEN 7 5700U 8GB 256GB SSD 15,6" FULL HD WIN 11 Home - NX.AYDAL.00A ; R$ 5.435,45 ;  Data: 29/10/2022 
+Notebook Samsung Book S I5-L16G7/8GB/SSD256GB/W11H 13" NP767XCM-K03BR ; R$ 4.139,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M30P 15.6" Full HD 11ª Geração Intel Core i3 8GB 256GB SSD Windows 11 Preto ; R$ 3.780,05 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Celeron N4500, 4GB RAM, SSD 128GB, 14' Full HD, Windows 11 Pro, Prata - A314-35-C1W1 ; R$ 1.999,99 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 I7-10510U 8Gb 512Gb A515-54-76Na ; R$ 5.031,32 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-55-59T4 Intel Core i5-10300H 8GB 512GB Tela de 15,6 Polegadas Windows 11 Home 64-bits ; R$ 4.298,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q464C-O Intel Atom Quad Core Windows 10 Home 14,1'' - Dourado - Inclui Microsoft 365* ; R$ 1.240,15 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-10110U 4GB 256GB W11 15.6" - 82BS000JBR ; R$ 2.699,90 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i5-1135G7, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, Cinza - NP550XDA-KH2BR ; R$ 3.399,99 ;  Data: 29/10/2022 
+Notebook Asus Intel Core i5-1035G1, 8GB, SSD 256GB, 15.6 Full HD, Intel Graphics 620, Windows 11 Home, Cinza - X515JA-EJ1792W ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6 FHD Intel Celeron 6305 500 GB 4GB Linux Cinza Chumbo - NP550XDZ-KP4BR ; R$ 1.745,10 ;  Data: 29/10/2022 
+Notebook Lenovo Thinkpad T470 Intel Core i5-6300U RAM 8GB SSD 240GB Windows 10 Pro ; R$ 2.773,89 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M40S 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.157,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R7-5700U 8GB 512GB SSD Windows 11 15.6" 82MF0008BR Cinza ; R$ 3.190,02 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i3-1115G4, 4GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, Cinza - NP550XDA-KV3BR ; R$ 2.499,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 Ryzen 5-5500U, 8GB RAM, SSD 256GB, Tela 15.6 Full HD, Windows 11, Prata - 82MF0003BR ; R$ 3.599,99 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550 Core i3 4GB 256GB SSD 15.6 W11 ; R$ 2.699,00 ;  Data: 29/10/2022 
+Notebook 2 em 1 Multilaser Prime Intel Celeron 4GB 64GB Tela 11,6 Microsoft 365 + 1TB Nuvem ; R$ 1.416,51 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M10PF 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Microsoft 365 Preto ; R$ 3.267,05 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4128g-15 Celeron Dual Core ; R$ 2.088,90 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0700-MM20S 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Windows 11 Prata ; R$ 4.265,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Intel Celeron N4020 Dual Core, 4GB, SSD 128GB, Windows 11, 15.6, Prata - 82BU0006BR ; R$ 1.799,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5 8GB 256gb Ssd 15.6 W11 Prata ; R$ 3.499,00 ;  Data: 29/10/2022 
+Notebook HP 256-G8, Intel Core i7, 16GB de memória, 256 SSD, Tela de 15,6", Windows 11 ; R$ 4.699,06 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5 8GB 256GB SSD - Full HD + Microsoft 365 Personal 2020 Office 1TB ; R$ 3.220,20 ;  Data: 29/10/2022 
+Notebook ASUS E510MA-BR703X Intel Celeron Dual Core N4020 4GB 128GB W11 15,6" LED-backlit Rose Gold ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook Gamer Legion 5i i7-11800H 8GB 512GB SSD PCIe RTX3060 6GB W11 15.6" Full HD 82MH0001BR - Lenovo ; R$ 8.369,10 ;  Data: 29/10/2022 
+Notebook Vaio I3 4GB 256GB SSD 15,6" - Windows 11 Home - Positivo ; R$ 5.331,85 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 i1101-M20SC 15.6” FHD Touch 11ª geração Intel Core i5 8GB 256GB SSD Windows 11 com Capa ; R$ 5.030,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i - Intel i5 1135G7, RAM 32GB, SSD 1TB, Tela 15.6, Intel Iris Xe, Win 11 ; R$ 6.219,39 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook K513EQ-EJ663W Preto ; R$ 5.524,15 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3I i3-1115G4 15.6 256GB SSD 4GB Linux - 82MDS00300 ; R$ 2.491,20 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook X513EA-EJ3010W Intel Core i7 1165G7 8GB 256GB SSD W11 15,60" LED Preto ; R$ 3.824,15 ;  Data: 29/10/2022 
+Notebook ASUS M515DA-BR1213W AMD Ryzen 5 3500U 8GB 256GB SSD W11 15,6" LED-backlit Cinza ; R$ 3.144,15 ;  Data: 29/10/2022 
+Notebook Gamer Legion 5i i7-11800H 16GB 512GB SSD RTX3060 6GB W11 15.6" Full HD WVA 82MH0000BR - Lenovo ; R$ 8.729,10 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3i i7-11370H 16GB 512GBSSD GTX 1650 4GB 15.6" FHD W11 82MG0000BR - Lenovo ; R$ 5.496,97 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q4128C Atom Z8350 4GB 128GB Windows10 14" - 3002030 ; R$ 1.242,50 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Intel Celeron N4020 Dual Core, 4GB, HD 500GB, Linux, 15.6, Prata - 82BUS00000 ; R$ 1.749,99 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron i15-i1100-M40SC 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 com Capa ; R$ 4.256,10 ;  Data: 29/10/2022 
+Notebook ACER Aspire 5 INTEL Core I5-10210U, 4GB, 256GB SSD, 15.6 FHD 1920X1080 ; R$ 4.740,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i - Intel i5 1135G7, RAM 16GB, SSD 1TB, Tela 15.6, Intel Iris Xe, Win 11 ; R$ 4.975,49 ;  Data: 29/10/2022 
+Notebook HP Intel Core i5-6300, 8GB, SSD 240GB ; R$ 3.099,49 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-52-70QM Intel Core i7 Windows 11 Home 16GB 512GB SSD GTX 1650 17.3' ; R$ 7.199,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5-1135G7 8GB 256GB SSD W11 15.6" 82MD000JBR + GARANTIA PREMIUM 2 ANOS ; R$ 3.799,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5-1135G7 8GB 256GB SSD W11 15.6" 82MD000JBR + GARANTIA PREMIUM 2 ANOS ; R$ 3.869,99 ;  Data: 29/10/2022 
+Notebook IdeaPad i3-1115G4 Linux 256GB SSD 4GB 15,6 Polegadas 82MDS00300 Lenovo ; R$ 2.699,99 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i7 8GB 256GB SSD - Full HD + Microsoft 365 Personal 2020 Office ; R$ 3.985,20 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-EJ2734W Intel Core i5 1035G1 4GB 256GB SSD W11 15,6" LED-backlit TFT LCD Cinza ; R$ 2.804,15 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AMD Ryzen 7-4800H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6' Full HD IPS 144Hz, Linux - AN515-44-R11B ; R$ 4.899,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i-15ITL 82MD0007BR Core i5 8GB SSD 256GB W11 ; R$ 3.249,00 ;  Data: 29/10/2022 
+Notebook Acer 15 4GB A315-34-C9WH SSD 128GB Celeron-N4020 Windows 11 Home Pretoc ; R$ 1.799,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Ryzen 7 8Gb 256Gb Ssd 15,6' Win 11 ; R$ 4.074,58 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 128GB SSD Intel UHD Graphics Windows 11 15.6" ; R$ 1.998,37 ;  Data: 29/10/2022 
+Notebook Asus, Intel Core i5 1035G1, 8GB, 512GB SSD, Tela de 15,6", Windows 11, Cinza - X515JA-EJ1791W ; R$ 3.273,00 ;  Data: 29/10/2022 
+Notebook acer a314-35-c4cz celeron n4500 4gb 256gb ssd 14" fhd win10 home - nx.awbal.004 ; R$ 2.800,00 ;  Data: 29/10/2022 
+Notebook 14" Galaxy Book Go Snapdragon 7C, 4Gb, SSD 128Gb, Windows 11 Home, Prata, NP340XLA-K04BR SAMSUNG ; R$ 2.311,90 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KS1BR Intel Core i7 - 8GB 256GB SSD 15,6” Full HD LED Windows 10 ; R$ 4.319,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Ryzen 7 4800H DDR4 8GB SSD 256GB HD 1TB GTX1650 ; R$ 5.851,90 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i i7 8GB 256 GB SSD Placa de Vídeo Dedicada W11 15.6" 82BS000MBR ; R$ 3.994,15 ;  Data: 29/10/2022 
+Notebook Asus Intel Core i3 4GB 256GB SSD 15,6” - Windows 11 X515JA-BR2750W ; R$ 2.384,10 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i3- 4GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, Cinza - NP550XDA ; R$ 3.000,00 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo AMD Ryzen 7 16GB RAM 512GB - SSD 15,6” Full HD NVIDIA GeForce RTX 3050 4GB ; R$ 8.099,10 ;  Data: 29/10/2022 
+Notebook Compaq Presario 450 Intel Core I5 6287U 8Gb Ddr4 ; R$ 2.991,83 ;  Data: 29/10/2022 
+Notebook HP Intel Core i3 8GB 256GB SSD 15,6” - HD Windows 11 + Microsoft 365 Personal 2020 Office ; R$ 2.860,20 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M50S 15.6” Full HD 11ª geração Intel Core i7 8GB 512GB SSD NVIDIA Geforce Windows 11 ; R$ 5.516,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3-15ALC 82MFS00000 Ryzen 5 12GB SSD 256GB Linux ; R$ 3.199,00 ;  Data: 29/10/2022 
+Chromebook Samsung Intel Celeron 11.6" HD LED, 4GB, 32GB - XE310XBA-KT1BR ; R$ 1.781,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Gaming 3i Intel Core i7-10750H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6 Full HD, Linux, Chameleon Blue - 82CGS00200 ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KO1BR - Intel Celeron 4GB 500GB 15,6” Full HD LED ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-P40T 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 4.769,10 ;  Data: 29/10/2022 
+Notebook Macbook Air 13,3” Apple M1 8GB - 256GB SSD Cinza-espacial ; R$ 8.369,10 ;  Data: 29/10/2022 
+Notebook Intel Core I3 4GB RAM 1TB Ultra UB422 Tela 14.1" Full HD Linux Prata - Multilaser ; R$ 2.294,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AMD Ryzen 7-4800H, GeForce GTX 1650, 8GB RAM, SSD 256GB, HDD 1TB, 15.6' Full HD IPS 144Hz, Win11 - AN515-44-R629 ; R$ 6.499,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i Intel Core i5-10210U, NVIDIA GeForce MX330, 8GB, SSD 256GB, Windows 11, 15.6, Prata - 82BS000KBR ; R$ 3.599,99 ;  Data: 29/10/2022 
+Notebook Intel Core i3 1115G4 4GB RAM 256GB SSD Lenovo IdeaPad 3i-15IGL Tela 15.6" Win 11 82MD000ABR ; R$ 2.609,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 Ryzen 7-5700U, 8GB, SSD 256GB, Windows 11, 15.6, Prata - 82MF0004BR ; R$ 3.299,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Celeron 4GB - 128GB SSD 15,6” Windows 11 82BU0006BR ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-P30T 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 4.166,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i3 4GB - 256GB SSD + Microsoft 365 Personal 2020 Office 1TB ; R$ 2.455,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3-1005G1, 4GB RAM, SSD 128GB NVMe, 14 HD Ultrafino, UHD Graphics, Windows 10 Home, , Prata - A514-53-31PN ; R$ 2.499,99 ;  Data: 29/10/2022 
+Notebook Gamer Nitro 5 I5 8GB 512GB SDD NVIDIA GTS 1650 ACER ; R$ 6.390,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i - Intel i5 1135G7, RAM 32GB, SSD 256GB, Tela 15.6, Intel Iris Xe, Win 11 ; R$ 5.146,22 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook Plus 12” FHD Touch Intel 1.5Ghz 4GB 32GB SSD OS Prata ; R$ 3.899,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4Gb 64Gb Ssd ; R$ 1.309,79 ;  Data: 29/10/2022 
+Notebook Intel Celeron N4020 4GB RAM 128GB SSD Acer Aspire 3 A315-34-C2BV Tela 15,6" Windows 11 Home ; R$ 1.799,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-45-R8W2 AMD Ryzen 7 Windows 11 Home 8GB 512GB SDD 15,6' Full HD ; R$ 4.499,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Intel Core i3 - 8GB 256GB SSD 15,6” Full HD Windows 11 ; R$ 3.859,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M30S 15.6” Full HD 11ª geração Intel Core i5 8GB 256GB SSD NVIDIA Geforce Windows 11 ; R$ 4.724,10 ;  Data: 29/10/2022 
+Notebook ACER Aspire 5 INTEL Core I5 11ª GEN Windows 11 Home 8GB 256GB SDD 15,6 FHD ; R$ 4.887,85 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Go prata 14", Qualcomm Snapdragon 7c Gen 2 4GB de RAM 128GB SSD, Qualcomm Adreno 618 1920x1080px Windows 10 Home - IMP ; R$ 4.628,61 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 14 FHD Celeron N4500 128GB SSD 4GB Win 11 Home Prata - A314-35-C7E8 ; R$ 1.769,40 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Celeron N4020, 4GB RAM, SSD 128GB NVMe, Tela 15,6', Intel UHD Graphic 600, Windows 11 Home, Preto - A315-34-C9WH ; R$ 1.899,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i-15ITL 82MD000ABR Core i3 4GB SSD 256GB 15.6" W11 ; R$ 2.799,00 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Legion 5 AMD Ryzen 7-5800H, GeForce RTX 3050, 16GB RAM, SSD 512GB, 15.6' Full HD IPS 120Hz, Win11 - 82QJ0000BR ; R$ 6.999,99 ;  Data: 29/10/2022 
+Notebook Acer 14 Celeron-N4500 4GB 128GB SSD Windows 11 Home A314-35-C7E8 Prata ; R$ 1.754,10 ;  Data: 29/10/2022 
+Notebook Acer A314-35-c4cz Intel Celeron N4500 4gb SSD 256gb full hd Windows 10 Home - prata ; R$ 1.906,32 ;  Data: 29/10/2022 
+Notebook Lenovo 15.6 I3-10110U 4Gb 256Gbssd Linux 82Bss00100 ; R$ 4.682,63 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 10a Geração 10210U 4.20Ghz 8GB DDR4 256GB SSD NVMe 15.6" Full HD Windows 11 A515-54-57CS ; R$ 3.339,65 ;  Data: 29/10/2022 
+Notebook LG Gram Intel Core i5, 8GB RAM, 256GB SSD, Tela 14 IPS FHD, Windows 10 Home, Titanium - 14Z90N ; R$ 3.999,99 ;  Data: 29/10/2022 
+Notebook Asus VivoBook X543MA-GQ1300T - Intel Celeron Dual-Core 4GB 500GB 15,6” Windows 10 ; R$ 2.114,10 ;  Data: 29/10/2022 
+Notebook Samsung Book I5 8GB 512GB SSD 15.6 Windows 11 Cinza Chumbo ; R$ 4.399,00 ;  Data: 29/10/2022 
+Notebook IdeaPad 3I Lenovo i5-1135G7 15.6 256GB SSD 8GB Win 11 Home - 82MD0007BR ; R$ 3.329,10 ;  Data: 29/10/2022 
+Notebook Gamer Nitro 5 I5 8GB 512GB SDD NVIDIA GTS 1650 ACER ; R$ 6.390,00 ;  Data: 29/10/2022 
+Notebook Asus ZenBook 14 UX434FAC-A6340T Intel - Core i7 8GB 256GB SSD 14” Full HD Windows 10 ; R$ 8.549,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Celeron 4GB 128GB SSD Windows 11 15 Prata ; R$ 2.099,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i i310110U 4GB 256GB SSD Linux 15.6" 82BSS00100 Prata ; R$ 3.099,00 ;  Data: 29/10/2022 
+Notebook IdeaPad 3I Lenovo i3-1115G4 15.6 256GB SSD 4GB Win 11 Home - 82MD000ABR ; R$ 2.491,20 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 12GB 256GB SSD Linux 15.6" 82MFS00000 Cinza ; R$ 3.059,15 ;  Data: 29/10/2022 
+Notebook Acer A314-35-c4cz Intel Celeron N4500 4gb SSD 256gb full hd Windows 10 Home - prata ; R$ 2.178,65 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 500GB - Full HD + Pacote Office 365 Personal 1 Ano Digital ; R$ 1.879,20 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-EJ1791W Intel Core i5 1035G1 8GB 512GB SSD W11 15,6" LED-backlit Cinza ; R$ 3.399,15 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-54-56Q0 Ci5 Windows 11 Home 8GB 1TB HDD 256GB SSD GTX 1650 17.3' ; R$ 5.849,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-58-372M Intel Core i3 11ª Gen Windows 11 Home 8GB 512GB SSD 15.5" FHD ; R$ 3.509,10 ;  Data: 29/10/2022 
+Notebook Ultra Intel Celeron 4Gb 120Gb 14 Pol Ub230 - Multilaser ; R$ 2.340,28 ;  Data: 29/10/2022 
+Notebook Intel i3 8GB RAM 256GB SSD Acer Aspire 5 A514-54-397J Tela 14" FHD Windows 11 Safari Gold ; R$ 2.698,20 ;  Data: 29/10/2022 
+Notebook ASUS ZenBook Duo UX482EAR-KA370W Azul Celestial ; R$ 7.224,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i 15.6 HD Intel Celeron N4020 128GB SSD 4GB Linux Prata - 82BUS00100 ; R$ 1.591,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel i5 10ª, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, A515-54-57CS ; R$ 3.999,99 ;  Data: 29/10/2022 
+Pc Gamer Streamer 2022 I7 16gb Ssd Full Hd + Nfe + Garantia - 4Gamers ; R$ 3.051,50 ;  Data: 29/10/2022 
+Notebook Motion Plus Red Intel Atom 4gb 64gb SSD Q464C Positivo ; R$ 1.614,99 ;  Data: 29/10/2022 
+Notebook Asus Intel Celeron E510MA-BR701X RAM 4GB 128GB Windows 11 Pro 15,6" Azul - ASUS ; R$ 1.619,10 ;  Data: 29/10/2022 
+Notebook Lenovo IDEAPAD 3I-15IML I5-10210U SSD 256GB Memória 8GB Windows 11 15.6" ; R$ 5.067,69 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3 R7-5700U 8GB 256GB SSD W11 15.6 ; R$ 3.331,98 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook 32GB 4GB RAM 11,6" 310XBA-KT3 ; R$ 1.963,82 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i-15IML 82BSS00100 Core i3-10110U 4GB SSD 256GB 15.6" Linux Prata ; R$ 2.199,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M38S 15.6” Full HD 11ª geração Intel Core i5 16GB 512GB SSD NVIDIA Geforce Windows 11 ; R$ 6.019,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 10ª 10210U 4.20Ghz 8GB Placa de vídeo Geforce MX 250 2GB GDDR5 SSD 256GB 15.6" Full HD Windows 11 A515-54G-55HW ; R$ 3.391,50 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14" - Dourado - Inclui Microsoft 365* ; R$ 1.401,65 ;  Data: 29/10/2022 
+Notebook Vaio FE15 VJFE52F11X-B2211H Intel Core i5 - 8GB 512GB SSD 15,6” Full HD LED Windows 10 ; R$ 4.049,10 ;  Data: 29/10/2022 
+Notebook Gamer 82CGS00100 Core i5 8GB 256GB SSD GeForce GTX 1650 4GB Tela 15.6 Linux 3i-15IMH 10300H Lenovo ; R$ 3.899,00 ;  Data: 29/10/2022 
+Notebook HP Intel Core i3 8GB 256GB SSD 15,6” - HD + Pacote Office 365 Personal 1 Ano Digital ; R$ 2.743,20 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Celeron 4GB 128GB SSD Windows 11 15 Prata ; R$ 2.099,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell Gamer Dell G15 Intel Core i5 - 8GB + Headset Gamer + Mouse Gamer ; R$ 4.840,11 ;  Data: 29/10/2022 
+Notebook ASUS X515JF-EJ360W Intel Core i5 1035G1 8GB 256GB SSD W11 15,6" Full HD LED Backlit placa de vídeo Nvidia MX130 Cinza ; R$ 2.974,15 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-M30P 15.6" FHD 12ª Geração Intel Core i5 16GB 512GB SSD NVIDIA RTX 3050 Windows 11 ; R$ 7.838,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-M30T 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Cinza Chumbo ; R$ 4.238,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15.6” i1101-M60SF FHD 11ªger Intel Core i7 16GB 512GB SSD NVIDIA Geforce Microsoft 365 Windows 11 ; R$ 6.092,10 ;  Data: 29/10/2022 
+Notebook Asus X515EA-EJ1320W Intel Core I3 4GB RAM 256GB Windows 11 Home Tela 15.6'' Bivolt Cinza ; R$ 2.499,90 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Corei5 1135G7 15,6'8Gb Ssd 256Gb ; R$ 4.121,33 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6 Fhd Intel Celeron 6305 500 Gb 4Gb ; R$ 1.807,28 ;  Data: 29/10/2022 
+Notebook Positivo Motion Red Q464C Intel Atom - Quad-Core 4GB 64GB eMMC 64GB Nuvem 14,1” LED ; R$ 1.619,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad3i 82BS0002BR Intel Core i3 - 4GB 1TB 15,6” LCD Windows 10 ; R$ 2.609,10 ;  Data: 29/10/2022 
+Notebook Samsung Intel 8GB 256GB SSD Tela 15,6" Windows 11 ; R$ 2.999,00 ;  Data: 29/10/2022 
+Notebook ASUS ZenBook UX325JA-KG302W Cinza ; R$ 4.674,15 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-EJ1792 Intel Core i5 1035G1 8GB 256GB SSD Linux 15,6" LED-backlit TFT LCD Cinza ; R$ 3.059,15 ;  Data: 29/10/2022 
+Notebook Intel Core i3-1115G4 Windows 10 RAM 4GB 1TB Tela 15.6 NP550XDA-KV2BR Samsung ; R$ 2.675,61 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 500GB - Full HD + Pacote Office 365 Personal 1 Ano Digital ; R$ 1.879,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Core i3 8GB 256GB SSD - 15,6” Full HD Windows 11 A315-58-31UY ; R$ 2.564,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 81V70008BR - AMD Ryzen 5-3500U 8GB 256GB SSD 15,6” Windows 10 ; R$ 3.599,10 ;  Data: 29/10/2022 
+Notebook ASUS X515MA-BR765W Intel Celeron Dual Core N4020 4GB 256GB SSD W11 15,6" LED Backlit Cinza ; R$ 2.124,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3-1005G1, 4GB RAM, SSD 128GB NVMe, 14 HD Ultrafino, UHD Graphics, Windows 10 Home, , Prata - A514-53-31PN ; R$ 2.499,99 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AMD Ryzen 7-4800H, GeForce GTX 1650, 16GB RAM, SSD 256GB NVMe, HDD 1TB, 15.6 FHD 144Hz, Linux - AN515-44-R4C8 ; R$ 6.599,99 ;  Data: 29/10/2022 
+Notebook ASUS X515JF-EJ390W Intel Core i5 1035G1 16GB 512GB SSD Windows 11 Home 15,6" LED Cinza ; R$ 4.674,15 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6 Fhd Intel Celeron 6305 500 Gb 4Gb ; R$ 1.748,37 ;  Data: 29/10/2022 
+Apple Macbook Air 13,6” M2 8GB RAM - 256GB SSD Estelar ; R$ 10.799,10 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i5-10210U Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro ; R$ 3.611,65 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4gb 64gb SSD Q464C-O ; R$ 1.699,99 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Go prata 14", Qualcomm Snapdragon 7c Gen 2 4GB de RAM 128GB SSD, Qualcomm Adreno 618 1920x1080px Windows 10 Home - IMP ; R$ 4.628,61 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-55-79X0 Intel Core i7 Windows 11 Home 8GB 512GB SSD GTX 1650 15.6' ; R$ 6.299,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R7-5700U 8GB 256GB SSD Linux 15.6" 82MFS00200 Cinza ; R$ 2.997,97 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-P30T 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 4.625,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Ryzen 7 8Gb 256Gb Ssd 15,6' Win 11 ; R$ 4.074,58 ;  Data: 29/10/2022 
+Notebook LG Gram Intel Core i7-1165G7, 16GB RAM, 256GB SSD M.2 NVMe, 16' IPS, Intel Iris Xe, Windows 10 Home, Preto - 16Z90P-G.BH71P2 ; R$ 6.499,99 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book S Intel CoreT i5 L16G7, 8GB, 256GB SSD, Tela de 13,3" NP767XCM-K03BR ; R$ 4.074,00 ;  Data: 29/10/2022 
+Notebook Gamer AN515-44-R4KA Nitro 5 AMD Ryzen 7 8GB 512GB SSD GeForce GTX 4GB 15.6 IPS 144Hz Windows 11 Acer ; R$ 5.352,03 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3 15ITL6, Intel Core I3-1115G4, 11 Geração, 4GB, 256GB SSD NVMe, 15,6", FHD, Windows 11 Home, Prata - 82MD000ABR ; R$ 2.499,90 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 8GB 256GB SSD Windows 11 15.6" 82MF0003BR Prata ; R$ 3.329,10 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook Dual-Core 4GB 32GB Google Chrome OS, 11.6'' HD LED - XE310XBA-KT1BR ; R$ 1.859,00 ;  Data: 29/10/2022 
+Note M11W Prime 2 em 1, com Windows 11 Home, Processador Intel Celeron, Tela 11,6 Pol + Microsoft 365 Personal e 1TB na Nuvem - PC280 - Multilaser ; R$ 1.573,90 ;  Data: 29/10/2022 
+Notebook Acer 15.6 I5-10210U 4Gb 256Gb Ssd Linux - A515-54- - Acer Informatica ; R$ 3.382,29 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6 Fhd Intel Celeron 6305 500 Gb 4Gb ; R$ 1.722,85 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i5-1135G7, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Pro, Cinza - NP550XDA-KH6BR ; R$ 3.799,99 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i5 8GB - 1TB + Headset Gamer + Mouse Gamer ; R$ 4.435,11 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q4128C Intel Atom Quad-Core Windows 10 Home 14.1" - Vermelho - Inclui Microsoft 365* ; R$ 1.401,65 ;  Data: 29/10/2022 
+Notebook Acer Aspire A315-34-C9WH Intel Celeron N4020 4GB 128GB SSD 15.6 HD Intel UHD Gr Win 11 Home ; R$ 1.969,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15M-3520-P45T 15.6" Full HD 12ª Geração Intel Core i7 16GB 512GB SSD Windows 11 Pro Cinza Chumbo ; R$ 8.599,00 ;  Data: 29/10/2022 
+Notebook Ultra Windows 10 Home - Processador Intel Core I3 Mem 4gb Ssd 120gb - Tela 14,1" Hd + Tecla Netflix Prata Ub430 - MULTILASER ; R$ 3.533,60 ;  Data: 29/10/2022 
+Notebook ACER A315-34-C9 Windows 11 Home Celeron 4GB 128GB 15,6" ; R$ 3.037,85 ;  Data: 29/10/2022 
+Notebook Samsung Book I5 8GB 512GB SSD 15.6 Windows 11 Cinza Chumbo ; R$ 4.399,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino Ideapad 3i Intel Celeron-N4020 4GB 128GB SSD W10 15.6" Prata ; R$ 2.400,00 ;  Data: 29/10/2022 
+Notebook Lenovo Flex 5i Core i5 8GB 256SSD 14" W11 Grafite ; R$ 3.999,00 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14" Rose Gold ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M55P 15.6" Full HD 11ª Geração Intel Core i5 8GB 512GB SSD Windows 11 Preto ; R$ 4.355,10 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1872X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14" Rose Gold ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M55P 15.6" Full HD 11ª Geração Intel Core i5 8GB 512GB SSD Windows 11 Preto ; R$ 4.355,10 ;  Data: 29/10/2022 
+Notebook acer aspire 3 a315-34-c2bv celeron n4020 4gb memória 128gb ssd tela 15.6 windows 11 ; R$ 2.239,98 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-M40P 15.6" FHD 12ª Geração Intel Core i7 16GB 512GB SSD NVIDIA RTX 3060 Windows 11 ; R$ 10.106,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0500-MM10P 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Preto ; R$ 3.707,10 ;  Data: 29/10/2022 
+Notebook Lenovo IDEAPAD 3I-15IGL Celeron SSD 128GB 4GB Ram Windows 11 15.6" ; R$ 2.897,67 ;  Data: 29/10/2022 
+Chromebook Samsung Intel Celeron N4500 Dual-Core, 8GB RAM, SSD 64GB e.MMC, 14" HD Antirreflexo, Intel UHD, Google Chrome - XE340XDA-KS1BR ; R$ 2.239,99 ;  Data: 29/10/2022 
+Notebook Ultra UB433 Intel Core i3 4GB RAM 120GB HD 14,1 Linux ; R$ 1.348,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-U05T 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Linux Cinza Chumbo ; R$ 2.906,05 ;  Data: 29/10/2022 
+Notebook Acer 15.6 I5-10210U 4Gb 256Gb Ssd Linux - A515-54- - Acer Informatica ; R$ 3.559,28 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 10a Geração 10210U 4.20Ghz 8GB DDR4 512GB SSD NVMe 15.6" Full HD Windows 11 A515-54-58Z4 ; R$ 3.391,50 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 3000 a0500-MM10SB 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Prata + Mochila ; R$ 3.869,10 ;  Data: 29/10/2022 
+Notebook Philco PNB15 Intel Core i5 RAM 8GB 1TB W10 15,6'' ; R$ 3.149,90 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-BR2751W Intel Core i3 1005G1 8GB 256GB SSD W11 15,6" LED-backlit Cinza ; R$ 2.719,15 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M40S 15.6” FHD Touch 11ª geração Intel Core i7 8GB 512GB SSD Windows 11 ; R$ 5.804,10 ;  Data: 29/10/2022 
+Notebook Dell Alienware m15 R7 AW15-i1200-M20P 15.6" QHD 12ª ger Intel Core i7 32GB 1TB SSD RTX 3070Ti Win 11 ; R$ 15.281,10 ;  Data: 29/10/2022 
+Notebook 16,2" Pro M1 Max 64GB 1TB SSD Z150000HP - Universal ; R$ 41.923,91 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Intel Core i5-10300H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6' Full HD IPS, Win11 - AN515-55-59T4 ; R$ 4.599,99 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-34-C2BV, Intel Celeron N4020 Dual Core, 4GB RAM, SSD 128GB, 15.6 HD, Windows 11, Preto ; R$ 1.849,90 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro 14" FHD 82NM0013BR Preto ; R$ 3.879,94 ;  Data: 29/10/2022 
+Notebook Intel Atom Quad Core 4GB RAM 64GB eMMC Positivo Motion Q464C 14,1" Windows 10 Home ; R$ 1.214,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Celeron 4GB 128GB SSD A31435C7E8 Prata ; R$ 1.994,05 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Ideapad L340 Intel Core i5 - 8GB 256SSD 15,6 FullHD Nvidia GTX1050 Windows 10 ; R$ 4.769,10 ;  Data: 29/10/2022 
+Notebook Vaio FE14 VJFE42F11X-B1721H Intel Core i3 - 4GB 256GB SSD 14” Full HD LED Windows 10 ; R$ 2.879,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510 15.6 11ª Geração Intel Core i5 8GB 256GB ssd Linux Cinza Chumbo ; R$ 3.960,00 ;  Data: 29/10/2022 
+Notebook IdeaPad 3i Celeron Linux 4GB 128GB 82BUS00100 - Lenovo ; R$ 2.330,00 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Intel Core i7 8GB 512GB SSD - 15,6” Full HD IPS Nvidia GTX 1650 4GB Linux ; R$ 5.129,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Celeron N4020 4GB SSD 128GB Windows 11 Home - A315-34-C9WH ; R$ 2.022,90 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3i i5-11300H 8GB 512 GB SSD GTX 1650 4GB 15.6" FHD W11 82MG0009BR - Lenovo ; R$ 4.949,10 ;  Data: 29/10/2022 
+Apple Macbook Air 13,6” M2 8GB RAM - 256GB SSD Cinza-espacial ; R$ 11.969,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4120F Intel Celeron Windows 11 Home 14'' Vermelho Inclui Microsoft 365* ; R$ 1.699,15 ;  Data: 29/10/2022 
+Notebook Asus ZenBook Intel Core i5-1035G1, 8GB RAM, SSD 256GB, Tela 13.3 OLED, Windows 11 Home, Cinza - UX325JA-KG302W ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook de Vitrine Dell Inspiron 3501 i7-1165G7 8GB DDR4 SSD 256GB 15.6 Win11 Home C ; R$ 5.454,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-A30PT 15.6" Full HD 11ªG. Intel Core i5 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 4.879,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15M-3520-P45T 15.6" Full HD 12ª Geração Intel Core i7 16GB 512GB SSD Windows 11 Pro Cinza Chumbo ; R$ 8.599,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i-15IGL, Tela de 15.6", Windows 11, SSD 128GB, 4GB, Prata ; R$ 2.659,00 ;  Data: 29/10/2022 
+Notebook Ultra com Windows 11 Home, Intel Celeron, 4GB RAM 120GB SSD + Tecla Netflix, Tela 14,1 Pol. HD Preto - UB230OUT Reembalado ; R$ 1.479,73 ;  Data: 29/10/2022 
+Chromebook Samsung 11.6 Intel 4Gb 32Gb Xe310Xba-Kt3Br ; R$ 1.960,54 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-45-R6KH AMD Ryzen 3-5300U 8GB 256GB Tela 15,6'' Windows 11 ; R$ 3.194,10 ;  Data: 29/10/2022 
+Notebook Acer A515-54-59BU Intel Core i5 8GB - 256GB SSD 15,6” LED Full HD IPS Windows 10 ; R$ 3.419,10 ;  Data: 29/10/2022 
+Notebook HP 640 Intel Core i5-6300, 8GB, SSD 120GB ; R$ 2.994,48 ;  Data: 29/10/2022 
+Notebook Asus VivoBook Intel Core i5 8GB 256GB SSD - 15,6” Windows 10 X543UA-DM3457T ; R$ 3.284,10 ;  Data: 29/10/2022 
+Notebook ASUS ZenBook Duo UX482EAR-HY438W CORE i7 1195G7 16GB 512GB SSD 14"Anti-glare FHD Azul ; R$ 10.199,15 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i7-1255U Windows 11 Home 8GB 512GB SSD Full HD - Cinza Escuro ; R$ 4.334,15 ;  Data: 29/10/2022 
+Notebook 2 em 1 Positivo Intel 4GB 128GB Tela Touch Windows 10 C4128A ; R$ 2.074,90 ;  Data: 29/10/2022 
+Notebook Dell Vostro 5510 I7 11th 16gb Ssd 512gb Geforce MX450 2gb ; R$ 7.749,90 ;  Data: 29/10/2022 
+Xe501c13-ad2br samsung chromebook intel dual core google chrome os 4gb 16gb 11.6" hd led hd ; R$ 1.791,00 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KO2BR Intel Celeron - 4GB 500GB 15,6” Full HD LED Windows 10 ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook Asus VivoBook X543NA-GQ342T Intel Celeron - Dual-Core 4GB 500GB 15,6” LED Windows 10 ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15M-3520-P30T 15.6" Full HD 12ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 6.339,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro 5510 I7 11th 16gb Ssd 1 TB Geforce MX450 2gb ; R$ 8.349,99 ;  Data: 29/10/2022 
+Notebook Ultraportátil Dell X13-i1200-M10 13.4" Full HD+ 12ª ger. Plataforma Intel EVO Core i7 16GB 1TB SSD Win 11 ; R$ 10.376,10 ;  Data: 29/10/2022 
+Chromebook Intel Celeron N4020 4GB RAM 32GB Samsung Tela 11,6" HD Antirreflexo Prata XE310XBA-KT3BR ; R$ 1.691,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15M-3520-P35T 15.6" Full HD 12ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 6.989,00 ;  Data: 29/10/2022 
+Notebook Acer A315-56-311J Intel Core i3 8GB - 256GB SSD 15,6” Full HD LED Windows 10 ; R$ 3.299,00 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i3-1115G4, 4GB, Windows 10, 256GB SSD, 15.6'' Full HD LED, NP550 ; R$ 2.485,00 ;  Data: 29/10/2022 
+Notebook Asus M515DA-EJ502T AMD Ryzen 5 8GB - 256GB 15,6” Full HD Windows 10 ; R$ 3.284,10 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3 R7-5800H 16GB 512GB SSD PCIe RTX 3060 6GB 15.6" FHD W11 82MJ0003BR - Lenovo ; R$ 8.299,00 ;  Data: 29/10/2022 
+Chromebook Samsung 11.6 Intel 4Gb 32Gb Xe310Xba-Kt3Br ; R$ 1.960,54 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i5-1135G7 Windows 11 Home 8GB 1TB HD Intel Iris Xe 15.6 Full HD LED ; R$ 3.534,03 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad3i 82BS0006BR Intel Core i3 - 4GB 256GB SSD 15,6” LCD Windows 10 ; R$ 2.879,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion Grey 14 HD ATOM Z8350 128GB eMMC 4GB Win 10H Q4128C-S ; R$ 1.285,20 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i3-1115G4, 4GB RAM, 256GB SSD, Linux, 15.6, LED, Full HD, Prata - NP550XDZ-KT6BR ; R$ 2.499,99 ;  Data: 29/10/2022 
+Notebook Intel Pentium 4GB RAM 64GB Multilaser Legacy Book PC311 Windows 10 Home Preto ; R$ 1.799,10 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-U10P 15.6" FHD 12ª Geração Intel Core i5 8GB 256GB SSD NVIDIA RTX 3050 Linux ; R$ 6.236,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion Celeron N3350 4GB RAM HD 128GB Linux 14" ; R$ 1.403,10 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KT1BR Intel Core i3 - 4GB 1TB 15,6” Full HD LED Windows 10 ; R$ 2.789,10 ;  Data: 29/10/2022 
+Notebook Samsung Book X30 Intel Core i5 8GB 1TB - 15,6” Windows 10 ; R$ 4.499,10 ;  Data: 29/10/2022 
+Notebook HP 250-G8, Intel Core i7, 16GB de Memória, Windows 11 Pro, 256GB SSD, Tela de 15.6", HP ; R$ 5.442,60 ;  Data: 29/10/2022 
+Notebook Ultraportátil Dell X13-i1200-M10 13.4" Full HD+ 12ª ger. Plataforma Intel EVO Core i7 16GB 1TB SSD Win 11 ; R$ 10.376,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3I Celeron 4GB 128 GB SSD 15.6 WIN 11 Home DP - 82BU0006BR ; R$ 2.666,52 ;  Data: 29/10/2022 
+Lenovo Thinkcentre M910q Pequeno i5 6th Geração, 8GB Ram 256GB Ssd Win11 Pro Mini ; R$ 2.249,90 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3i i7-10750H 8GB 512GB SSD GTX 1650 4GB 15.6" FHD WVA Linux 82CGS00200 - Lenovo ; R$ 5.039,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3, 15.6”, Intel Celeron, 4GB, 128GB SSD, Windows 11 ; R$ 4.122,40 ;  Data: 29/10/2022 
+Notebook Compaq Presario 450 Intel Core i5 8GB - 240GB SSD 14,1” LED Windows 10 ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-10210U, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, Prata - A515-54-57CS ; R$ 3.499,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Core i3 4GB DDR4 256GB SSD Tela 15.6" Windows 11 Cinza ; R$ 3.040,90 ;  Data: 29/10/2022 
+MSI GE67 Raider Intel 12ª geração i9-12900HX RTX 3080Ti tela 15' QHD 3K OLED SSD 4Tb NVMe RAM 64Gb ; R$ 52.900,00 ;  Data: 29/10/2022 
+Notebook Dell Alienware m15 R7 AW15-i1200-M20BP 15.6" QHD 12ª ger Intel Core i7 32GB 1TB SSD RTX 3070Ti Win 11 ; R$ 15.605,10 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Home 14" FHD 82NM0012BR Preto ; R$ 3.534,98 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i5 8GB - 256GB SSD + Microsoft 365 Personal 2020 Office ; R$ 3.373,20 ;  Data: 29/10/2022 
+Notebook Dell Vostro V16-7620-P20P 16" Full HD+ 12ª Geração Intel Core i7 16GB 512GB SSD Windows 11 Pro Preto ; R$ 8.828,10 ;  Data: 29/10/2022 
+Notebook Intel Core i5 4GB RAM 256GB SSD Aspire 5 A514-53-5239 Tela 14" Windows 10 - Acer ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4120F 14'' HD Celeron N4020 4GB 120GB SSD W11 1 Ano de Office 365* Cinza ; R$ 1.399,90 ;  Data: 29/10/2022 
+Notebook Asus X515JF-EJ389W Core i5 8GB 512GB SSD W11 15,6" FHD Placa de vídeo NVIDIA MX130 cinza ; R$ 3.569,15 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-54-58CL Intel - Core i5 8GB 1TB 128GB SSD 15,6” Nvidia GTX 1650 ; R$ 4.769,10 ;  Data: 29/10/2022 
+Notebook Ultra, com Windows 10 Home, Processador Intel Pentium, 500GB HDD 4GB 14.1 Pol. HD + Tecla Netflix Preto - UB322OUT Reembalado ; R$ 1.637,23 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5, Intel CoreT i7, NVIDIA GTX 1650, 8GB, 512GB SSD, Windows 11, Tela 17.3" - AN517-52-7 ; R$ 7.234,92 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q464C Intel Atom Quad-Core Windows 10 Home 14.1'' - Vermelho ; R$ 1.274,15 ;  Data: 29/10/2022 
+Notebook Vaio FE14 14 FHD i7-1065G7 1TB 8GB Linux Debian 10 VJFE43F11X-B0611H ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-56-330J -I3 1005G1 - W10 Home ; R$ 2.969,10 ;  Data: 29/10/2022 
+Notebook Lenovo ThinkPad E14, Core i5-1135G7, 16GB, 512GB, SSD, Windows 11 Pro - 20TB001MBO ; R$ 6.999,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD Linux 15.6" 82BUS00100 ; R$ 1.979,10 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64Gb 14 Win 11 Branco ; R$ 2.564,05 ;  Data: 29/10/2022 
+Notebook Compaq Presario CQ-27 Intel Core i3 4GB - 240GB SSD 14,1” LED Linux ; R$ 2.339,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-56HA Intel Core i5 11ª Gen Windows 11 Home 8GB 512GB SDD 14' Full HD ; R$ 5.399,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-54-7204 Intel Core i7 Windows 11 Home 8GB 512GB SSD RTX 3050 17.3' ; R$ 7.199,10 ;  Data: 29/10/2022 
+Notebook Samsung Book E20 Intel Celeron Dual-Core - 4GB 500GB 15,6” Windows 10 ; R$ 2.969,10 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 3000 a0500-MM10SC 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Prata + Capa ; R$ 3.797,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R5-5500U 8GB 256GB SSD Linux 15.6" 82MFS00100 Cinza ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3 R7-5800H 16GB 512GB SSD PCIe RTX 3060 6GB 15.6" FHD W11 82MJ0003BR - Lenovo ; R$ 8.299,00 ;  Data: 29/10/2022 
+Notebook Lenovo Gaming 3i I7 16gb 512 Ssd Gtx1650 4gb W10 - IMP ; R$ 13.795,11 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 500GB - Full HD + Microsoft 365 Personal 2020 Office ; R$ 1.915,20 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M60S 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11 ; R$ 5.318,10 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron i15-i1100-M70PB 15.6" FHD 11ª Ger Intel Core i7 8GB 256GB SSD NVIDIA GeForce Win 11 + Mochila ; R$ 5.732,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-10210U, 4GB RAM, SSD 256GB NVMe, 15.6 Full HD, UHD Graphics, Endless, Prata - A515-54-5526 ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A314-35-C236 Intel Celeron N4500 Serie N HD 500 GB 14 " 4 GB RAM Windows 10 H ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i Celeron 4GB 128GB SSD Windows 11 15.6" 82BU0008BR Prata ; R$ 2.159,10 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1115G4 8GB 256GB SSD Linux 14" 82NMS00100 Preto ; R$ 3.190,02 ;  Data: 29/10/2022 
+Notebook Ultra, com Windows 11 Home, Intel Celeron, 4GB 120GB SSD, Tela 15,6 + Microsoft 365 Personal com 1TB na Nuvem- UB220 ; R$ 1.798,90 ;  Data: 29/10/2022 
+Notebook Positivo Q232B Intel Atom 2GB 32GB SSD Windows 10 Tela 14 ; R$ 1.259,91 ;  Data: 29/10/2022 
+Notebook Gamer ASUS TUF F15 FX506HC-HN353W Intel Core i5 11400H 8GB 512GB SSD W11 15,6 RTX3050 Cinza ; R$ 7.054,15 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M20S 15.6” FHD Touch 11ª geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.931,10 ;  Data: 29/10/2022 
+Notebook Ultra UB420 Intel Core i3 4GB - 120GB SSD 14,1” Full HD Windows 10 ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook 2 em 1 Positivo DUO C464D Intel Celeron Dual Core Windows 11 Home 11" - Cinza ; R$ 1.529,15 ;  Data: 29/10/2022 
+Notebook Acer A514-54-52TY - Intel i5 1135G7, 8GB, SSD 256GB, Tela 14 Full HD, Gold, Windows 11 ; R$ 3.549,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0700-MM20P 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Windows 11 Preto ; R$ 4.265,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Intel Core i7 8GB 512GB SSD - 15,6” + Headset Gamer + Mouse Gamer ; R$ 5.380,11 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KO1BR - Intel Celeron 4GB 500GB 15,6” Full HD LED ; R$ 2.159,10 ;  Data: 29/10/2022 
+Notebook Compaq Presario CQ-27 Intel Core i3 4GB - 120GB SSD 14” LED Windows 10 ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook Positivo Motion C41TEi Intel Celeron Dual-Core Linux 14" - Dourado ; R$ 1.571,65 ;  Data: 29/10/2022 
+Notebook M11W Prime 2 em 1 Touch Windows 11 Intel Celeron 11,6 4GB 64GB + Microsoft 365 Personal e 1TB na Nuvem - PC280 - Multilaser ; R$ 1.416,51 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Series 3501 - Intel Core i5 8GB 256GB SSD 15,6” Windows 11 ; R$ 6.953,22 ;  Data: 29/10/2022 
+Notebook Ultra, com Windows 11 Home, Intel Celeron, 4GB 120GB SSD, Tela 15,6 + Microsoft 365 Personal com 1TB na Nuvem- UB220 ; R$ 1.798,90 ;  Data: 29/10/2022 
+Notebook Asus X515JF-EJ153T Intel Core i5 8GB 256G - SSD 15,6” Full HD Placa de Vídeo 2GB Windows 10 ; R$ 3.779,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad3i 82BS0005BR Intel Core i5 - 8GB 256GB SSD 15,6” LCD Windows 10 ; R$ 3.419,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i5 8GB - 256GB SSD + Pacote Office 365 Personal Digital ; R$ 3.400,20 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 AMD Ryzen 5 8GB - 256GB SSD 15,6” Full HD Windows 11 ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i13-i1200-M20S 13.3 Full HD 12ª Ger. Plataforma Intel EVO Core i7 16GB 512GB SSD Windows 11 ; R$ 7.253,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-U30T 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Linux Cinza Chumbo ; R$ 4.094,10 ;  Data: 29/10/2022 
+Notebook ASUS X515MA-BR623X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 15,60" LED-backlit Cinza ; R$ 2.464,15 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook X513EA-EJ3203W Intel Core i7 1165G7 16GB 1TB SSD W11 15,6" Full HD Preto ; R$ 5.864,15 ;  Data: 29/10/2022 
+Notebook Dell Alienware m15 R7 AW15-i1200-M10BP 15.6" QHD 12ª ger Intel Core i7 16GB 1TB SSD RTX 3070Ti Win 11 ; R$ 14.273,10 ;  Data: 29/10/2022 
+Notebook Vaio FE14 14 FHD i5-10210U SSD 256GB 8GB Linux Debian 10 VJFE42F11X-B0361H ; R$ 3.094,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Ryzen 7-5700U, 8GB RAM, 256GB SSD NVMe, Tela 15.6 IPS Full HD, Windows 11 Home, Prata - A515-45-R760 ; R$ 4.299,99 ;  Data: 29/10/2022 
+Notebook IdeaPad Gaming 3i Core i5 8gb 256gb Ssd Linux Azul - Lenovo ; R$ 4.299,00 ;  Data: 29/10/2022 
+Notebook Vaio FE15 VJFE53F11X-B0711H - Intel Core i7 8GB 256GB SSD 15,6” LED Windows 10 ; R$ 4.499,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-385S Intel Core i3 11ª Gen Windows 11 Home 4GB 256GB SDD 14' Full HD ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Asus VivoBook X543UA-GQ3430T - Intel Core i3 4GB 256GB SSD 15,6” LED Windows 10 ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 15,6" 500GB RAM 4GB Prata ; R$ 2.850,06 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 11 ; R$ 4.129,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-56-73M5 Intel Core i7 11ª Gen Windows 11 Home 8GB 512GB SDD 15.6' FHD ; R$ 3.689,10 ;  Data: 29/10/2022 
+Apple MacBook Pro 14" (M1 Pro da Apple com 8 CPU e 14 GPU, 16 GB RAM, 512 GB SSD) - Prateado ; R$ 22.214,68 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 3000 a0500-MM10PB 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Preto + Mochila ; R$ 3.869,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-45G-R46X AMD Ryzen 7 Windows 11 Home 8GB 512GB SSD RX 640 15,6' Full HD ; R$ 4.949,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-56-3090 Intel Core i3 - 8GB 256GB SSD 15,6” LED Windows 10 ; R$ 3.199,00 ;  Data: 29/10/2022 
+Notebook Lenovo, Intel Core i3 10110U, 4GB, 1TB, Tela de 15,6", UHD Graphics, Prata, IdeaPad 3i - 82BS0002BR ; R$ 3.221,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell Alienware m15 R6 Intel Core i7-11800H, GeForce RTX 3070, 16GB RAM, SSD 1TB, 15.6 FHD 165Hz, Win 11, Preto - AW15-i1100-A30P ; R$ 10.999,99 ;  Data: 29/10/2022 
+Notebook LG Gram Intel Core i7-1165G7, 16GB RAM, 512GB SSD M.2 NVMe, 17' IPS, Iris Xe Graphics, Windows 10 Home, Preto - 17Z90P-G.BH71P2 ; R$ 8.999,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3 R7-5700U 8GB 256GB SSD Windows 11 15.6" 82MF0004BR Prata ; R$ 3.689,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 82DJ0001BR - Intel Core i5 8GB 1TB 15,6” Windows 10 ; R$ 4.319,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-1035G1, 4GB RAM, SSD 256GB NVMe, 14 HD Ultrafino, UHD Graphics, Windows 10 Home, Prata - A514-53-5239 ; R$ 2.999,99 ;  Data: 29/10/2022 
+Notebook Compaq Presario 452 Intel Core i5 Linux 8GB 1TB 14" - Cinza ; R$ 2.804,15 ;  Data: 29/10/2022 
+Notebook Lenovo I3 4GB 256SSD 15,6" Windows 11 ; R$ 3.881,45 ;  Data: 29/10/2022 
+Notebook Asus VivoBook X543UA-GQ3213T - Intel Core i5 8GB 256 SSD 15,6” LED Windows 10 ; R$ 3.239,10 ;  Data: 29/10/2022 
+Notebook X515JA-BR2750W Intel Core i3 4GB 256 GB SSD Tela 15.6 Windons 11 Asus ; R$ 2.422,98 ;  Data: 29/10/2022 
+ASUS Notebook E410 - NOTEBOOK ASUS ; R$ 1.750,00 ;  Data: 29/10/2022 
+Notebook ASUS X515EA-EJ1320 Intel Core i3 1005G1 4GB 256GB SSD Linux 15,6" Cinza ; R$ 2.124,15 ;  Data: 29/10/2022 
+Notebook Gamer AN515-55-58UJ Nitro 5 Intel Core i5 8GB 1TB+256GB SSD GeForce GTX 4GB 15.6 IPS Windows 11 10ºGer Acer ; R$ 4.644,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Linux Preto ; R$ 4.121,10 ;  Data: 29/10/2022 
+Notebook IdeaPad 82BS0006BR Intel Core i3-10110U 4GB RAM 256GB SSD Tela 15.6 Windows 10 Lenovo ; R$ 2.927,97 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0500-UM10S 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Linux Prata ; R$ 3.761,05 ;  Data: 29/10/2022 
+Notebook Lenovo ThinkPad T14 i7-1270P 8GB 256GB SSD W11 Pro 14" WUXGA 21AJ0019BO Preto ; R$ 10.899,00 ;  Data: 29/10/2022 
+Notebook Samsung Book E20 Intel Celeron 6305, 4GB, 500GB HD, 15,6 LED Full HD, Windows 10 Home, Cinza Chumbo - NP550XDA-KO1BR ; R$ 2.199,99 ;  Data: 29/10/2022 
+Notebook HP 250-G8, Intel Core i3, 4GB, 128GB SSD, Tela de 15", 4N0Z7LA ; R$ 2.913,06 ;  Data: 29/10/2022 
+Notebook Gamer Legion 5 R7-5800H 16GB 512GB SSD RTX3050 4GB W11 15.6" Full HD WVA 82QJ0000BR - Lenovo ; R$ 8.499,00 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 8GB 256GB SSD W11 Home 14" HD 82NM0010BR Preto ; R$ 2.931,30 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-U30T 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Linux Cinza Chumbo ; R$ 3.662,10 ;  Data: 29/10/2022 
+Notebook Asus Intel Core i3-1005G1 4GB 256GB SSD W11 15,6" Cinza X515JA-BR2750W ; R$ 3.020,44 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0700-UM20P 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Linux Preto ; R$ 4.121,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i Intel Core i7-10510U, NVIDIA GeForce MX330, 8GB, SSD 256GB, Windows 11, 15.6, Prata - 82BS000MBR ; R$ 3.999,99 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 3000 a0500-MM10SF 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 + Microsoft 365 Prata ; R$ 3.986,10 ;  Data: 29/10/2022 
+Notebook IdeaPad 3i-15IML 82BS000JBR Intel Core i3-10110U 4GB RAM 256GB HD 15,6 Windows 11 Lenovo ; R$ 2.826,99 ;  Data: 29/10/2022 
+Notebook ASUS X515JF-EJ360W Intel Core i5 1035G1 8GB 256GB SSD W11 15,6" Cinza ; R$ 3.739,00 ;  Data: 29/10/2022 
+Notebook LG Gram Intel Core i5-1035G7, 8GB, 256GB SSD M.2 NVMe, 15.6 IPS FHD, Windows 10 Home, Cinza Escuro - 15Z90N-V.BJ51P2 ; R$ 4.299,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0500-UM10P 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Linux Preto ; R$ 3.761,05 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-54LT Intel Core i5 11ª Gen Windows 10 Home 8GB 256GB SSD 14' Full HD ; R$ 4.099,99 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook Pro 15 K3500PH-KJ378W Intel Core i5 11300H 8GB 512GB SSD W11 15,6" GTX 1650 ; R$ 4.674,15 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3i i5-10300H 8GB 256GBSSD GTX 1650 4GB 15.6" FHD WVA Linux 82CGS00100 - Lenovo ; R$ 4.499,10 ;  Data: 29/10/2022 
+Apple MacBook Pro 13" (M2 da Apple, com 8 CPU, 10 GPU, 8GB RAM, 256GB SSD) - Prateado ; R$ 13.310,08 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 Intel Core i5 8GB - 256GB SSD 15,6” Placa de Vídeo 2GB Windows 10 ; R$ 4.499,10 ;  Data: 29/10/2022 
+Notebook Samsung Dual Core NP550XDZ-KP4BR 500GB 4GB Tela Full HD 15.6” Linux ; R$ 2.279,11 ;  Data: 29/10/2022 
+Notebook Compaq Presario 452 14.1 HD I5-6287U 1TB 8GB Linux ; R$ 2.491,20 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 81XM0005BR - Intel Core i3 4GB 256GB SSD 15,6” Windows 10 ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire Vero Intel Core i5 8GB - 256GB SSD 15,6” Full HD Windows 11 A315-58-573P ; R$ 3.284,10 ;  Data: 29/10/2022 
+Notebook M11W Prime 2 em 1 Windows 11 Home Intel Celeron Tela 11,6 Pol + Microsoft 365 Personal e 1TB na Nuvem - PC280 - Multilaser ; R$ 1.416,51 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 a0700-UM20S 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Linux Prata ; R$ 4.121,10 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6" Full HD Intel Dual Core 4GB DDR4 500GB Windows 11 Branco NP550XDA-KP2BR ; R$ 2.260,15 ;  Data: 29/10/2022 
+Notebook ASUS E510MA-BR701X Intel Celeron Dual Core N4020 4GB 128GB W11 15,6" LED-backlit Azul ; R$ 1.954,15 ;  Data: 29/10/2022 
+Notebook Dell 15 I5-1135G7 8GB SSD256GB Vostro 3510 Windows 10 Pro 210-BCDK-NBV34 Cinza ; R$ 4.999,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Red Intel Atom 4gb 64gb SSD Q464C ; R$ 1.614,92 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 4GB 128GB SSD W11 Home 14" HD 82NM000XBR Preto ; R$ 2.999,99 ;  Data: 29/10/2022 
+Chromebook Samsung XE501C13-AD1BR Intel Celeron 2GB 16GB Tela 11.6Pol LED HD Chrome OS ; R$ 1.791,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 I15 - Intel Core i3 10a. Geração 4GB 128GB 15,6” Windows 11 ; R$ 3.449,90 ;  Data: 29/10/2022 
+Notebook HP Intel Core i3 8GB 256GB SSD 15,6” - HD Windows 11 256 G8 ; R$ 3.399,99 ;  Data: 29/10/2022 
+Notebook Ultra UB522 Intel Core i5 8GB - 240GB SSD 15,6” Full HD LCD Windows 10 ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Vaio FE15 15.6 Pol i5-10210U 256Gb SSD 8GB Win10 Cinza - Positivo ; R$ 4.122,42 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6" Full HD, Celeron 6305, 4GB RAM, 128GB SSD, W11, NP550XDA-KP7BR, Cinza ; R$ 3.229,04 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 5510 Core I7 11th 16gb 512ssd Mx450 Tela 15" Windows ; R$ 7.360,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-789C Intel Core i7 11ª Gen Windows 11 Home 8GB 512GB SDD 14' Full HD ; R$ 3.689,10 ;  Data: 29/10/2022 
+Notebook HP 250 G8 15,6 HD i3-1005G1 128GB SSD 4GB Win10 Pro Prata - 4N0Z7LAAK4 ; R$ 2.599,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 i5-10210U 8GB 256GB SSD Linux 15,6'' ; R$ 3.799,90 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron 15 3000 a0700-MM20SF 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Windows 11 + Microsoft 365 Prata ; R$ 4.535,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 81WT0005BR - Intel Celeron 4GB 500GB 15,6” LCD Windows 10 ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Legacy Book, com Windows 10 Home, Processador Intel Quad, 64GB 4GB 14,1 Pol. HD, + Microsoft 365 Personal + 1TB na Nuvem - PC312 - Multilaser ; R$ 1.483,90 ;  Data: 29/10/2022 
+Notebook Asus VivoBook, Intel Core i3 7020U, 4GB, 256GB SSD, Tela de 15,6", Windows 10, Cinza Escuro - X543UA-GQ343 ; R$ 2.999,00 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-54-76EG Intel Core i7 Windows 11 Home 8GB 512GB SSD GTX 1650 17.3' ; R$ 5.219,10 ;  Data: 29/10/2022 
+Notebook HP 250-G8, Core i5, 16GB, 256GB SSD, 15" - 3G5A4LA ; R$ 4.022,26 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel, Celeron, 4Gb, 500Gb, 15.6 Pol ; R$ 2.051,81 ;  Data: 29/10/2022 
+Notebook Acer Chromebook Intel 2.8GHz 4GB RAM 32GB SSD Chrome OS Tela 11.6 ; R$ 2.489,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-34-C9WH Intel Celeron N4020 4GB 128GB SSD W11 15.6” - Preto ; R$ 2.397,33 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Air Intel Dual Core 4GB - SSD 32GB LCD 13,3” Full HD Windows 10 ; R$ 1.359,90 ;  Data: 29/10/2022 
+Notebook HP Intel Core i5-1035G1, 8GB RAM, 256GB SSD, 15.6, Windows 11 Pro, Preto - 640Z5LA ; R$ 4.099,99 ;  Data: 29/10/2022 
+Notebook Samsung Flash F30 Intel Dual Core - 4GB 64GB SSD 13,3” Full HD LED Windows 10 ; R$ 3.499,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3, Tela de 14", Intel Celeron-N4500, Windows 11, SSD 128GB, Prata ; R$ 2.429,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U35P 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Linux ; R$ 4.013,10 ;  Data: 29/10/2022 
+Notebook Samsung NP550XDZKO4BR 500GB 4GB RAM Linux Cinza ; R$ 2.796,90 ;  Data: 29/10/2022 
+Notebook 15,6" IdeaPad 3i Celeron N4020, 4Gb, SSD 128GB, Linux, Prata, 82BUS00100 LENOVO ; R$ 1.709,05 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 82DJ0003BR Intel Core - i5 8GB 256GB SSD LCD 15.6” HD Windows 10 ; R$ 3.689,10 ;  Data: 29/10/2022 
+Notebook Samsung NP550XDAKO1BR, Tela FHD de 15.6" Intel Celeron HD 500GB 4GB RAM Windows 10 Cinza ; R$ 2.959,00 ;  Data: 29/10/2022 
+Notebook ASUS E410MA-BV1870X Intel Celeron Dual Core N4020 4GB 128GB SSD W11 14" Peacock Blue ; R$ 2.464,15 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-44-R4KA AMD Ryzen 7 Windows 11 Home 8GB 512GB SSD GTX 1650 15.6' ; R$ 6.299,10 ;  Data: 29/10/2022 
+Notebook Philco PNB15 Intel Core i3 RAM 4GB 1TB W10 15,6'' ; R$ 2.249,10 ;  Data: 29/10/2022 
+Notebook HP 250-G8, Intel Core i5, 16GB de Memória, Windows 11 Pro, 256GB SSD, Tela de 15.6", HP ; R$ 4.276,06 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-52-50RS Intel Core i5 Windows 11 Home 8GB 512GB SSD GTX 1650 17.3' ; R$ 5.228,09 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book S Intel Core i5, Windows 11 Home, 8GB, 256GB SSD, 13.3" Full HD, 950g ; R$ 5.368,65 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 15.6 FHD i5-10210U 256GB SSD 4GB Linux Cinza - A515-54-5526 ; R$ 2.969,10 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron i15-i1100-M10PC 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Preto com Capa ; R$ 3.067,55 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-A60S 15.6” Full HD 11ª geração Intel Core i7 16GB 512GB SSD NVIDIA Geforce Windows 11 ; R$ 5.939,10 ;  Data: 29/10/2022 
+Notebook 14" ASPIRE 3 CELERON N4500, 4Gb, SSD 256GB NVMe, Windows 10 HOME, Modelo A314-35-C4CZ ACER ; R$ 2.279,97 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 4GB 128GB SSD W11 Home 14" HD 82NM000XBR Preto ; R$ 2.880,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3, Intel Celeron N4020, 4GB, 128GB SSD NVMe, 15,6", Windows 11 Home, Preto - A315-34-C9WH - bringIT ; R$ 1.949,90 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook Pro 15 K3500PC-KJ391W Intel i5 11300H 16GB 512GB SSD RTX3050 W11 15,6" Prata ; R$ 6.374,15 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook K513EA-L13522W OLED Core i7 16GB 512GB SSD W11 15,6" OLED Full HD Black ; R$ 6.204,15 ;  Data: 29/10/2022 
+Notebook ASUS ZenBook Duo UX482EAR-KA371W Intel Core i7 1195G7 16GB 512GB SSD W11 14" Azul Celestial ; R$ 8.499,15 ;  Data: 29/10/2022 
+Notebook Multilaser Ultra Intel Core i5 W10 8GB 240GB SSD 14.1 Polegadas UB532 ; R$ 6.990,05 ;  Data: 29/10/2022 
+Notebook Dell Alienware x17 R2 AW17-X17R2-M30S 17.3" FHD 12ª ger Intel Core i9 16GB 1TB SSD RTX 3080Ti Win ; R$ 33.749,10 ;  Data: 29/10/2022 
+Notebook IdeaPad 3i-15IML 82BS000GBR Intel Core i5-10210U 8GB RAM 256GB HD 15,6 Windows 11 Lenovo ; R$ 3.231,00 ;  Data: 29/10/2022 
+Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB SSD Windows 11 Pro 20TB002HBO Preto ; R$ 5.669,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3, Tela de 15.6", Intel Core i3 1005G1, Windows 10, 1TB, 8GB RAM, Cinza ; R$ 3.899,00 ;  Data: 29/10/2022 
+Notebook Asus, Intel Core i3 1115G4, 4GB, 256GB SSD, Tela de 15,6", Cinza - X515EA-EJ1320T ; R$ 2.265,00 ;  Data: 29/10/2022 
+Notebook Intel Celeron 4GB RAM 120GB SSD Multilaser Ultra UB220 Tela 15.6" Windows 11 Prata ; R$ 2.069,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M58S 15.6" Full HD 11ª Geração Intel Core i5 16GB 512GB SSD Windows 11 Prata ; R$ 4.742,10 ;  Data: 29/10/2022 
+Notebook Samsung Book X50 Intel Core i7 8GB 1TB - 15,6” Placa de Vídeo 2GB Windows 10 ; R$ 5.669,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-M30T 15.6" FHD AMD Ryzen 5 8GB 256GB SSD Windows 11 Cinza Chumbo ; R$ 3.797,10 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Go Snapdragon 8 núcleos 4GB 128GB SSD Tela Full HD 14" Windows 11 + Pacote Office 365 Personal NP340XLA-K04BR ; R$ 1.983,90 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4gb 64gb SSD Q464C ; R$ 1.529,92 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-354R Core i3 11ª Gen Windows 10 Home 4GB 256GB SSD 14' FHD ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Lenovo V15 G1 IML Intel Core i3-10110U, 4GB RAM, HDD 500GB, 15.6' Antireflexo, Intel UHD Graphics, FreeDos, Cinza Ferro - 82NQ0007BR ; R$ 2.299,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 I15 - Intel Core i3 10a. Geração 8GB 256GB 15,6” Windows 11 ; R$ 3.799,00 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i3-1115G4 Windows 11 Home 4GB 1TB 15.6 Full HD LED ; R$ 2.869,56 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Intel Core i5 - 8GB 256GB SSD 15,6” Full HD Windows 11 ; R$ 7.252,25 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q464c Intel Atom QuadCore Windows 10 Home 14,1'' - Cinza ; R$ 1.231,65 ;  Data: 29/10/2022 
+Notebook Intel Pentium 4GB RAM 64GB Multilaser PC310 Tela 14" Windows 10 ; R$ 1.529,10 ;  Data: 29/10/2022 
+Notebook HP 250-G8, Intel Core i5, 16GB de Memória, Windows 11 Pro, 256GB SSD, Tela de 15.6", HP ; R$ 4.276,06 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 12gb Hd 1tb Ssd 256gb Tela 15.6'' Full Hd Windows 11 Pro ; R$ 4.891,95 ;  Data: 29/10/2022 
+Notebook Legacy, com Windows 10 Home, Processador Intel Dual Core, 4GB, Tela HD 14 Pol, Preto - PC201 - Multilaser ; R$ 1.348,90 ;  Data: 29/10/2022 
+Notebook Dell Vostro 3515 Amd Ryzen 5 8gb 256ssd Radeon Tela 15" Windows ; R$ 4.380,00 ;  Data: 29/10/2022 
+Desktop Gamer Predator Orion 5000 PO5-620-BR13 Intel Core I7 Windows 11 Home 16GB 1TB SSD RTX 3070 - Acer ; R$ 10.799,10 ;  Data: 29/10/2022 
+Notebook Samsung Book X55 Intel Core i7 16GB 1TB - 128GB SSD 15,6” Placa de Vídeo 2GB Windows 10 ; R$ 7.649,10 ;  Data: 29/10/2022 
+Notebook Multilaser PC134 Legacy Cloud Intel Atom-Z8350 2GB 64GB W10 14" Cinza ; R$ 1.499,99 ;  Data: 29/10/2022 
+Notebook 2 em 1 Lenovo,Intel Core i7-1165G7,8GB,256GB SSD,Tela 14",Placa Vídeo Intel Iris Xe,IdeaPad Flex 5i- 82LT0 ; R$ 5.200,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino Ideapad S145, 15.6” Intel Core i5, 8GB, 256GB SSD Windows 10 ; R$ 5.526,02 ;  Data: 29/10/2022 
+Notebook Philco Tela 14 120gb Ssd 4gb Ram Windows 10 Bivolt ; R$ 1.875,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino Ideapad S145, 15.6”, Intel Core i3, 4GB, 1TB HD, Windows 10 ; R$ 3.526,82 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i Intel Core i5 10210U 8GB SSD 256GB Windows 11 Tela 15,6'' Prata 82BS000GBR ; R$ 3.255,12 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U20P 15.6" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Linux ; R$ 3.419,05 ;  Data: 29/10/2022 
+Notebook Compaq Presario 452 Intel Core i5 - Linux - 8GB 1TB 14" - Cinza ; R$ 2.899,00 ;  Data: 29/10/2022 
+Notebook acer nitro 5 an515-55-59t4 - ACER NITRO 5 GAMER ; R$ 5.099,00 ;  Data: 29/10/2022 
+Notebook Compaq Presario 423 Intel Pentium N3700 - Linux - 4GB 500 GB 14" - Cinza ; R$ 1.899,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4gb 64gb SSD Q464C ; R$ 1.529,92 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4120F 128 GB ; R$ 1.859,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i13-i1200-M10S 13.3 Full HD 12ª Ger. Plataforma Intel EVO Core i5 8GB 256GB SSD Windows 11 ; R$ 5.804,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3-15ALC 82MFS00100 Ryzen 5-5500U 8GB RAM 256GB HD 15.6 Linux ; R$ 2.726,01 ;  Data: 29/10/2022 
+Notebook Msi 17.3 Crosshair 17 A11udk-091 Gaming Laptop ; R$ 8.999,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i 82BUS00100 Intel Celeron Linux 4GB 128GB 15.6 Polegadas ; R$ 2.468,32 ;  Data: 29/10/2022 
+Notebook Lenovo V14 AMD R5-5625U 8GB 256GB SSD W11 Home 14" FHD 82UN000CBR ; R$ 4.699,00 ;  Data: 29/10/2022 
+Notebook Lenovo Gaming 3i I7 16gb 512 Ssd Gtx1650 4gb W10 - IMP ; R$ 12.415,41 ;  Data: 29/10/2022 
+NOTEBOOK ACER GAMING PREDATOR HELIOS 300 I7-11800H 2.3GHz - 16GB - 512GB SSD + 1TB - 15.6"FHD - GFORCE RTX 3060 6GB DED ; R$ 14.990,00 ;  Data: 29/10/2022 
+Notebook Samsung Book E20 15" NP550 Intel Celeron 5205U 4GB/500GB Branco - Positivo ; R$ 3.908,85 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U60P 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Preto ; R$ 5.174,10 ;  Data: 29/10/2022 
+Notebook VAIO FE14 VJFE42F11X-B2321H Intel Core i3-10110U 4GB 1 TB HDD 14" Full HD Linux Debian 10 ; R$ 2.999,00 ;  Data: 29/10/2022 
+Notebook Ryzen 5 8GB RAM 256GB SSD IdeaPad S145-15API Tela 15.6" Windows 10 - Lenovo ; R$ 3.599,10 ;  Data: 29/10/2022 
+Notebook Ryzen 5 8GB RAM 256GB SSD IdeaPad S145-15API Tela 15.6" Windows 10 - Lenovo ; R$ 3.599,10 ;  Data: 29/10/2022 
+Notebook Samsung NP550XDA-KV1BR Intel Core i3-1115G4 4GB 1TB HD Tela 15,6" Windows 11 - Cinza ; R$ 3.149,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-5320-P20C 13.3" Full HD+ 12ª Ger. Plataforma Intel EVO Core i7 16GB 512GB SSD Windows 11 Pro ; R$ 7.532,10 ;  Data: 29/10/2022 
+Kit Office - Notebook Legacy Book, com Windows 10 Home, Processador Intel Quad, 64GB 4GB 14,1 Pol + Microsoft 365 Personal e Headset Pro P2 -PH316K - Multilaser ; R$ 1.379,19 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 8GB 500GB - 15,6” Full HD Windows 11 NP550XDA-KP1BR ; R$ 2.095,00 ;  Data: 29/10/2022 
+Notebook Vaio FE14 VJFE42F11X-B0392H Intel Core i5-10210U 8GB 256GB SSD Full HD Windows 11 Home ; R$ 4.099,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-M10BP 15.6" FHD 12ª Geração Intel Core i5 8GB 256GB SSD NVIDIA RTX 3050 Win 11 com Mochila ; R$ 6.722,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 256GB SSD Intel UHD Graphics Linux 15.6" ; R$ 2.463,12 ;  Data: 29/10/2022 
+Notebook Asus Intel Celeron 4GB 128GB W11 Pro 15,6" Preto E510MA-BR702X ; R$ 2.049,99 ;  Data: 29/10/2022 
+Notebook Dell Alienware x17 R2 AW17-X17R2-M20S 17.3" FHD 12ª ger Intel Core i7 16GB 1TB SSD RTX 3080Ti Win ; R$ 28.799,10 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-54-58CL Intel Core i5 8GB 1TB HD 128GB SSD GTX 1650 15.6' Endless ; R$ 5.219,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6 Full HD, Windows 11, Preto - 82MG0009BR ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Gamer Acer AN517-52-75WH - Tela 17.3 IPS FHD 144Hz, i7 10750H, 8GB, SSD 512GB, GTX 1650 ; R$ 6.744,94 ;  Data: 29/10/2022 
+Notebook Dell Vostro 3401 Core I3 4gb 128ssd Tela 14" Windows ; R$ 4.210,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion C4128Ei Intel Celeron Dual-Core Linux 14" - Vermelho ; R$ 1.486,65 ;  Data: 29/10/2022 
+Notebook M515DA-BR1213W AMD RYZEN 5 8GB 256 GB SSD Asus ; R$ 2.775,51 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M35S 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Prata ; R$ 4.157,10 ;  Data: 29/10/2022 
+Notebook M11W Prime 2em1, Windows 11, Processador Intel Celeron, 128GB, 4GB RAM, Tela 11,6 Pol Microsoft 365 Personal e 1TB na Nuvem - PC281 - Multilaser ; R$ 1.250,10 ;  Data: 29/10/2022 
+Notebook Ultraportátil Dell X13-i1200-M20 13.4" Ultra HD+ Touch 12ª Ger Plataforma Intel EVO Core i7 32GB 1TB SSD Win 11 ; R$ 12.419,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M55S 15.6" Full HD 11ª Geração Intel Core i5 8GB 512GB SSD Windows 11 Prata ; R$ 4.355,10 ;  Data: 29/10/2022 
+Notebook VAIO FE15 Intel Core i3-10110U Windows 10 Home 4GB 256GB SSD HD - Cinza Escuro ; R$ 3.144,15 ;  Data: 29/10/2022 
+Notebook Vaio FE14 VJFE42F11X-B4211H Intel Core i3-10110U 4GB 1TB HD 2,5' Full HD Linux Cinza Escuro ; R$ 2.999,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-M40BP 15.6" FHD 12ª Ger Intel Core i7 16GB 512GB SSD NVIDIA RTX 3060 Win 11 com Mochila ; R$ 10.466,10 ;  Data: 29/10/2022 
+Notebook Intel Core i3 4GB RAM 256GB SSD Acer Aspire 5 A515-56-327T Tela 15.6" Windows 10 Home ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Gamer ASUS ROG Strix G513RM-HQ234W Ryzen7 16GB 512GB SSD W11 15,6" LED NVIDIA RTX3060 ; R$ 13.599,15 ;  Data: 29/10/2022 
+Notebook Acer Predator Helios 300 PH315-54-7852 ; R$ 13.486,52 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64Gb Win 11 ; R$ 2.137,41 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book2 Pro, Intel Core i7 -1260P, 16GB, 1TB SSD, Tela 15.6", Full HD AMOLED, Intel Arc A350M ; R$ 10.813,97 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 256GB SSD Windows 11 15.6"FHD 82MD000ABR ; R$ 2.699,10 ;  Data: 29/10/2022 
+MSI Creator Pro Z16 Intel 12ª geração i9-12900H RTX A5500 tela 16' QHD SSD 4Tb NVMe RAM 64Gb ; R$ 56.900,00 ;  Data: 29/10/2022 
+Notebook Ultra UB522 Intel Core i5 8GB RAM 240GB HD 15,6 Windows 10 Home ; R$ 2.726,01 ;  Data: 29/10/2022 
+Notebook Samsung NP550 15,6 Polegadas 256GB 4GB RAM ; R$ 2.209,92 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1135G7 16GB 512GB ssd W11 Pro 14 fhd 82NM0013BR Preto ; R$ 4.999,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-34-C2BV Intel Celeron 4GB 128GB SSD W11 15.6" - Preto ; R$ 2.114,20 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KF2BR Intel Core i5 - 8GB 256GB SSD 15,6” Full HD Windows 10 ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Samsung NP550XDA-KP2BR Core 6305 4GB SSD 32GB 15.6" W11 Branco ; R$ 3.353,84 ;  Data: 29/10/2022 
+Notebook Dell Latitude 3420 Core I7 i7-1165G7 32gb SSD 1Tb NVME e TELA 14 polegadas ; R$ 7.999,90 ;  Data: 29/10/2022 
+Notebook ASUS Zenbook 14X OLED UX5401ZA-L7140W Intel Core i7 12700H 12G 16GB 512GB SSD Windows 11 ; R$ 9.349,15 ;  Data: 29/10/2022 
+Notebook Legacy Intel Dual Core Windows 10 4Gb Tela Hd 14 Pol, Preto Multilaser - PC201 ; R$ 1.214,01 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-34-C6ZS Intel Celeron - Dual-Core 4GB 1TB 15,6” LED Linux ; R$ 2.849,00 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Pro Intel Core I7-1165G7, Windows 10 Home, 16GB, 1TB SSD, 15.6'' Full HD AMOLED, Bivolt ; R$ 10.499,90 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i3 4GB - 256GB SSD + Pacote Office 365 Personal 1 Digital ; R$ 2.374,20 ;  Data: 29/10/2022 
+Notebook Dell Vostro 3515 Amd Ryzen7 3700u 8gb 256ssd Radeon ; R$ 4.680,00 ;  Data: 29/10/2022 
+Notebook Vaio FE14 VJFE42F11X-B3511W Intel Core i3-10110U 4GB 128GB SSD M.2 Full HD Linux - Branco ; R$ 2.999,00 ;  Data: 29/10/2022 
+Notebook Gamer 2AM E550 NVIDIA GeForce GTX 1050 3GB - Windows 10 Home Core i7-9700 8GB SSD NVMe 256GB FullHD 15.6" - 2 A.M. ; R$ 4.971,65 ;  Data: 29/10/2022 
+Notebook Intel Atom Quad Core 4GB RAM 128GB eMMC Positivo Motion Q4128B 14" Windows 10 Home ; R$ 1.529,10 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book GO Snapdragon 7c, Win 11, 4GB, 128GB UFS, 14'' Full HD - NP340XLA-K04BR ; R$ 2.799,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M35P 15.6" Full HD 11ª Geração Intel Core i5 8GB 256GB SSD Windows 11 Preto ; R$ 4.157,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U55P 15.6" Full HD 11ª Geração Intel Core i5 8GB 512GB SSD Linux ; R$ 4.202,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Legion 5i i7-10750H, NVIDIA GeForce RTX 2060, 16GB, HD 1TB,- 82CF0004BR ; R$ 12.361,41 ;  Data: 29/10/2022 
+Notebook Intel Core i3 4GB 120GB SSD Compaq Presario 430 Tela 14" Windows 10 ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-58-38SD Intel Core i3 11ª Gen Windows 11 Home 4GB 256GB SDD 15.6' FHD ; R$ 3.419,10 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook Xe310xba Cinza 11.6 , Intel Celeron N4020 4gb De Ram 32gb Ssd, Intel Uhd Graphics 600 1366x7 ; R$ 1.569,00 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD Intel Iris Xe Graphics Win10Pro 14" FHD 82NM0003BR Preto ; R$ 3.869,10 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0506-M20P 15.6" FHD AMD Ryzen 5 6600H 8GB 512GB SSD NVIDIA RTX 3050 Windows 11 11 ; R$ 6.848,10 ;  Data: 29/10/2022 
+Notebook Dragonflyg2 HP, Core i5, 16GB, 256GB SSD, Tela de 13", Windows 11Pro ; R$ 13.208,00 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i5 Windows 11 Home 8GB 256GB SSD Full HD - Branco ; R$ 3.654,15 ;  Data: 29/10/2022 
+Notebook Acer E15 E-553G-T4TJ ; R$ 2.300,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 3511 Core I5 11th 8gb 256ssd Tela 15" Windows ; R$ 5.235,00 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-45-R1FQ AMD Ryzen 7 Windows 11 Home 8GB 512GB SSD GTX 1650 15.6' ; R$ 6.299,10 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-U30P 15.6" FHD 12ª Geração Intel Core i5 16GB 512GB SSD NVIDIA RTX 3050 Linux ; R$ 7.685,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M60PP 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11 ; R$ 5.318,10 ;  Data: 29/10/2022 
+Notebook Intel Core i5-1035G1 8GB 256GB SSD X515JA-EJ1792 Asus ; R$ 2.826,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i3 4GB - 256GB SSD + Pacote Office 365 Personal 1 Digital ; R$ 2.374,20 ;  Data: 29/10/2022 
+Notebook Acer Intel Core i3 4GB 256GB SSD 15,6 TN Windows 11 Aspire 3 A315-56-3478 1005G1 ; R$ 2.726,01 ;  Data: 29/10/2022 
+Notebook Dell Alienware m15 R7 i1200-PS10P 15.6" QHD 12ª g. Intel Core i7 16GB 1TB SSD RTX 3070Ti Win 11 Premium Support ; R$ 14.462,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3I 15.6 I5 8GB 256 SSD W11H 82MD0007BR Cinza ; R$ 3.299,00 ;  Data: 29/10/2022 
+Notebook ASUS Zenbook 14X OLED UX5401ZA-L7145W Core i7 16GB 1TGB SSD W11 Tela 14" OLED 16:10 Cinza ; R$ 10.199,15 ;  Data: 29/10/2022 
+Notebook Dell Vostro 3510 Core I5 10th 8gb 256ssd Tela 15" Windows 10 ; R$ 5.140,00 ;  Data: 29/10/2022 
+Notebook Positivo Motion Red Q232B Intel Quad Core - 2GB eMMC 32GB 14” Windows 10 ; R$ 1.599,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-54LT Intel Core i5 11ª Gen Windows 10 Home 8GB 256GB SSD 14' Full HD ; R$ 4.599,78 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core i3 1115G4 4GB SSD 256GB Tela 15.6" Full HD Windows 11 Home Cinza NP550XDA-KV3BR ; R$ 2.551,12 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-54-58z4 Intel Core I5-10210u 8gb 512gb Ssd W11 15.6” Prata ; R$ 4.999,00 ;  Data: 29/10/2022 
+Asus ZenBook Space Edition Intel 12ª geração i9-12900H Iris Xe tela 14' OLED SSD 4Tb NVMe RAM 32Gb ; R$ 28.900,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i3 4GB - 256GB SSD + Microsoft 365 Personal 2020 Office ; R$ 2.410,20 ;  Data: 29/10/2022 
+Notebook Galaxy Book Pro 360 Intel Core I7 16GB 512GB SSD Windows 11 Home Samsung ; R$ 9.699,00 ;  Data: 29/10/2022 
+Notebook Samsung Cda Galaxy Book S 256gb Np767xcm-k01br ; R$ 7.840,02 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1200-U20P 15.6" FHD 12ª Geração Intel Core i5 8GB 512GB SSD NVIDIA RTX 3050 Linux ; R$ 7.010,10 ;  Data: 29/10/2022 
+Notebook Dell Latitude 3420 Core I3-1115G4 8gb SSD 256 NVME e TELA 14 polegadas ; R$ 4.399,90 ;  Data: 29/10/2022 
+Notebook Vaio FE 14 Intel Core i3-10110u Windows 11 home Chumbo Escuro 100~240v VJFE42F11X-B2391H ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook 14" Legacy PC312 Pentium, 4GB, 64GB, Windows 10 + Microsoft 365 Personal MULTILASER ; R$ 1.539,40 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 8GB 256GB SSD Linux 14" HD 82NMS00000 Preto ; R$ 3.103,78 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-56-569F Intel Core i5 - 4GB 256GB SSD 15,6” LED Linux ; R$ 4.299,99 ;  Data: 29/10/2022 
+Notebook AMD Ryzen 5 8GB RAM 512GB SSD Acer Aspire 3 A315-23-R6HC Tela HD 15.6" Windows 10 ; R$ 3.689,10 ;  Data: 29/10/2022 
+Notebook Ultra Windows 10 Intel Core i3 4GB 120GB SSD Tela 14,1 Pol. HD Prata - UB430 ; R$ 1.943,01 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 8gb Hd 1tb Ssd 256gb Tela 15.6'' Full Hd Windows 11 Pro ; R$ 4.782,75 ;  Data: 29/10/2022 
+Notebook Acer Core i5- 10210U 8GB 512GB SSD Tela Full HD 15.6” Windows 11 Aspire 5 A515-54-58Z4 ; R$ 4.093,95 ;  Data: 29/10/2022 
+Notebook Dell Alienware X17 R1 I7 11th 16gb 512ssd Rtx3060 - IMP ; R$ 35.475,30 ;  Data: 29/10/2022 
+Notebook Aspire 3 I3 8GB 256GB SSD 15.6" W11 Prata Acer ; R$ 3.499,00 ;  Data: 29/10/2022 
+Notebook Aspire 3 I3 8GB 256GB SSD 15.6" W11 Prata Acer ; R$ 3.499,00 ;  Data: 29/10/2022 
+Notebook Gamer Acer AN515-57-52LC Tela 15.6 IPS 144Hz, i5, 16GB, SSD 512GB, GTX 1650, Windows 11 ; R$ 6.109,99 ;  Data: 29/10/2022 
+Notebook Samsung Book E30 Intel Core i3 4GB 1TB - 15,6” Full HD Windows 10 ; R$ 5.050,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V16-7620-P30P 16" Full HD+ 12ª Geração Intel Core i7 16GB 1TB SSD Windows 11 Pro Preto ; R$ 9.728,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 15ALC6 - AMD Ryzen 7 5700U, 15,6", 8GB, SSD 256GB - Windows 10 ; R$ 5.549,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-M70PP 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD NVIDIA GeForce Windows 11 ; R$ 5.561,10 ;  Data: 29/10/2022 
+Notebook Lenovo Dual Core 4GB 128GB SSD 15,6 Win11 Ideapad 3i 82BU0006BR ; R$ 1.869,92 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3 W11 4GB 256GB SSD 15.6 A515-54-33EN ; R$ 3.299,99 ;  Data: 29/10/2022 
+Notebook ideapad Gaming 3 R7-5800H 16GB 512GBSSD GTX 1650 4GB 15.6" FHD W11 82MJ0000BR - Lenovo ; R$ 5.849,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-34-C3WL Intel Celeron Windows 11 Home 4GB 256GB SSD 15.6" LED ; R$ 2.699,10 ;  Data: 29/10/2022 
+Notebook Gamer Predator Helios 300 PH315-53-75N8 i7 Win10 Home 16GB 512GB SSD RTX 2060 15,6' - Acer ; R$ 11.688,76 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i 15,6 Polegadas Celeron N4020 SSD 128GB 4GB Win 11 Home + Office 365 Prata 82BU0008BR ; R$ 1.698,30 ;  Data: 29/10/2022 
+Notebook Gamer 15.6" Acer Nitro 5 AN515-44-R4KA AMD Ryzen 7-4800H, 8GB, 512GB SSD, GTX 1650, Windows 11 ACER ; R$ 6.040,50 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5-1135G7 8GB 256GB SSD Intel Iris Xe W11 15.6" FHD 82MD0007BR ; R$ 3.599,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-397J Core i3 8GB 256GB SSD W11 14” - Safari Gold ; R$ 3.094,59 ;  Data: 29/10/2022 
+Notebook Compaq Presario CQ-27 Core i3 5005u 4GB SSD 120GB W10 ; R$ 2.349,80 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook X513EA-EJ3012W Intel Core i7 1165G7 8GB 256GB SSD+1T HD W11 15,6" LED Preto ; R$ 4.164,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 AMD Ryzen 5 8GB 256GB SSD W11 15.6 Prata ; R$ 3.899,00 ;  Data: 29/10/2022 
+Notebook 2 em 1 M11W Prime, com Windows 10 Home, Processador Intel Quadcore, Tela 11,6 Pol , 4GB 64GB Prata - PC302OUT Reembalado - Multilaser ; R$ 1.385,23 ;  Data: 29/10/2022 
+Notebook Intel Core i3 1115G4 4GB RAM 256GB SSD Acer Aspire 3 A315-58-38SD Tela FHD 15,6" Windows 11 ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KT2BR Intel Core i3 - 4GB 1TB 15,6” Full HD LED Win11 ; R$ 3.499,90 ;  Data: 29/10/2022 
+Notebook Compaq Presario 434 Intel Core i3 Windows 10 Home 4GB 1TB 14" - Cinza ; R$ 2.549,15 ;  Data: 29/10/2022 
+Notebook Samsung Book I7 8GB 256GB SSD 15.6 Windows 11H Cinza Chumbo ; R$ 5.099,00 ;  Data: 29/10/2022 
+Notebook Gamer 2AM E550 NVIDIA GeForce GTX 1050 3GB - Windows 10 Home Core i5-9400 8GB 1TB + SSD 128GB FullHD 15.6" - 2 A.M. ; R$ 3.739,15 ;  Data: 29/10/2022 
+Notebook Samsung Book X55 Intel Core i7 16GB 1TB - 128GB SSD 15,6” Placa de Vídeo 2GB Windows 10 ; R$ 8.500,03 ;  Data: 29/10/2022 
+Notebook 11.6" 2 em 1 M11W Prime Celeron N4020, 4GB, 64GB, Windows 11 + Microsoft 365 Personal, PC280 MULTILASER ; R$ 1.557,94 ;  Data: 29/10/2022 
+Combo Office - Notebook M11W Prime 2 em 1, com Windows 11 Home, Tela 11,6 Pol, Intel Celeron e Mouse Microsoft Sem Fio Bluetooth Azul - PC280K - Multilaser ; R$ 1.543,19 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 3515 Amd Ryzen 7 3700u 8gb 256ssd ; R$ 5.190,00 ;  Data: 29/10/2022 
+Notebook Lenovo ThinkPad E14 i5-1135G7 8GB 256GB SSD Windows 11 Home 20TB0023BO Preto ; R$ 5.579,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron I15-i1100-A40P Intel Core i5 8GB 256GB SSD W11 15.6" Preto ; R$ 7.400,00 ;  Data: 29/10/2022 
+Notebook Asus Zenbook 13 OLED UX325EA-KG856W Core i5 8GB 256GB SSD W11 Tela OLED 13,3" Full HD Cinza ; R$ 6.204,15 ;  Data: 29/10/2022 
+Notebook Lenovo Gamer Legion 5i 15.6 FULL HD 8GB 512GB SSD W11H 82MH0001BR Azul e Preto ; R$ 9.399,00 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core I3 4Gb 1Tb 15,6 Full Hd ; R$ 2.938,59 ;  Data: 29/10/2022 
+Notebook vaio fe15 15.6 i7-10510u 8gb 512gbssd w11 3342212 chumbo escuro bivolt - Sony Vaio ; R$ 7.299,00 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AMD Ryzen 7 8GB 512GB - SSD 15,6” GeForce GTX 1650 4GB AN515-44-R11B ; R$ 5.902,25 ;  Data: 29/10/2022 
+Notebook Gamer Acer AN517-52-50RS Tela 17.3 IPS FHD 144Hz, i5, 8GB, SSD 512GB, GTX 1650, Windows 11 ; R$ 6.749,99 ;  Data: 29/10/2022 
+Notebook Vaio FE15 15.6 FHD i7-10510U 8GB SSD 512GB Linux Debian 10 Chumbo Escuro - VJFE52F11X-B1921H ; R$ 4.319,10 ;  Data: 29/10/2022 
+Notebook 15,6" Aspire 5 Core I5 10210U, 8GB, SSD 256 GB, Windows 11, A515-54-505Q ACER ; R$ 3.926,94 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0506-M10P 15.6" FHD AMD Ryzen 5 6600H 8GB 256GB SSD NVIDIA RTX 3050 Windows 11 ; R$ 7.399,00 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Clo ud Cinza 14,1 HD Atom Z8350 64GB 2GB Win10 H - PC134 ; R$ 1.256,74 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U30P 15.6" Full HD 11ª Geração Intel Core i3 8GB 256GB SSD Linux ; R$ 3.618,55 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i7-1255U Windows 11 Home 8GB 256GB SSD Full HD - Cinza Grafite ; R$ 3.994,15 ;  Data: 29/10/2022 
+Notebook Compaq Presario 450 Intel Core i5 6287U 8GB DDR4 SSD 240GB Tela 14" LED Webcam HD Windows 10 Home ; R$ 3.359,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-U25T 15.6" Full HD 11ª Geração Intel Core i3 8GB 256GB SSD Linux Cinza Chumbo ; R$ 3.675,55 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i3-10110U Linux 4GB 1TB Full HD - Cinza Escuro ; R$ 2.532,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-56-32PG Core i3 11ª Win11 4GB 256GB SDD 15,6 FHD ; R$ 2.768,20 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5-1135G7, 8GB, 256GB SSD, Tela 15.6'' Full HD, Windows 11 ; R$ 4.749,05 ;  Data: 29/10/2022 
+Notebook 2 em 1 HP 435-G8, AMD Ryzen 5, 16GB, 256GB SSD, Tela de 13", Windows 11 Home, 5R5A9LA ; R$ 9.244,90 ;  Data: 29/10/2022 
+Notebook Positivo Motion Plus Intel Atom 4Gb 64Gb Ssd ; R$ 1.264,67 ;  Data: 29/10/2022 
+Notebook Gamer Acer AN515-57-52LC Tela 15.6 IPS 144Hz, i5, 16GB, SSD 512GB, GTX 1650, Windows 11 ; R$ 6.109,99 ;  Data: 29/10/2022 
+Kit Notebook Gamer Dell G15-a0506-M10BP 15.6" FHD AMD Ryzen 5 6600H 8GB 256GB SSD NVIDIA RTX 3050 Windows 11 + Mochila ; R$ 7.779,00 ;  Data: 29/10/2022 
+Notebook Ultraportátil Dell X13-i1200-M20PS 13.4" UHD+ Touch 12ª Ger Plataforma Intel EVO Core i7 32GB 1TB SSD Win 11 ; R$ 12.950,10 ;  Data: 29/10/2022 
+Notebook Dell Latitude 3420 Core I5 - 1135G7 32gb SSD 1Tb NVME e TELA 14 polegadas ; R$ 6.799,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB NVMe, , Radeon Vega 8, Win A315-23-R6M7 ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 11 ; R$ 4.199,99 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Series 3501 - Intel Pentium 4GB 128GB SSD 15,6” Windows 11 ; R$ 5.150,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i i5-10210U 8GB, 256 GB SSD, Windows 11, 15.6" - 82BS000GBR Prata ; R$ 4.500,00 ;  Data: 29/10/2022 
+Notebook Multilaser M11w Prime Pentium Tela 11 Polegadas RAM 4Gb, 64Gb, Win10 ; R$ 2.252,42 ;  Data: 29/10/2022 
+Notebook M11W Prime 2 em 1, Windows 11 Home, Processador Intel Celeron, 64GB+64GB, Tela 11,6 Pol + Microsoft 365 Personal e 1TB na Nuvem - PC281 - Multilaser ; R$ 1.520,92 ;  Data: 29/10/2022 
+Notebook HP HPCM 445 G8 Ryzen3 8GB 256GB W10P 499S2LAAK4 ; R$ 10.152,73 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-P25T 15.6" Full HD 11ª Geração Intel Core i3 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 4.013,10 ;  Data: 29/10/2022 
+Notebook VAIO FE15 IntelCore i5-1235U Windows 11 Home 8GB 512GB SSD Full HD - Cinza Grafite ; R$ 3.824,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-54-579S Core i5 10ª Win10 4GB 256GB SDD 15,6 FHD ; R$ 2.980,70 ;  Data: 29/10/2022 
+Notebook Acer, Intel CoreT i7 1165G7, 8GB, 512GB SSD, Tela de 14", Aspire 5, Safari Gold - A514-54-789C - AIRON ; R$ 4.620,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0506-PS10P 15.6" FHD AMD Ryzen 5 6600H 8GB 256GB SSD NVIDIA RTX 3050 Win 11 Premium Support ; R$ 6.983,10 ;  Data: 29/10/2022 
+Notebook LENOVO Thinkpad T14 Gen 2 i5 1145G7 16 GB RAM 256 GB SSD - Dell ; R$ 6.599,90 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Ryzen 7 4800h, Geforce Gtx 1650 - IMP ; R$ 14.362,11 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-M20SF 15.6” FHD Touch 11ª geração Intel Core i5 8GB 256GB SSD Win 11 Microsoft 365 ; R$ 5.219,10 ;  Data: 29/10/2022 
+Notebook Gamer Intel Core i5 8GB RAM 512GB SSD Acer Nitro 5 AN515-57-52LC 15,6" FHD Windows 11 ; R$ 4.949,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire A315-34-C9WH Intel Celeron N4020 4GB 128GB SSD 15.6 HD Intel UHD Gr Win 11 Home ; R$ 1.929,99 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i5-1235U Windows 11 Home 8GB 256GB SSD Full HD - Cinza Grafite ; R$ 3.569,15 ;  Data: 29/10/2022 
+Notebook Gamer Legion 5 W11 15.6 Full Hd Preto - LENOVO ; R$ 8.299,00 ;  Data: 29/10/2022 
+Notebook Ultra, Intel Core i5, 8GB RAM, 240GB SSD, Windows 10 Home, 14,1 Pol. HD, Prata - UB532 ; R$ 2.510,01 ;  Data: 29/10/2022 
+Notebook 14" Acer Aspire 3 Windows 11 Intel Celeron 128GB SSD 4GB Prata ; R$ 2.499,90 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-U10T 15.6" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Linux Cinza Chumbo ; R$ 3.466,55 ;  Data: 29/10/2022 
+Notebook Dell Vostro 3510 Core I5 11th 8gb 256ssd Tela 15" Windows 11 ; R$ 5.449,90 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i7-1165G7 12GB 512GB SSD Geforce MX350 W11 Home 14" FHD 82NM0017BR Preto ; R$ 5.129,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i 15 GL 82BU0008BR Intel Celeron N4020 4GB 128GB 15,6 Polegadas Windows 11 ; R$ 1.799,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U60S 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Prata ; R$ 5.174,10 ;  Data: 29/10/2022 
+Notebook Samsung Book Core i7-1165G7 Win 118GB 1TB HD 15.6'' ; R$ 7.600,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54G-707X Intel Core i7 Windows 11 Home 8GB 512GB SDD MX350 14' Full HD ; R$ 4.319,10 ;  Data: 29/10/2022 
+Apple MacBook Pro 13" (M2 da Apple, com 8 CPU, 10 GPU, 8GB RAM, 512GB SSD) - Cinza-espacial ; R$ 17.644,98 ;  Data: 29/10/2022 
+Notebook Motion Q464C Intel Atom Z8350 4GB 64 GB HD Tela 14,1 Win 10 Positivo ; R$ 1.211,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 - Tela 15.6 HD, Intel i3 8130U, RAM 8GB, HD 1TB, Linux ; R$ 4.549,99 ;  Data: 29/10/2022 
+Notebook Intel Celeron 4GB RAM 128GB SSD IdeaPad 3i - IGL Tela 15.6" Windows 10 - Lenovo ; R$ 1.889,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 i3 4GB SSD 256 NVMe 15.6 A515-54-34LD ; R$ 4.697,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 i3 4GB SSD 256 NVMe 15.6 A515-54-34LD ; R$ 4.697,00 ;  Data: 29/10/2022 
+Notebook Positivo Master N4340 ROHS SSD 256GB DDR4 4GB ; R$ 3.000,00 ;  Data: 29/10/2022 
+Notebook Dell Latitude 5420 Touch I5 16gb Ram, 256gb Ssd ; R$ 7.999,00 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book S Earthy Gold Táctil 13.3 - IMP ; R$ 9.448,11 ;  Data: 29/10/2022 
+Notebook Lenovo V15 I5 8Th 20Gb 512 Ssd Placa Vídeo Gforce Win11 Preto ; R$ 5.799,90 ;  Data: 29/10/2022 
+Notebook Ultra, com Windows 10 Home, Processador Intel Core i3, 4GB 120GB SSD, Tela 14,1 Pol. HD + Tecla Netflix Prata - UB430 ; R$ 2.158,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515 Intel Core I5-10210u Memoria 8gb Ssd 256gb Tela 15.6'' Full Hd Windows 11 Pro ; R$ 4.413,15 ;  Data: 29/10/2022 
+Notebook ASUS X515JA-EJ1792W Intel Core i5 1035G1 8GB 256GB SSD W11 15,6" LED-backlit Cinza ; R$ 3.149,00 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book Pro 360 I7-1165g7 Win11 Home ; R$ 11.640,20 ;  Data: 29/10/2022 
+Notebook Acer AMD Ryzen 7 5700U A515-45-R8W2 8GB 512GB SSD W11 15,6'' Prata ; R$ 3.959,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3-15ALC R5-5500U AMD Ryzen 256GB SSD 8GB W11 Tela 15.6" - Prata ; R$ 4.210,97 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6" Full HD Intel Dual Core 4GB DDR4 500GB Windows 11 Cinza NP550XDA-KP1BR ; R$ 1.605,65 ;  Data: 29/10/2022 
+Notebook Gamer Acer Aspire Nitro 5 AN515-43-R4C3 - AMD Ryzen 7 8GB 1TB 128GB SSD 15,6" Full HD ; R$ 5.889,01 ;  Data: 29/10/2022 
+Notebook Compaq Presario 433 Intel Core i3 Linux 4GB 1TB 14" - Cinza ; R$ 2.294,15 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Legion 5 Ryzen 7 W11 16GB 512GB SSD 15.6 82QJ0000BR - Lenovo Informatica ; R$ 9.877,77 ;  Data: 29/10/2022 
+Notebook asus e510ma-br701x intel celeron dual n4020/4gb/128gb/15.6/w.11 pro/azu ; R$ 2.528,90 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 i1101-A10S 15.6” Full HD 11ª geração Intel Core i5 8GB 256GB SSD Windows 11 ; R$ 4.580,10 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-U40T 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Linux Cinza Chumbo ; R$ 5.174,10 ;  Data: 29/10/2022 
+Notebook Samsung Book 11ª Geração Intel Core i3-1115G4 4GB SSD 256GB 15,6" Full HD Windows 11 Home, Cinza Chumbo ; R$ 3.041,72 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad Intel Core i5 12Gb 256Gb SSD Wind11 ; R$ 4.259,90 ;  Data: 29/10/2022 
+Notebook ASUS ZenBook Duo UX482EAR-HY439W CORE I7 1195G7 8GB 512GB SSD W11 14"Anti-glare FHD Azul ; R$ 9.774,15 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Book Pentium J3710 14.1 64GB 4GB Win10 Home Preto + Assinatura Office - PC312 ; R$ 1.256,74 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book GO Snadragon 7c Octa-core 4GB 128GB SSD Windows 11 ; R$ 2.429,00 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book2 360 13.3 FHD 2 em 1 Touch i5-1235U 8GB 512GB SSD Windows 11 - Prata ; R$ 7.999,00 ;  Data: 29/10/2022 
+Notebook Lenovo V15 I5 8Th 8Gb 256 Ssd Placa Vídeo Gforce Win11 Preto ; R$ 4.399,90 ;  Data: 29/10/2022 
+Notebook M11W Prime 2 Em 1 Intel Celeron 4Gb 64Gb 11.6 Pol. Touch Windows 11 PC280 Prata - Multilaser ; R$ 1.979,10 ;  Data: 29/10/2022 
+Notebook Samsung Book 550XDA-KO1 Intel Celeron 6305 4GB 500GB W10 Tela 15.6" ; R$ 2.238,88 ;  Data: 29/10/2022 
+Notebook LENOVO Thinkpad T14 Gen 2 i5 1145G7 16 GB RAM 512 GB SSD - Dell ; R$ 6.999,90 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook M1502IA-EJ251W Ryzen 5 8GB 256GB SSD Windows 11 Home 15,60" Full HD ; R$ 3.399,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino Ideapad 3i Intel Core i3 10110u 4GB SSD 256 GB Windows 11 Tela 15.6" Prata ; R$ 2.903,12 ;  Data: 29/10/2022 
+Notebook 13,3" Galaxy Book S Core i5-L16G7, 8Gb, SSD 256Gb, Windows 10 Home, NP767XCM-K01BR SAMSUNG ; R$ 5.163,97 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Cloud 14,1" W10 Quadcore -PC134 ; R$ 1.399,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0506-M30P 15.6" FHD AMD Ryzen 5 6600H 16GB 512GB SSD NVIDIA RTX 3050 Windows 11 ; R$ 7.784,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i Prata 15.6 Celeron N4020 4gb 128gb Ssd Win 11 ; R$ 2.025,00 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-i1100-m40p - IMP ; R$ 13.207,32 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U58P 15.6" Full HD 11ª Geração Intel Core i5 16GB 512GB SSD Linux ; R$ 4.589,10 ;  Data: 29/10/2022 
+Kit Notebook Ultra, com Windows 11 Home, Intel Celeron 4GB 120GB SSD 14,1 Pol Microsoft 365 Personal e Headset Pro Conexão P2 30mw - UB235K ; R$ 1.499,19 ;  Data: 29/10/2022 
+Notebook Gamer Dell G3-3590-A40P Intel Core i5 8GB - 256GB SSD 15,6” Full HD NVIDIA GTX 1050 3GB ; R$ 9.000,00 ;  Data: 29/10/2022 
+Notebook Ultra, com Linux, Intel Core i3, 4GB 120GB SSD, Tela 14,1 Pol. HD, Prata - UB433 - Multilaser ; R$ 1.888,90 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book2 360, Intel Core i7 -1255U, 16GB, 1TB SSD, Tela 13.3", Full HD AMOLED, Intel Iris Xe - ; R$ 9.989,97 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i5-1235U Windows 11 Home 8GB 512GB SSD Full HD - Cinza Grafite ; R$ 3.696,65 ;  Data: 29/10/2022 
+Notebook Dragonflyg2 HP, Intel Core i7,16GB 512GB SSD Tela 13" Windows 11Pro ; R$ 15.902,00 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KS3BR Intel Core i7 - 8GB 1TB 15,6” Full HD LED Windows 10 ; R$ 4.799,99 ;  Data: 29/10/2022 
+Notebook Dell Vostro 5510 I7 11th 16gb Ssd 256gb Geforce MX450 2gb ; R$ 7.599,99 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64 Gb N4020 4 Gb de Ram Tela 14 W11 ; R$ 2.564,05 ;  Data: 29/10/2022 
+Notebook Samsung NP550 15,6 Polegadas 256GB 4GB RAM ; R$ 2.209,92 ;  Data: 29/10/2022 
+Notebook Lenovo, Intel CoreT i5 1135G7, 8GB, 256GB SSD, Tela de 15,6", IdeaPad 3i, Prata - 82MD0007BR ; R$ 3.113,00 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Book PC260 Intel - Celeron 4GB 64GB eMMC 14” LCD Windows 10 ; R$ 1.286,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-56-32PG Core i3 11ª Win11 4GB 256GB SDD 15,6 FHD ; R$ 2.787,92 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3, 3I-15IGL, Intel Celeron N4020, 4GB, 128GB SSD NVMe, Windows 11, 15.6", C/Office 365, Prata - 82BU0008BR ; R$ 1.799,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U25P 15.6" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux ; R$ 3.523,55 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-U40T 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Linux Cinza Chumbo ; R$ 4.265,10 ;  Data: 29/10/2022 
+Notebook Dell G15 Intel 11ª Ci5 16gb 512gb Ssd Rtx 3050 W11 - IMP ; R$ 13.417,11 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i5 8GB 256GB Iris Xe W11 15.6'' 82MD0007BR ; R$ 3.021,27 ;  Data: 29/10/2022 
+Notebook Asus ASUS VivoBook X543 Intel Core i3 4GB RAM 1TB HD Windows 10 Tela 15,6 Polegadas ; R$ 3.499,99 ;  Data: 29/10/2022 
+Notebook Ryzen 5 8GB RAM 256GB SSD IdeaPad 3-15ALC Tela 15.6" Linux - Lenovo ; R$ 3.149,10 ;  Data: 29/10/2022 
+Notebook Asus, Intel Celeron Dual Core, 4GB, 128GB, Tela de 15,6", Preto - E510MA-BR702X ; R$ 2.049,00 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-54-58CL Intel Core i5 8GB 1TB+128GB SSD GTX1650 4GB Linux ; R$ 5.499,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A514-54-52TY, 14" Full HD, Intel Core i5 1135G7, 8GB, SSD 256GB ; R$ 3.999,99 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15 5510, i5-10500H, 8GB RAM, SSD 256GB, Tela 15.6" Full HD 120Hz, GeForce GTX-1650 4GB GDDR6, Linux ; R$ 7.054,88 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book2 360 13.3 FHD 2 em 1 Touch I7-1255U 16GB 512GB SSD Windows 11 - Grafite ; R$ 11.749,00 ;  Data: 29/10/2022 
+Kit Notebook Gamer Acer Nitro 5 AN515-44-R4KA R7 GTX1650 + Notebook Aspire 5 A515-45G-R46X R7 RX640 ; R$ 9.899,10 ;  Data: 29/10/2022 
+Notebook Lenovo 15.6" IdeaPad Gaming 3i i5-11300H, 8Gb, SSD 512Gb, Dedicada GTX 1650 4GB FHD WVA W11 82MG0009BR LENOVO ; R$ 5.574,94 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3-15IGL05 - 15,6”, Intel Celeron N4020, 4Gb, 128Gb SSD - WIN 10 ; R$ 3.299,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Intel Core i5 8GB - 256GB SSD 15,6” Windows 11 82BS000GBR ; R$ 4.299,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad Gaming 3i Intel Core - i5 8GB 256GB SSD 15.6” NVIDIA GeForce GTX 1650 4GB ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN515-54-58CL Intel Core i5 8GB 1TB+128GB SSD GTX1650 4GB Linux ; R$ 5.499,00 ;  Data: 29/10/2022 
+Notebook Samsung Book I3-1115G4 256 GB ; R$ 3.889,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 3511 Pentium Gold 7505 4GB DDR4 SSD 128GB 15,6 FHD Win11 Home ; R$ 3.045,60 ;  Data: 29/10/2022 
+Notebook Vaio FE15 Intel Core i3-10110U Windows 11 Home Chumbo Escuro - Positivo ; R$ 3.374,42 ;  Data: 29/10/2022 
+Notebook Asus, Intel Celeron Dual Core, 4GB, 128GB, Tela de 15,6", Preto - E510MA-BR702X ; R$ 2.049,00 ;  Data: 29/10/2022 
+Notebook Vaio FE14 - Tela 14 Full HD - Intel i3 1005G, 4GB, SSD 128GB, - VJFE43F11X - B0331H - Sony ; R$ 3.999,99 ;  Data: 29/10/2022 
+Notebook Gamer Legion Slim7 R5-5600H 16GB 512GB RTX3050 Ti 4GB W11 15.6" Full HD WVA 82K800EABR - Lenovo ; R$ 9.999,00 ;  Data: 29/10/2022 
+Notebook Samsung Book 11ª Geração Intel Core i3-1115G4 4GB SSD 256GB 15,6" Full HD Windows 11 Home, Cinza Chumbo ; R$ 3.041,72 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-54-505Q 15,6 Polegadas Intel Core I5 8GB RAM ; R$ 3.824,92 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64 Gb N4020 4 Gb Ram DDR4 Tela 14'' Azul - Hp ; R$ 2.137,41 ;  Data: 29/10/2022 
+Combo Office - Notebook Ultra com Windows 11 Home Intel Celeron 4GB 120GB SSD 14,1 Pol. HD Microsoft 365 Personal e Mochila Targus Groove 16- CVR600K ; R$ 1.759,19 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro, Intel CoreT i5, NVIDIA RTX 3050, 8GB, 512GB SSD, Windows11, Tela de 15,6", - AN515-57-5 ; R$ 6.154,92 ;  Data: 29/10/2022 
+Notebook Samsung NP550 15,6 Polegadas 256GB 4GB RAM ; R$ 2.209,92 ;  Data: 29/10/2022 
+Notebook Galaxy Book Samsung GO SDragon 4GB 128GB UFS Windows 10 ; R$ 2.439,00 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64Gb Branco ; R$ 2.564,05 ;  Data: 29/10/2022 
+Notebook Samsung Galaxy Book GO Snadragon 7c Octa-core 4GB 128GB SSD Windows 11 ; R$ 2.429,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad Intel I5 8 Gb 256Gb Ssd W11 ; R$ 3.218,13 ;  Data: 29/10/2022 
+Notebook Positivo Motion C41TEi Intel Celeron Dual-Core Linux 14" - Vermelho ; R$ 1.699,15 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i-15IGL Intel Celeron, 4GB , 128GB SSD, Linux, Prata - 82BUS00100 ; R$ 1.879,90 ;  Data: 29/10/2022 
+Notebook VAIO FE15 Intel Core i5-10210U Windows 11 Home 8GB 256GB SSD Full HD - Cinza Escuro ; R$ 3.654,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 10 A515-54-53VN ; R$ 4.998,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 AMD Ryzen 3-3250U, 8GB RAM, SSD 256GB, 15.6 HD, Windows 11, Preto - A315-23-R7CG ; R$ 2.799,99 ;  Data: 29/10/2022 
+Notebook Ultra, com Windows 11 Home, Intel Celeron, 4GB RAM 500GB HDD, 14,1 Pol. HD + Tecla Netflix Preto - UB232 ; R$ 1.888,90 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145, 15.6", AMD Ryzen 5, 8GB, Windows 10 ; R$ 4.254,88 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo I5-10300h 8gb4gbv256ssd Linux - 82cgs00100 - LENOVO INFORMATICA ; R$ 6.953,82 ;  Data: 29/10/2022 
+Notebook Acer intel 8gb ram e ssd128 gigas tela 15.6 windows11 ; R$ 2.560,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 15,6" 500GB RAM 4GB Prata ; R$ 2.917,29 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad3 Ryzen 5 5500U 8GB RAM 256GB SSD Linux - 82MFS00100 ; R$ 3.269,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core I5-10210u 8gb 512gb Ssd W11 15,6'' Prata A515-54-58kb ; R$ 4.699,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-M40T 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11 Cinza Chumbo ; R$ 5.318,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad Intel I5 8 Gb 256Gb Ssd W11 ; R$ 3.218,13 ;  Data: 29/10/2022 
+Notebook Hp X360 Core I5,8gb,ssd-256gb Tela Touch 2 Em 1* ; R$ 4.189,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i I3 4GB 256GB SSD 15,6 W11 82BS000JBR Prata ; R$ 2.899,00 ;  Data: 29/10/2022 
+Notebook ASUS ProArt Studiobook H7600HM-L2052W Core i7 11800H 32GB 1TB SSD RTX3060 W11 16" OLED BLK ; R$ 21.249,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 15.6 FHD I5-10210U 256GB SSD 4GB Win 10 Home Prata - A515-54-579S - NX.HQMAL.00X ; R$ 2.969,10 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3I-151TL, Intel i3 1115G4, 4GB, SSD 256GB, Tela 15.6" e Windows 11 ; R$ 3.099,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad Intel I5 16 Gb 256Gb Ssd W11 ; R$ 4.095,19 ;  Data: 29/10/2022 
+Notebook Vaio FE14 14 FHD i7-1065G7 1TB 8GB Linux Debian 10 VJFE43F11X-B0611H ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad Intel I5 16 Gb 256Gb Ssd W11 ; R$ 3.991,42 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad Intel Core i5 16Gb 256Gb SSD Wind11 + HD 1T cor:cinza ; R$ 4.999,00 ;  Data: 29/10/2022 
+Notebook VAIO FE15 Core i7-10510U, 8Gb, W10 PRO, 256Gb ; R$ 5.790,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i7-10510U 8GB RAM 256GB SSD GeForce NVIDIA MX330 2GB Linux Tela 15.6" ; R$ 4.449,99 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook X513EA-EJ3529W Core i7 1165G7 8GB 512GB SSD Windows 11 Home 15,6" LED Preto ; R$ 5.099,15 ;  Data: 29/10/2022 
+Notebook Dell Aw17 Fhd 12ª Intel I7 16gb 1tb Ssd Rtx 3070ti ; R$ 26.099,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-58-573P - Intel i5 1135G7, RAM 32GB, SSD 1TB, Tela 15,6 Full HD, Win 11 ; R$ 6.749,99 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i7-1165G7 8GB 256GB SSD Geforce MX350 W11 Home 14" FHD 82NM0016BR Preto ; R$ 4.569,86 ;  Data: 29/10/2022 
+Notebook Acer Gamer - Full HD, Intel i7, 16GB, SSD 512GB, GeForce RTX 2070, Windows - PH315-53-75NL ; R$ 10.958,43 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 4GB 128GB SSD W11 Home 14" HD 82NM000XBR Preto ; R$ 3.017,54 ;  Data: 29/10/2022 
+Notebook Lenovo 2 em 1 IdeaPad Flex 5i i5 8GB 256GB SSD 14 ; R$ 7.697,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-M25T 15.6" Full HD 11ª Geração Intel Core i3 8GB 256GB SSD Windows 11 Cinza Chumbo ; R$ 3.626,10 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Ideapad Gaming 3i ; R$ 4.952,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-P05T 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Pro Cinza Chumbo ; R$ 3.466,55 ;  Data: 29/10/2022 
+Notebook Lenovo V15 I5 8Th 8gb 256 Ssd Placa Vídeo Gforce Win11 Preto com Mochila ; R$ 4.449,00 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo Ideapad Gaming 3i ; R$ 4.952,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-P05T 15.6" Full HD Intel Pentium Gold 4GB 128GB SSD Windows 11 Pro Cinza Chumbo ; R$ 3.466,55 ;  Data: 29/10/2022 
+Notebook Lenovo V15 I5 8Th 8gb 256 Ssd Placa Vídeo Gforce Win11 Preto com Mochila ; R$ 4.449,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i3, 4GB RAM, SSD 256GB , 15.6 Full HD Ultrafino, Windows 10 Home, ; R$ 3.324,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad Intel Core i5 16Gb 256Gb SSD Wind11 + HD 1T cor:cinza ; R$ 4.999,00 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDZ-KV6BR, Tela de 15.6", Intel Core i3-1115G4, Linux, SSD 256GB, 4GB RAM, Cinza Chumbo ; R$ 3.619,00 ;  Data: 29/10/2022 
+Notebook LENOVO Thinkpad T14 Gen 1 i5 10310U 16 GB RAM 512 GB SSD - Dell ; R$ 5.999,90 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 i5-10210U 4GB SSD 256GB NVMe 15.6 W10 ; R$ 3.400,00 ;  Data: 29/10/2022 
+Notebook Compaq Presario 420 Intel Pentium N3700 Windows 10 Home 4GB 120GB SSD 14" - Cinza - Inclui Microsoft 365* ; R$ 1.843,65 ;  Data: 29/10/2022 
+Notebook Ultra UB432, Tela de 14", Intel Core i3-7020U, Linux, 4GB, 1TB, Prata ; R$ 1.719,00 ;  Data: 29/10/2022 
+Notebook 15,6" ideapad s145 i5-1035g1/20gb(4gb+16gb optane)/hd1tb/win 10 - 82dj0005br, lenovo ; R$ 6.000,00 ;  Data: 29/10/2022 
+Notebook Multilaser Legacy Book W10 Intel Pentium 4GB 64GB 14,1 HD - PC311 ; R$ 1.376,01 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q4128e 4gb 128gb Intel Celeron Wind 10 Cinza ; R$ 1.599,00 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron i15-i1100-U25PC 15.6" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Linux com Capa ; R$ 3.628,05 ;  Data: 29/10/2022 
+Notebook hp intel core i5 8gb 256gb ssd 15,6 - hd windows 11 256 g8 ; R$ 4.489,00 ;  Data: 29/10/2022 
+Notebook ASUS X515EA-EJ1668W Intel Core i3 1115G4 8GB 256GB SSD W11 15,6" Full HD LED Backlit Cinza ; R$ 2.676,65 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core I3 8GB 256GB SSD Windows 11 15.6" Full ; R$ 3.699,00 ;  Data: 29/10/2022 
+Notebook Acer AN515-55-72VN i7 de 10a/16GB/512GB SSD/RTX 3060 6GB/15.6" 144Hz FHD/W10 ; R$ 13.020,00 ;  Data: 29/10/2022 
+Notebook Aspire 3 Celeron 8GB 1TB Tela 15,6” Preto- Acer ; R$ 2.990,00 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-5320-P10C 13.3" Full HD+ 12ª Ger. Plataforma Intel EVO Core i5 8GB 256GB SSD Windows 11 Pro ; R$ 6.020,10 ;  Data: 29/10/2022 
+Notebook ASUS X543UA-DM2074T I5-8250U 1.6GHZ 8GB 1TB 15.6" FHD ; R$ 3.968,72 ;  Data: 29/10/2022 
+Notebook acer a515-54-57cs i5-10210u 8gb 256ssd 15,6 fhd windows 10 ; R$ 4.999,00 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 A515-56-327T 15.6" FHD, Intel Core i3-1115G4, 4GB RAM, 256GB NVMe, W10, Prata ; R$ 4.867,04 ;  Data: 29/10/2022 
+Notebook lenovo ideapad 3i cel 4gb 128ssd lnx ; R$ 3.948,00 ;  Data: 29/10/2022 
+Notebook Ultra com Windows 11 Home, Intel Celeron, 4GB RAM 120GB SSD + Tecla Netflix, Tela 14,1 Pol. HD Preto - UB230 ; R$ 1.797,21 ;  Data: 29/10/2022 
+Notebook Asus M515DA-BR1213 AMD RYZEN 5 8GB 256GB SSD M.2 NVMe Tela 15.6 Endless OS ; R$ 3.028,90 ;  Data: 29/10/2022 
+Notebook Lenovo Ultrafino IdeaPad 3i Ryzen 7 5700U 8GB 256GB SSD 15.6" Windows 11 ; R$ 4.772,00 ;  Data: 29/10/2022 
+Notebook Ultra 15,6 Pol Celeron 4GB 120GB SSD Multilaser ; R$ 1.748,20 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-10210U, 4GB RAM, SSD 256GB NVMe, 15.6 Full HD Ultrafino, Window ; R$ 3.124,80 ;  Data: 29/10/2022 
+Notebook 15.6" Samsung E20 KO2BR Windows 10 Home Intel Celeron 500GB 4GB Branca ; R$ 2.699,90 ;  Data: 29/10/2022 
+Kit Notebook Dell Inspiron i15-i1100-M25PB 15.6" Full HD 11ª Geração Intel Core i3 4GB 256GB SSD Win 11 Preto com Mochil ; R$ 3.653,10 ;  Data: 29/10/2022 
+Notebook LENOVO Thinkpad T14 Gen 1 i5 10310U 16GB RAM 256 GB SSD - Dell ; R$ 5.599,90 ;  Data: 29/10/2022 
+Notebook Gamer Dell G15-a0706-M40P 15.6" FHD AMD Ryzen 7 6800H 16GB 512GB SSD NVIDIA RTX 3060 Windows 11 ; R$ 9.683,10 ;  Data: 29/10/2022 
+Notebook Asus X515JF-EJ360T, Intel Core I5-1035G1, 8GB, 256GB SSD NVME, Win 10 Home, Cinza ; R$ 4.499,90 ;  Data: 29/10/2022 
+Notebook Samsung Chromebook Plus Intel 4Gb 32Gb Ssd 12.2'' ; R$ 3.678,91 ;  Data: 29/10/2022 
+Notebook 14pol Lenovo Yoga 7i 82LW0003BR (Core i5-1135G7, 8GB, SSD 512GB nVME, Touch, Win10 Home) ; R$ 6.176,46 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100 - Tela 15.6, Intel i7 1165G7, 32GB, SSD 500GB, Linux - Preto ; R$ 8.389,99 ;  Data: 29/10/2022 
+Notebook VAIO FE14 Intel Core i3 Linux 4GB 128GB SSD Full HD - Cinza Escuro ; R$ 2.700,00 ;  Data: 29/10/2022 
+Notebook Legacy com Windows 10, Intel Quad 4GB 64GB 14,1 Pol. HD, Cinza + Microsoft 365 Personal com 1TB - PC312 - Multilaser ; R$ 1.335,51 ;  Data: 29/10/2022 
+Notebook Philco Celeron 4gb Pnb14 Cza Windows 10 ; R$ 1.903,00 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook X543MA 4GB RAM 500GB HD ; R$ 2.199,00 ;  Data: 29/10/2022 
+Kit Notebook Legacy Book, Windows 10 Home, 64GB 4GB 14,1 Pol Preto e Tablet 7 Pol Android 11 Preto Mirage - PC312K - Multilaser ; R$ 1.670,39 ;  Data: 29/10/2022 
+NOTEBOOK ACER GAMING NITRO 5 AN515-54-5812 I5-9300H 2.4GHz - 8GB/ - 256GB SSD - 15.6"FHD IPS - VGA GTX 1650 4GB ; R$ 6.790,00 ;  Data: 29/10/2022 
+Notebook lenovo 300e hd intel celeron n 4gb lpddr4-sdram 64 gb windows 10 pro black 81m9s02h00 ; R$ 1.799,90 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 3501 Pentium Gold 7505 4GB DDR4 SSD 128GB 15,6 HD Linux De Vitrine ; R$ 3.088,80 ;  Data: 29/10/2022 
+Notebook Dell i15-A0700-UM20S - Ryzen 7 3700U, RAM 16GB, SSD 256GB, Tela 15.6 Full HD, Linux ; R$ 6.109,99 ;  Data: 29/10/2022 
+Notebook Acer Swift 5 SF514-56T-50WL Intel Core i5 12ª Gen Windows 11 Home 16GB 512 SSD 14' Touch ; R$ 9.899,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i 3I-15IGL CEL N4020 4GB 128GB W11 C/OFFICE Tela 15.6" - Prata ; R$ 2.498,18 ;  Data: 29/10/2022 
+Notebook Samsung NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,6" Windows 11 ; R$ 6.995,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 Ryzen 5 Linux 12GB 1TB 15.6" 81V7S00000 - Prata ; R$ 4.799,90 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad Intel i5 16 GB 256GB ssd W11 ; R$ 4.469,00 ;  Data: 29/10/2022 
+Notebook Ideapad S145 Core i3 08GB 1TB W10 Prata - Lenovo ; R$ 3.690,00 ;  Data: 29/10/2022 
+Notebook Acer Windows 11 Tela de 14 A31435C7E8 CELERON N4500 ; R$ 2.612,58 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5, 15.6” Intel Core i5, 8GB RAM, 256GB SSD, Windows 10 Home ; R$ 4.926,88 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64Gb Tela 14 Dourado ; R$ 2.137,41 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3515-M40T 15.6" FHD AMD Ryzen 7 8GB 256GB SSD Windows 11 Cinza Chumbo ; R$ 4.400,10 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i7-1165G7 8GB 512GB SSD NVIDIA Geforce MX350 W11 Pro 14" FHD 82NM000RBR Preto ; R$ 5.579,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 15,6" 500GB RAM 4GB Prata ; R$ 2.997,14 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i5-1135G7 8GB 256GB SSD W11 Pro MX 350 2GB 14" FHD 82NM0014BR Preto ; R$ 3.879,94 ;  Data: 29/10/2022 
+Notebook 14pol Lenovo Thinkpad E14 Gen2 20TBS5AP00 (Core i5 1135G7, 8GB DDR4, SSD 256GB nVME, Sem OS, 1yr. On Site) ; R$ 5.805,87 ;  Data: 29/10/2022 
+Notebook Gamer Acer Aspire Nitro 5 15.6 FHD i5 10300H SSD 256GB 1TB 8GB GTX 1650 4GB Windows 10 Home Preto - AN515-55-54L9 ; R$ 5.210,10 ;  Data: 29/10/2022 
+Notebook 14" Chromebook Celeron N3350 4Gb RAM/64GbSSD Preto 14-CA064DX HP ; R$ 2.120,33 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-P40T 15.6" Full HD 11ª Geração Intel Core i7 8GB 256GB SSD Windows 11 Pro Cinza Chumbo ; R$ 5.705,10 ;  Data: 29/10/2022 
+Notebook VAIO FE15 Intel Core i5-1235U Windows 11 Home 8GB 256GB SSD Full HD - Cinza Grafite ; R$ 3.909,15 ;  Data: 29/10/2022 
+Notebook Acer Aspire 5 Intel Core i5-10210U, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Home, Prat ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook 15,6" ideapad s145 i5-1035g1/20gb(4gb+16gb optane)/hd1tb/win 10 - 82dj0005br, lenovo ; R$ 6.000,00 ;  Data: 29/10/2022 
+Notebook Gamer Lenovo 15.6" Gaming 3I, Windows 11, Intel Core i5-11300H, SSD 512GB - 82MG0009BR ; R$ 5.965,30 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3i I3-10110U 4GB 256GB Ssd Linux 82BSS00100 ; R$ 2.659,05 ;  Data: 29/10/2022 
+Notebook 15.6" ideapad s145 celeron n4020/4gb/500gb/linux - 81wts00100, lenovo LENOVO ; R$ 2.549,00 ;  Data: 29/10/2022 
+Notebook Lenovo ThinkPad E14 i7-1165G7 16GB 512GB SSD Windows 11 Pro 20TB0029BO Preto ; R$ 7.999,00 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad 3i i3-1115G4 4GB 256GB SSD Intel UHD Graphics Windows 11 15.6", Cinza, 82MD000ABR ; R$ 2.676,45 ;  Data: 29/10/2022 
+Notebook Ultra Core i5-5257U, 8GB RAM, HD 1TB, 14.1 HD, Windows 10 Home, Prata - UB531 - Multilaser ; R$ 3.239,10 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Tela 15.6 Antirreflexo Intel N4020 Ssd 128gb 4gb Ram Windows 11 Nota Fiscal ; R$ 2.429,10 ;  Data: 29/10/2022 
+Notebook Acer Aspire Nitro 5 AN515-44-R629 8GB 256GBSSD W11 15.6” - Preto ; R$ 5.049,63 ;  Data: 29/10/2022 
+Notebook Samsung Intel Core I5 2.4 8gb Ssd 256gb 15.6 W10 ; R$ 5.399,00 ;  Data: 29/10/2022 
+Notebook Lenovo V14 i3-1115G4 8GB 256GB SSD W11 Pro 14" HD 82NM000YBR Preto ; R$ 3.534,98 ;  Data: 29/10/2022 
+Notebook Samsung Intel Celeron-6305 4GB 500GB W11 15,6" Cinza Chumbo NP550XDA-KP1BR ; R$ 2.499,99 ;  Data: 29/10/2022 
+Notebook ASUS X515JF-EJ360W Intel Core i5 1035G1 8GB 256GB SSD W11 15,6" Cinza ; R$ 3.650,00 ;  Data: 29/10/2022 
+Notebook Dell Inspiron 15 3000 Intel Core i3 8GB - 256GB SSD + Microsoft 365 Personal 2020 Office ; R$ 3.310,20 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 AN517-54-72A6 Ci7 Windows 11 Home 8GB 1TB HDD 256GB SSD GTX 1650 17.3' ; R$ 6.119,10 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100-U28P 15.6" Full HD 11ª Geração Intel Core i3 8GB 128GB SSD Linux Preto ; R$ 3.523,55 ;  Data: 29/10/2022 
+Notebook Asus VivoBook X543UA-GQ3430T - Intel Core i3 4GB 256GB SSD 15,6” LED Windows 10 - ASUS BRASIL ; R$ 3.358,95 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A314-35-C4CZ, Intel Celeron, 4 GB, 256 GB SSD, 14", Windows 10 PRATA ; R$ 2.299,00 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6" Full HD Intel Dual Core 4GB DDR4 256GB SSD Windows 11 Cinza NP550XDA-KP3BR ; R$ 2.396,15 ;  Data: 29/10/2022 
+Notebook ASUS Vivobook S 16X OLED S5602ZA-L2084W Core i7 16GB 512GB SSD Windows 11 Home 16,00" Preto ; R$ 12.749,15 ;  Data: 29/10/2022 
+Notebook ASUS VivoBook K513EQ-EJ682W Intel Core i7 1165G7 16GB 1TB SSD W11 15,6" Preto ; R$ 6.374,15 ;  Data: 29/10/2022 
+Notebook Intel Core i5, Tela 15.6” Full HD IPS, 4GB, 500 HD e Windows 10 - Everex - Everex Computer ; R$ 3.482,99 ;  Data: 29/10/2022 
+Notebook Dell Intel Core i5 1035G1 de 1.0GHZ Tela Touch Full HD 15.6" / 8GB de Ram / 256GB SSD - Preto ; R$ 5.999,00 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Celeron 4GB 500GB - 15,6” Full HD Windows 11 NP550XDA-KP1BR ; R$ 3.499,99 ;  Data: 29/10/2022 
+Notebook Acer Intel Celeron 16gb E Ssd 256gb 14 Full Hd ; R$ 2.939,00 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145-15IGM Intel Celeron Dual Core 4GB 500GB Tela 15.6" Windows 10 Prata ; R$ 3.199,99 ;  Data: 29/10/2022 
+Notebook Intel Core i5, Tela 15.6” Full HD IPS, 8GB, 512 SSD e Windows 10 - Everex - Everex Computer ; R$ 3.851,99 ;  Data: 29/10/2022 
+Notebook 15.6pol Dell Inspiron 3511 (Core i7 1165G7, 8GB DDR4, SSD 256GB nVME, Intel Iris Xe, Linux) - 210-BBST-KL83 ; R$ 6.794,11 ;  Data: 29/10/2022 
+Notebook Intel Ssd 64Gb Tela 14 Dourado ; R$ 2.137,41 ;  Data: 29/10/2022 
+Notebook Samsung Book 15.6 I5 8GB 256GB SSD Windows 11 Home NP550XDA-XH1BR Branco ; R$ 4.699,00 ;  Data: 29/10/2022 
+Notebook Acer A515-54G-59KV Intel Core i5 8GB - 256GB SSD 15,6” LED Placa de Vídeo 2GB Windows 10 ; R$ 4.499,91 ;  Data: 29/10/2022 
+Notebook Dell Inspiron i15-i1100 - Tela 15.6, Intel i7 1165G7, 16GB, SSD 500GB, Linux - Preto ; R$ 7.889,99 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core I5-1135G7 Windows 11 Home, 8GB, 512GB SSD, Intel Iris Xe, Tela 15.6" Full HD LED ; R$ 4.251,56 ;  Data: 29/10/2022 
+Notebook Compaq Presario 423 Intel Pentium N3700 Linux 4GB 500 GB 14" - Cinza ; R$ 1.784,15 ;  Data: 29/10/2022 
+Notebook Lenovo V15 i5-1135G7 15.6" 8GB 256GB SSD Freedos 82Me000Gbr 33476 ; R$ 4.644,85 ;  Data: 29/10/2022 
+Notebook Samsung Book E30 I3 4Gb 1Tb 15.6 Kt1Br Prata Win ; R$ 2.988,71 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad S145 - Tela 15.6 HD, Intel i3 8130U, RAM 4GB, HD 1TB, Linux - 81XMS00000 ; R$ 4.339,99 ;  Data: 29/10/2022 
+Notebook Acer A315-56-311J Intel Core i3 8GB - 256GB SSD + Microsoft 365 Personal 2020 Office ; R$ 3.130,20 ;  Data: 29/10/2022 
+Notebook Gamer Acer Nitro 5 Ryzen 7 W11 8GB 512GB SSD 15.6 AN515-44-R4KA ; R$ 7.474,05 ;  Data: 29/10/2022 
+Notebook Dell Vostro V15-3510-M10T 15.6" Full HD 11ª Geração Intel Core i3 4GB 128GB SSD Windows 11 Cinza Chumbo ; R$ 3.628,05 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 Intel Dual Core 4GB DDR4 SSD 128GB + 1TB Tela 15.6" Windows 11 A315-34-C2BV ; R$ 2.031,50 ;  Data: 29/10/2022 
+Notebook Acer Aspire 3 A315-56-569F Intel Core i5 - 4GB 256GB SSD 15,6” LED Linux ; R$ 4.099,99 ;  Data: 29/10/2022 
+Notebook Samsung Book Intel Core i5 8GB 256GB SSD - 15,6” Full HD Windows 11 ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Gamer Asus Rog Strix 15.6 Intel Core I7-10750H ; R$ 13.129,22 ;  Data: 29/10/2022 
+Notebook Compaq Presario 420 Pentium 4GB 120GB SSD 14,1" W10 ; R$ 1.389,90 ;  Data: 29/10/2022 
+Notebook Positivo Motion Q464c Intel Atom QuadCore Windows 10 Home 14,1'' - Cinza ; R$ 1.231,65 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Ryzen 7 8GB 256GB SSD - 15,6” Full HD Windows 11 82MF0004BR ; R$ 4.249,99 ;  Data: 29/10/2022 
+Notebook Lenovo IdeaPad Flex 5i i5 1135G7 8GB SSD 256 14" - Prata ; R$ 3.977,10 ;  Data: 29/10/2022 
+Notebook Samsung Linux 4GB 500GB HD 15.6" NP550 Cinza Chumbo - Bivolt ; R$ 2.582,02 ;  Data: 29/10/2022 
+Notebook Lenovo Ideapad 3 Ryzen 7 8GB 256GB SSD - 15,6” Full HD Windows 11 82MF0004BR ; R$ 4.999,99 ;  Data: 29/10/2022 
+Notebook Samsung Book NP550XDA-KH2BR Intel Core i5 1135G7 15,6" 8GB SSD 256 GB ; R$ 4.133,89 ;  Data: 29/10/2022 
+Notebook Acer Swift 3 SF314-59-75QC Intel I7 1165G7 / 8GB/ 256GB SSD/ 14.0" FHD/ W10 ; R$ 5.799,00 ;  Data: 29/10/2022 
+Notebook Samsung Book E30 4GB, 15.6'', Intel Core i3, SSD 256GB, Windows 10 Home, cinza ; R$ 4.079,54 ;  Data: 29/10/2022 
