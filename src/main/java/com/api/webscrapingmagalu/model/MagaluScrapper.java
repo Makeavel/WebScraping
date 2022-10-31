@@ -84,7 +84,7 @@ public class MagaluScrapper {
          products.forEach(prod -> {
     //         // Printamos cada produto formatado como desejado.
             try {
-                write.write((prod.get("productName") + " ; " + prod.get("productPrice") + " ;  Data: " + dateFormat.format(date) + " \n"));
+                write.write((prod.get("productName") + " ; " + prod.get("productPrice") + " ;" + dateFormat.format(date) + " \n"));
             } catch (IOException e) {
                 e.printStackTrace();
             }   
