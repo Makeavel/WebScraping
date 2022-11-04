@@ -4,16 +4,29 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.api.webscrapingmagalu.model.AmericanasScrapper;
 import com.api.webscrapingmagalu.model.MagaluScrapper;
 import java.io.IOException;
+import java.time.LocalDate;
+import java.util.Date;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.time.format.DateTimeFormatter;
 
 @SpringBootApplication
 public class WebScrapingMagaluApplication {
+    
+    
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args ) throws IOException, InterruptedException {
 
+         DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy");
+         Date date = new Date();
 
 //             -----------------------  Lojas Americanas  --------------------
+
         AmericanasScrapper scrapperSmartphoneAM = new AmericanasScrapper("https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/g/tipo-de-produto-Celular/tipo-de-produto-Iphone/tipo-de-produto-Smartphone?chave=pfm_hm_tt_1_0_smartphone&viewMode=grid&limit=24&offset=");
-        scrapperSmartphoneAM.getAllProductAM(1, 20 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartphone.txt");
+        scrapperSmartphoneAM.getAllProductAM(1, 20 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartphone-" + dateFormat.format(date) +".txt");
+
+        //AmericanasScrapper scrapperSmartphoneAM = new AmericanasScrapper("https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/g/tipo-de-produto-Celular/tipo-de-produto-Iphone/tipo-de-produto-Smartphone?chave=pfm_hm_tt_1_0_smartphone&viewMode=grid&limit=24&offset=");
+        //scrapperSmartphoneAM.getAllProductAM(1, 20 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasSmartphone.txt");
 
         AmericanasScrapper scrapperNotebookAM = new AmericanasScrapper("https://www.americanas.com.br/busca/notebook?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=notebook&filter=%7B'id'%3A'categoria'%2C'value'%3A'Informática'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
         scrapperNotebookAM.getAllProductAM(1, 20 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasNotebook.txt");
