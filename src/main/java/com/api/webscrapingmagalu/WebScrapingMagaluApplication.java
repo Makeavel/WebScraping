@@ -54,7 +54,7 @@ public class WebScrapingMagaluApplication {
         scrapperNotebookMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluNotebook-" + dateFormat.format(date) +".txt");
 
         MagaluScrapper scrapperSmartphoneMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smartphone/?page=");
-        scrapperSmartphoneMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/-" + dateFormat.format(date) +".txt");
+        scrapperSmartphoneMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone-" + dateFormat.format(date) +".txt");
              
 
     }
