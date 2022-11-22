@@ -19,7 +19,7 @@ public class WebScrapingMagaluApplication {
          Date date = new Date();
 
 //             -----------------------  Lojas Americanas  --------------------
-/*
+
         AmericanasScrapper scrapperTVAM = new AmericanasScrapper("https://www.americanas.com.br/busca/smart-tv?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=smart%20tv&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater'%2C'fixed' %3Afalse%7D&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater%7CTV'%2C'fixed'%3Afalse%7D&filter=%7B'id'%3A'condicao'%2C'value'%3A'novo'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
         scrapperTVAM.getAllProductAM(1, 10 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasTV-" + dateFormat.format(date) +".txt" );
 
@@ -53,9 +53,9 @@ public class WebScrapingMagaluApplication {
 
         MagaluScrapper scrapperNotebookMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/notebook/?page=");
         scrapperNotebookMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluNotebook-" + dateFormat.format(date) +".txt");
-*/
+
         MagaluScrapper scrapperSmartphoneMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smartphone/?page=");
-        scrapperSmartphoneMG.getAllProductMagalu(14, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone-" + dateFormat.format(date) +".txt");
+        scrapperSmartphoneMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluSmartphone-" + dateFormat.format(date) +".txt");
              
 
     }
