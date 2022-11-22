@@ -93,7 +93,7 @@ public class AmericanasScrapper {
                 // Printamos cada produto formatado como desejado.
 
                 try{
-                    writer.write(( prod.get("productName") + " ; " + prod.get("productPrice") + " ;" + dateFormat.format(date) + "\n"));
+                    writer.write(( prod.get("productName") + " ; " + prod.get("productPrice") + " ;" + dateFormat.format(date) + "; Americanas" + "\n"));
                 }
                 catch (IOException e) {
                     e.printStackTrace();
