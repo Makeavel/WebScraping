@@ -24381,3 +24381,481 @@ Placa de vídeo nvidia Quadro T400 - pny VCNT400-PB (2GB DDR6, PCIe 3.0 x16) ; R
 Placa de video GTX750 memoria de 4GB GDDR5 AF750-4096D5L4 ; R$ 1.251,79 ;24-11-2022; Americanas
 Placa de video Geforce Nvidia 1GB KP-GT210 DDR3 hdmi ; R$ 219,90 ;24-11-2022; Americanas
 Placa de Vídeo Afox GeForce GT240 1GB, DDR3, 128 Bits, Low Profile, hdmi/dvi/vga - AF240-1024D3L2 ; R$ 324,64 ;24-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 699,00 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 550 4GB GDDR5 RX550-4GD5 Snake ; R$ 659,00 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.199,00 ;25-11-2022; Americanas
+Placa de Vídeo PCI-Express 2.0 DDR5 1GB hdmi/vga/dvi 1024MB ; R$ 430,00 ;25-11-2022; Americanas
+Placa De Video Pci Nvidia Geforce Hdmi Vga Dvi Dex Gt-210 ; R$ 208,95 ;25-11-2022; Americanas
+Placa de video Afox amd radeon rx 550 4gb gddr5 afrx550-4096d5h4-v6 ; R$ 655,11 ;25-11-2022; Americanas
+Placa de Video Colorful iGame GeForce rtx 3060 Ultra W oc lhr-v 12GB GDDR6 192bit ; R$ 2.699,00 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3080ti Gamingpro 12gb Gddr6x 384 Bits Hdmi - Ned308t019kb-132aa ; R$ 12.490,99 ;25-11-2022; Americanas
+Placa De Vídeo Radeon R5 220 2gb Ddr3 64 Bits Afox ; R$ 280,64 ;25-11-2022; Americanas
+Placa de Vídeo Afox Nvidia Geforce GT730 4GB DDR3 128 bits ; R$ 535,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Geforce Afox GT610 2GB DDR3 64BITS lp - AF610-2048D3L5 - 0075538-01 ; R$ 315,00 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3070 Gamingpro 8gb Gddr6 256 Bits Lhr * - Ne63070019p2-1041a V1 ; R$ 6.499,99 ;25-11-2022; Americanas
+Placa de Video Afox Geforce Gt220 1gb Ddr3 128-bit-af220 ; R$ 199,69 ;25-11-2022; Americanas
+Placa de video Afox amd radeon rx 550 4gb gddr5 afrx550-4096d5h4-v6 ; R$ 727,90 ;25-11-2022; Americanas
+Placa de Vídeo palit nvidia GeForce gtx 1050 ti stormx 4GB GDDR5 NE5105T018G1-1070F ; R$ 1.899,90 ;25-11-2022; Americanas
+Placa de video Nvidia 1GB KP-GT210 DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3060 Dual 12gb Gddr6 192 Bits - Ne63060019k9-190ad ; R$ 4.729,99 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 699,00 ;25-11-2022; Americanas
+Placa de video Galax nvidia rtx3050 8gb 1-click oc gddr6 128bits - 35nsl8md6zoc ; R$ 2.195,02 ;25-11-2022; Americanas
+Placa de video Galax nvidia rtx3050 8gb 1-click oc gddr6 128bits - 35nsl8md6zoc ; R$ 1.975,51 ;25-11-2022; Americanas
+Placa de video Asus tuf gaming geforce gtx 1650 super oc edition 4gb gddr6 tuf-gtx1650s-o4g-gaming ; R$ 2.243,41 ;25-11-2022; Americanas
+Placa de video Asus amd radeon rx 6700 xt 16gbps 12gb gddr6 - tuf-rx6700xt-o12g-gaming ; R$ 5.781,10 ;25-11-2022; Americanas
+Placa de video Asus tuf gaming geforce gtx 1650 super oc edition 4gb gddr6 tuf-gtx1650s-o4g-gaming ; R$ 2.019,06 ;25-11-2022; Americanas
+Placa de video Asus amd radeon rx 6700 xt 16gbps 12gb gddr6 - tuf-rx6700xt-o12g-gaming ; R$ 6.423,44 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce rtx 2060 nb V2-V 6GB GDDR6 192bit ; R$ 1.759,00 ;25-11-2022; Americanas
+Placa de Vídeo nvidia Afox GeForce gt 610 1GB DDR3 64Bits ; R$ 250,00 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1050 2GB GDDR5 Gigabyte GV-N1050G1 Gaming 2G ; R$ 699,00 ;25-11-2022; Americanas
+Placa de Video Colorful iGame GeForce rtx 3060 nb duo lhr-v 12GB GDDR6 192bit ; R$ 2.499,00 ;25-11-2022; Americanas
+Placa de Video Pcyes Geforce GT610 2gb Ddr3 dvi/hdmi/vga ; R$ 283,90 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.299,00 ;25-11-2022; Americanas
+Placa de Vídeo nvida GeForce G210 1GB DDR3 64 Bits PcYes ; R$ 243,23 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 2GB GDDR5 AF750-2048D5H6 afox ; R$ 690,00 ;25-11-2022; Americanas
+Placa de Video Pci Express 2GB DDR3 64Bits Gt610 ; R$ 357,50 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 550 2GB GDDR5 axrx 550 2GBD5-DH red dragon powercolor ; R$ 559,00 ;25-11-2022; Americanas
+Placa de Vídeo amd PcYes Radeon HD 6570 4GB DDR5 128 Bits - PJHD6570GR54GSF ; R$ 537,85 ;25-11-2022; Americanas
+Placa De Video Gt 740 4gb Ddr5 128 Bits Pax740d54gb - 112494 ; R$ 799,00 ;25-11-2022; Americanas
+Placa de vídeo Pcyes rx 550 4GB GDDR5 128 Bits ; R$ 1.999,00 ;25-11-2022; Americanas
+Placa de video gtx1660 6gb 1click oc g5 192bits galax 60srh7dsy91c ; R$ 1.365,00 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce gtx 1650 ex, 1 Click, oc, 4GB, GDDR6, 192 Bits, dvi, hdmi e DisplayPort - 65SQL8DS66E6 ; R$ 1.887,78 ;25-11-2022; Americanas
+Placa de video sapphire radeon rx 5500 xt 4GB pulse oc 128-BIT, 11295-03-20G ; R$ 1.198,00 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Rtx 3070 Ti Lhr 1 Click 8Gb Preta ; R$ 4.783,22 ;25-11-2022; Americanas
+Placa de Video 4Gb GT730 Ddr3 128bits Vga/Hdmi/Dvi AKN730D3S4GL1 Arktek ; R$ 499,90 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Gtx 1660 Super 6gb GDDR6 192-bit ; R$ 1.879,50 ;25-11-2022; Americanas
+Placa De Vídeo Gainward Geforce Rtx 3060 12gb Ghost GDDR6 192-bit ; R$ 2.719,50 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce gtx 1660 Super nb V2-V 6GB GDDR6 192bit ; R$ 1.549,00 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Afox Geforce Gt 730 2gb Ddr3 128-bits ; R$ 389,90 ;25-11-2022; Americanas
+Placa de Video Colorful iGame GeForce rtx 3070 Ti Ultra W oc -v 8GB GDDR6X 256bit ; R$ 4.699,00 ;25-11-2022; Americanas
+Placa Vídeo amd Radeon RX580 Phantom Gaming Elite 8G Usada ; R$ 858,38 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 4GB GDDR5 BL750-4096D5H6 Snake ; R$ 790,00 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 799,00 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake ; R$ 1.290,00 ;25-11-2022; Americanas
+Placa De Video Graphics 64bit Saidas De Video Dvi-d/hdmi/vga Kp-gt210 Kp-gt210 Knup ; R$ 315,00 ;25-11-2022; Americanas
+Placa de video sapphire radeon rx 6600 xt pulse, 8GB, GDDR6, 128-BIT, 11309-03-20G ; R$ 2.599,00 ;25-11-2022; Americanas
+Placa De Video Gigabyte Rx 6500 Xt Gaming Oc 4gb Gddr6 64bits Gv-r65xtgaming Oc-4gd ; R$ 1.589,60 ;25-11-2022; Americanas
+Placa de Vídeo Palit GeForce gtx 1650 gp oc 4GB 128Bit GDDR6 NE61650S1BG1-1175A ; R$ 2.440,00 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce rtx 3060 ti 1-Click oc 8GB GDDR6 lhr hdmi/dp 36ISL6MD1VQW ; R$ 3.455,44 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce gtx 1660 ti 1 Click oc 6GB GDDR6 192 Bits dp/hdmi/dvi 60IRL7DSY91C ; R$ 2.111,00 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce rtx 3060 1-Click oc 12GB GDDR6 lhr 192 Bits hdmi/dp 36NOL7MD1VOC ; R$ 2.888,78 ;25-11-2022; Americanas
+Placa de Vídeo Zotac Holo Oc GeForce Rtx 3090 Gaming Usada ; R$ 6.366,29 ;25-11-2022; Americanas
+Placa de Vídeo Gainward GeForce Phoenix Rtx 3070 Usada ; R$ 2.741,29 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Geforce Nvidia DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia Geforce rtx 2060 Plus 1-Click oc 6GB GDDR6 hdmi/dp/dvi 26NRL7HP68CX ; R$ 2.111,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce Series ; R$ 219,90 ;25-11-2022; Americanas
+Placa Áudio Vídeo com Usb e Placajack Login Mb40ia2 ; R$ 87,92 ;25-11-2022; Americanas
+Placa Video Colorful GeForce rtx 3050 nb 8G ex-v ; R$ 1.999,00 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce gt 1030 4GB 64bit ; R$ 599,00 ;25-11-2022; Americanas
+Placa De Vídeo Amd Radeon Hd6570 4gb 128 Hdmi Gaming Edition ; R$ 549,90 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 2060, 6GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-T20600H-10M ; R$ 1.999,89 ;25-11-2022; Americanas
+Placa de Video Gigabyte nvidia GeForce gtx 1650 oc Dual, 4GB, GDDR5, 128Bit, GV-N1650OC-4GD ; R$ 1.733,20 ;25-11-2022; Americanas
+Placa Vídeo Nvidia Quadro M5000, 8 Giga, 256 Bit, 2048 Cuda ; R$ 3.948,48 ;25-11-2022; Americanas
+Placa De Vídeo Pcyes Radeon Rx550, 4Gb, Gddr5, 128 Bits, Graffiti Series - Pajrx550Dr5Df ; R$ 1.417,50 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon R5 230 2GB DDR3 64bits PCYes ; R$ 298,40 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 2GB GDDR5 AF750-2048D5H6 afox ; R$ 690,00 ;25-11-2022; Americanas
+Placa De Video Pci-e 12gb Gddr6 Powercolor Red Devil Rx 6700xt ; R$ 7.898,26 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Series Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Galax nvidia GeForce rtx 3070 ti 1-Click oc 8GB 256BITS GDDR6X hdmi/dp 37ISM6MD4COC ; R$ 4.944,33 ;25-11-2022; Americanas
+Placa De Vídeo Asus Nvidia Geforce Dual Rtx3060 12Gb V2 ; R$ 3.886,56 ;25-11-2022; Americanas
+Placa De Video Galax Nvidia Geforce Rtx 3060 Ti Lhr 8Gb ; R$ 4.297,53 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3060 Ti 8gb Gddr6 256 Bits Lhr * - Ne6306t019p2-190ad V1 ; R$ 5.999,90 ;25-11-2022; Americanas
+Placa de Video GT730 2Gb 128bit Vga/Hdmi/Dvi KP-GT730 Knup ; R$ 995,00 ;25-11-2022; Americanas
+Placa de Vídeo AMD R5 220 1GB 64 bits DDR3 AFOX - AFR5220-1024D3L9-V2 ; R$ 280,16 ;25-11-2022; Americanas
+Placa de Vídeo nvidia PcYes GeForce GT610 2GB DDR3 64 Bits - PAKGT6102GBDR3SF ; R$ 284,34 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit axrx 580 8GBD5-DHDV2/OC PowerColor Red Dragon ; R$ 1.399,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 hdmi Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo PowerColor Fighter Radeon rx 6500 xt 4GB Pci Express 4.0 ; R$ 2.080,99 ;25-11-2022; Americanas
+Placa de video afox geforce GT610N2GB DDR3 64 bits ; R$ 349,99 ;25-11-2022; Americanas
+Placa Vídeo Asus Geforce Rtx 3070 Gaming Megalodon Usada ; R$ 2.741,81 ;25-11-2022; Americanas
+Placa de video 1GB DDR3 Nvidia Geforce KP-GT210 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo NVidia GeForce 01GB DDR3 21GGF4HI00N - Galax ; R$ 310,00 ;25-11-2022; Americanas
+Placa de Vídeo GTX1060 3GB 192Bit Nvidia Gamer - Placa Gráfica GeForce Veineda ; R$ 1.297,14 ;25-11-2022; Americanas
+Placa De Vídeo Xfx Radeon Rx 590 Fatboy Oc+ 8gb Rx-590p8dfd6 Gddr5 ; R$ 2.549,00 ;25-11-2022; Americanas
+Placa de Video Colorful iGame GeForce rtx 3060 Mini oc 12GB GDDR6 192bit ; R$ 2.599,00 ;25-11-2022; Americanas
+Placa de Vídeo Gainward nvidia GeForce rtx 3060 Ghost, 12GB, GDDR6, lhr, 192 Bits, hdmi/dp - NE63060019K9-190AU ; R$ 2.833,22 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 2GB GDDR5 AF750-2048D5H6 afox ; R$ 690,00 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 4GB GDDR5 BL750-4096D5H6 Snake ; R$ 790,00 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Rtx 2060 Super (1-Click Oc) V2 ; R$ 2.800,82 ;25-11-2022; Americanas
+Placa de vídeo Nvidia GeForce GT 730 4GB - AFOX AF730-4096D3L6 ; R$ 649,99 ;25-11-2022; Americanas
+Placa de Vídeo nvidia Afox GeForce gt 240 1GB DDR3 128 Bits - AF240-1024D3L2-V2 ; R$ 242,35 ;25-11-2022; Americanas
+Placa De Video Asus Phoenix Radeon Rx550 4Gb Gddr5 ; R$ 1.156,87 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.679,90 ;25-11-2022; Americanas
+Placa de video amd R7240 2GB DDR5 dex PV04 ; R$ 689,00 ;25-11-2022; Americanas
+Placa de Video Asus tuf Gaming GeForce gtx 1660 Super Overclocked 6GB, hdmi dp dvi, GDDR6 - TUF-GTX1660S-O6G-GAMING ; R$ 2.156,75 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce rtx 3080 ti sg, 1 Click, oc, 12GB, GDDR6X, 384 Bits, lhr, rgb, hdmi e DisplayPort - 38IOM5MD99DD ; R$ 8.777,67 ;25-11-2022; Americanas
+Placa De Video Pci-e 8gb Gddr6 Galax Rtx 3070 Ti ; R$ 10.705,23 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce PCYes, gt 740, GDD5, 4GB, 128Bit, Single Fan, Full Size - PA740GT12804D5FZ ; R$ 1.532,80 ;25-11-2022; Americanas
+Placa De Vídeo Pc Geforce Gt710 2Gb Ddr3 64 Bits Nvidia Hdmi ; R$ 438,00 ;25-11-2022; Americanas
+Placa de Vídeo PCYes amd Radeon R7 240, 4GB, GDDR5 - PJ240R71284GD5 ; R$ 689,89 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce rtx 4090 GameRock, 24GB, GDDR6X, 384 Bits, rgb, hdmi e dp, dlss, Ray Tracing - NED4090019SB-1020G ; R$ 16.666,56 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce gt 710 1GB GDDR3 64bit ; R$ 229,00 ;25-11-2022; Americanas
+Placa de Vídeo galax rtx 2060 12GB GDDR6 192 Bit ; R$ 3.999,00 ;25-11-2022; Americanas
+Placa De Video Galax Geforce Rtx 3080 Hof, Lhr, 10gb, Gddr6x, Dlss, Ray Tracing, 38nwm3md3bjj ; R$ 9.300,00 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte Geforce rtx 2060 6GB GDDR6 dlss Ray Tracing GV-N2060D6-6GD ; R$ 2.699,90 ;25-11-2022; Americanas
+Placa de Vídeo Gainward Nvidia rtx 3080 10Gb Phoenix GDDR6x 320 Bits NED3080019IA132AX ; R$ 5.995,44 ;25-11-2022; Americanas
+Placa de vídeo geforce G210 nvidia 1GB pcyes ; R$ 280,00 ;25-11-2022; Americanas
+Placa De Vídeo Gainward Geforce Rtx 3060 Ghost 12Gb Gddr6 ; R$ 2.960,90 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce rtx 3050 Dual, 8GB, GDDR6, lhr, 128 Bits, hdmi/dp - NE63050019P1-190AD ; R$ 2.221,90 ;25-11-2022; Americanas
+Placa de Vídeo Galax nvidia GeForce gtx 1660 1-Click oc 6GB GDDR5 dp/hdmi/dvi 60SRH7DSY91C ; R$ 1.888,78 ;25-11-2022; Americanas
+Placa De Vídeo Rx 580 8gb Asus Dual Oc Edition ; R$ 5.500,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;25-11-2022; Americanas
+Placa de Video amd R5 220 1GB DDR3 64 bits low Profile - PJ220R364 pcyes ; R$ 264,90 ;25-11-2022; Americanas
+Placa de Vídeo evga nvidia GeForce rtx 3080 FTW3 Ultra Gaming 12GB GDDR6X hdmi/dp 12G-P5-4877-KL ; R$ 7.999,89 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce rtx 3070 Ti nb 8GB GDDR6X 256bit ; R$ 4.599,00 ;25-11-2022; Americanas
+Placa De Vídeo Geforce Galax Rtx 3060 12gb Gddr6 1-Click oc Ray Tracing ; R$ 2.590,00 ;25-11-2022; Americanas
+Placa De Video Afox Geforce Gt730, 4gb, DDR3, 128-Bit, Af730-4096d3l6 ; R$ 600,01 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 550 4GB GDDR5 RX550-4GD5 Snake ; R$ 659,00 ;25-11-2022; Americanas
+Placa de Video Geforce Gamer Gtx 650 Ti 2gb 128bits Gddr5 Hdmi Vga Dvi ; R$ 459,00 ;25-11-2022; Americanas
+Placa De Video Gpu Radeon Rx 580 8Gb Ddr5 256Bits ; R$ 3.079,70 ;25-11-2022; Americanas
+Placa de Video Colorful GeForce rtx 2060 nb-v 6GB GDDR6 192bit ; R$ 3.149,00 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake ; R$ 5.562,99 ;25-11-2022; Americanas
+Placa De Vídeo Gigabyte Nvidia Rtx 2060 - 12Gb, D6, 192Bits ; R$ 2.950,00 ;25-11-2022; Americanas
+Placa De Vídeo Externa Adaptador Usb Vga 3.0 Via Cabo Usb ; R$ 104,99 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3050 Dual 8gb Gddr6 128 Bits - Ne63050019p1-190ad ; R$ 3.659,99 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Rtx 3080ti Gamerock 12gb Gddr6x 384bits Hdmi - Ned308t019kb-1020g ; R$ 12.620,00 ;25-11-2022; Americanas
+Placa De Vídeo 8Gb Asus Radeon Rx 5500 Xt ; R$ 2.389,00 ;25-11-2022; Americanas
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Rtx 3070 Ti Lhr 1 Click 8Gb Preta ; R$ 4.817,30 ;25-11-2022; Americanas
+Placa de Video pny Quadro T600 4GB GDDR6 128 bits - VCNT600-PB ; R$ 2.459,99 ;25-11-2022; Americanas
+Placa de Video Afox Radeon R5 220 2gb Ddr3 dvi/hdmi/vga ; R$ 258,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Geforce Nvidia DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video Palit Geforce Gtx1660 Super Gaming Pro 6gb Gddr6 192 Bits Dvi Hdmi - Ne6166s018j9-1160a-1 ; R$ 3.480,99 ;25-11-2022; Americanas
+Placa de Vídeo xfx amd rx 6600 8Gb GDDR6 Speedster Swft210 RX66XL8LFDQ ; R$ 2.085,56 ;25-11-2022; Americanas
+Placa de video positron SP6110AV SP6111 3-B323-0672-R4-00 ; R$ 159,99 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.655,10 ;25-11-2022; Americanas
+Placa de video gtx 650 2GB nvidia GDDR5 128 bits kllisre ; R$ 659,99 ;25-11-2022; Americanas
+Placa De Video Galax Nvidia Geforce Rtx 3060 Ti Lhr 8Gb ; R$ 4.504,50 ;25-11-2022; Americanas
+Placa de Vídeo msi nvidia GeForce rtx 3050 ventus 2X oc, 8GB, 128 Bits, GDDR6, hdmi e DisplayPort, dlss, Ray Tracing - 912-V397-448 ; R$ 2.222,11 ;25-11-2022; Americanas
+Placa de Vídeo Asus Tuf GeForce gtx 1650 oc Edition 4GB GDDR6 128 bits TUF-GTX1650-O4GD6-GAMING ; R$ 2.999,00 ;25-11-2022; Americanas
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.679,90 ;25-11-2022; Americanas
+Placa de Vídeo Galax GeForce gtx 1050 ti 1 Click oc 4GB ; R$ 1.417,50 ;25-11-2022; Americanas
+Placa De Video Geforce Gtx 1060 6gb Ssc Evga Gaming + nf ; R$ 2.190,00 ;25-11-2022; Americanas
+Placa de video sapphire nitro amd radeon rx 6700 xt gaming oc 12 gb gddr6 1130 ; R$ 5.099,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte nvidia GeForce rtx 3050 Gaming oc, lhr, 8GB, GDDR6, dlss, Ray Tracing, GV-N3050GAMING OC-8GD ; R$ 2.980,57 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Gtx 1660 6gb 192-bits Gddr5 ; R$ 1.629,90 ;25-11-2022; Americanas
+Placa de Video Mancer GeForce gtx 1060, 3GB, GDDR5, 192-bit, MCR-10603GDDR5-V1 ; R$ 1.485,90 ;25-11-2022; Americanas
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.171,88 ;25-11-2022; Americanas
+Placa de video GT610 1GB DDR3 - AF610-1024D3L5 - 0081120-01 ; R$ 241,45 ;25-11-2022; Americanas
+Placa de Video 1Gb GTX550TI Ddr5 128bit Vga/Dvi/Hdmi PV-05 dex ; R$ 605,75 ;25-11-2022; Americanas
+Placa De Vídeo Amd Radeon Rx 550, 4gb Gddr5 128bits ; R$ 1.129,00 ;25-11-2022; Americanas
+Placa de Vídeo NVIDIA GeForce GT210 1GB DDR3 64-Bits DVI HDMI VGA Galax - 21GGF4HI00NP ; R$ 339,36 ;25-11-2022; Americanas
+Placa de Vídeo Galax rtx 2060 Super 8GB dp/hdmi 26ISL6HP68LD ; R$ 2.800,82 ;25-11-2022; Americanas
+Placa de Vídeo Zotac GeForce rtx 3060 Twin Edge 12GB lhr GDDR6 192 bits ZT-A30600E-10M ; R$ 6.216,90 ;25-11-2022; Americanas
+Placa de Video Powercolor Radeon red Dragon rx 6800XT 16GB GDDR6 axrx 6800XT 16GBD6-3DHR/OC ; R$ 5.917,63 ;25-11-2022; Americanas
+Placa De Vídeo Amd Sapphire Pulse Radeon Series Rx 580 8Gb ; R$ 3.780,00 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce rtx 3070 GamingPro, 8GB, GDDR6, 256 bits, lhr, hdmi/dp - NE63070019P2-1041A ; R$ 4.888,78 ;25-11-2022; Americanas
+Placa de Vídeo nvidia GeForce rtx 2060 super ghost 8GB GDDR6 pci-e 3.0 NE6206S018P2-1160X gainward ; R$ 3.030,57 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 550 4GB GDDR5 RX550-4GD5 Snake ; R$ 659,00 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 799,00 ;25-11-2022; Americanas
+Placa De Vídeo Radeon Power Color Rx 550 4Gb Red Dragon ; R$ 1.199,93 ;25-11-2022; Americanas
+Placa de Vídeo Palit GeForce rtx 3060 Dual oc lhr 12GB 192Bit GDDR6 NE63060T19K9-190AD ; R$ 5.699,00 ;25-11-2022; Americanas
+Geforce Gtx Performance Placa De Video Msi 912-v809-2272 Gtx 1050ti Oc 4gb Ddr5 128bit 7008mhz Dvi Hdmi Dp ; R$ 1.699,00 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon rx 6600 xt 8GB Speedster swft 210 GDDR6 RX-66XT8DFDQ xfx ; R$ 2.916,76 ;25-11-2022; Americanas
+Placa de Vídeo asus tuf gaming Radeon rx 6900 xt, 16 Gbps, 16GB GDDR6 - TUF-RX6900XT-O16G-GAMING ; R$ 30.877,00 ;25-11-2022; Americanas
+Placa De Vídeo Palit nvidia GeForce gtx 1650 gp, 4GB, GDDR6, 128 Bits, hdmi/dp - NE6165001BG1-1175A ; R$ 1.733,22 ;25-11-2022; Americanas
+Placa de Vídeo nvidia msi GeForce rtx 3070 ti 8GB DDR6 256 Bits - 912-V505-007 ; R$ 6.009,34 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 560 4GB GDDR5 AFRX560D-4096D5H4-V2 afox ; R$ 1.399,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce rtx 3060 Ti oc 8GB GDDR6 PCI-Ex 4.0 36ISL6MD1VQW galax ; R$ 3.577,53 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Series DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video Pcyes Radeon HD6570 4gb Ddr5 hdmi/dvi/vga ; R$ 495,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce rtx 3080 Rog Strix oc V2 10GB GDDR6X LHR RTX3080-O10G-V2-GAMING asus ; R$ 13.322,67 ;25-11-2022; Americanas
+Placa de Vídeo Nvidea GeForce rtx 3080 sg o. C lhr 10GB GDDR6X 38NWM3MD99RG galax ; R$ 8.366,78 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit axrx 580 8GBD5-DHDV2/OC PowerColor Red Dragon ; R$ 1.399,00 ;25-11-2022; Americanas
+Placa de Vídeo 8gb Rtx 3060ti Ex Galax Gddr6 36isl6md1wgg ; R$ 3.748,92 ;25-11-2022; Americanas
+Placa De Vídeo Zotac Geforce Rtx 3070 Ti Trinity Oc 8Gb ; R$ 6.341,90 ;25-11-2022; Americanas
+Placa de Vídeo pci Express 64bit DDR3 1080P hdmi dvi-d vga ; R$ 233,73 ;25-11-2022; Americanas
+Placa de Video Galax GeForce rtx 2060 Plus, 1-Click oc, 12GB, GDDR6, dlss, Ray Tracing, 26NRL7HP68NC ; R$ 2.836,43 ;25-11-2022; Americanas
+Placa de Vídeo Asus Radeon rx 6600 8GB GDDR6 hdmi/dp DUAL-RX6600-8G ; R$ 2.777,67 ;25-11-2022; Americanas
+Placa De Vídeo Gainward Geforce Gtx 1650 4gb Ghost Gddr6 128-bits ; R$ 1.390,00 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Geforce Rtx 4090 Xlr-8 Pny 24gb Gddr6 384bits Vcg409024tfxxpb1-o ; R$ 19.554,26 ;25-11-2022; Americanas
+Placa de video xfx geforce 9400GT ; R$ 704,99 ;25-11-2022; Americanas
+Placa de Vídeo amd Power Color Radeon rx 6700 xt 12GB DDR6 192 Bits - axrx 6700XT 12GBD6-3 ; R$ 6.414,34 ;25-11-2022; Americanas
+Placa de vídeo 4 gb gtx 1050-TI dual fan msi ; R$ 2.089,90 ;25-11-2022; Americanas
+Black Box - Placa De Video Nvidia Geforce Gtx 1660 Super Oc Gddr6 6gb 192 Bits Dual Fan - Pp1660soc19214g6 ; R$ 8.999,90 ;25-11-2022; Americanas
+Placa De Video Galax Geforce Gt 710 Passive 1gb Ddr3 71ggf4dc00wg ; R$ 303,45 ;25-11-2022; Americanas
+Placa De Video 2gb Ddr3 Amd Radeon R5 220 Vga Hdmi Pc Gamer ; R$ 333,22 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Quadro P5000 16GB Gddr5x 256-bit Cuda 2560 ; R$ 5.888,48 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce gtx 1650 Ex 1 Click oc Galax 4Gb GDDR6 128Bits 65SQL8DS66E6 ; R$ 1.549,90 ;25-11-2022; Americanas
+Placa de Vídeo Afox GTX750 Ti 2Gb 128Bits pci-e - AF750TI-2048D5H5-V2 ; R$ 1.048,56 ;25-11-2022; Americanas
+Placa de Video Colorful iGame GeForce gtx 1660 Ti nb 6GB V2-V GDDR6 192bit ; R$ 1.599,00 ;25-11-2022; Americanas
+Placa de Vídeo Asus nvidia GeForce tuf gtx 1660 Super oc 6GB GDDR6 dp/hdmi/dvi TUF-GTX1660S-O6G-GAMING ; R$ 2.222,11 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 3060 ti Twin Edge oc, 8GB, GDDR6, 256 Bits, lhr, IceStorm 2.0, hdmi e DisplayPort - ZT-A30610H-10MLHR ; R$ 4.409,91 ;25-11-2022; Americanas
+Placa De Vídeo Msi Geforce Rtx 2060 6Gb Ventus Gp Oc Gddr6 - 912-V375-808 ; R$ 2.683,47 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Afox Geforce Gt 210 1gb Ddr3 64 Bits Vga Dvi Hdmi Af210-1024d3l5-v2 ; R$ 216,84 ;25-11-2022; Americanas
+Placa de Vídeo pny nvidia GeForce gtx 1650, 4GB, GDDR6, 128Bit, VCG16504D6DFPPB ; R$ 1.299,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Revenger GeForce gtx 750 vga/hdmi 2GB ; R$ 762,49 ;25-11-2022; Americanas
+Placa Vídeo Msi Geforce Rtx 3090 Ti Gaming X Trio 24Gb ; R$ 19.108,51 ;25-11-2022; Americanas
+Placa De Vídeo Afox 4Gb Radeon R9 370 Gddr5 - Afr9370-4096D5H4 X ; R$ 900,00 ;25-11-2022; Americanas
+Placa de Vídeo Asus nvidia GeForce gtx 1650 Memória Vídeo GDDR6 4GB GDDR6 TUF-GTX1650-O4GD6-P-GAMING ; R$ 1.508,50 ;25-11-2022; Americanas
+Placa de Vídeo Asus GeForce gtx 1050 Ti Dual oc cerberus 4GB GDDR5 128Bit CERBERUS-GTX1050TI-O4G ; R$ 2.149,90 ;25-11-2022; Americanas
+Placa de vídeo asus rog strix nvidia geforce rtx 3070 ti oc 8GB GDDR6X Dlss tray tracing gaming lacrada envio imediato ; R$ 7.849,00 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte 2GB R7 260X PCI-Exp ; R$ 1.249,50 ;25-11-2022; Americanas
+Placa De Vídeo Rx560 4Gb Biostar Gaming ; R$ 2.203,95 ;25-11-2022; Americanas
+Placa de vídeo Colorful GeForce rtx 3080 nb 10G lhr-v ; R$ 5.799,00 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 3090 ti amp Extreme Holo, 24GB, GDDR6X, 384 Bits, IceStorm 2.0, rgb, hdmi e DisplayPort - ZT-A30910B-10P ; R$ 17.756,56 ;25-11-2022; Americanas
+Placa de Vídeo msi nvidia GeForce rtx 3080 ventus 3X plus 10G oc lhr, 10GB, GDDR6X, 320 Bits, hdmi e DisplayPort - 912-V389-263 ; R$ 6.888,78 ;25-11-2022; Americanas
+Placa Vídeo Msi Geforce Rtx 3060 12Gb Ventus 2X Oc Lhr Gddr6 ; R$ 2.992,08 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon rx 6700 xt 12GB Speedster qick 319 GDDR6 RX-67XTYPBDP xfx ; R$ 3.760,62 ;25-11-2022; Americanas
+Placa de Video AMD Radeon HD 5450 1GB DDR3 64 BITS com KIT LOW Profile PJ54506401D3LP PCYES 30155 ; R$ 499,60 ;25-11-2022; Americanas
+Placa de Vídeo pny Nvidia Quadro T600 4Gb GDDR6 128 Bits VCNT600-PB ; R$ 1.644,39 ;25-11-2022; Americanas
+Placa de Vídeo Galax Nvidia rtx 3060 ti Plus sg 8GB GDDR6X 256Bits - 36ISM6MD4BPL ; R$ 3.854,89 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Revenger GeForce gtx 750 Ti hdmi 2GB ; R$ 895,00 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon rx 6600 Swft 210 8GB GDDR6 RX-66XL8LFDQ xfx ; R$ 2.214,32 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce rtx 3070 Phantom + Gainward 8Gb GDDR6 256Bits NE63070019P2-1040M ; R$ 5.189,90 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte nvidia GeForce rtx 3050 Eagle 8GB GDDR6 dlss Ray Tracing GV-N3050EAGLE-8GD ; R$ 3.007,40 ;25-11-2022; Americanas
+Placa de Video Gigabyte Geforce RTX2060 12gb Ddr6 hdmi/dp ; R$ 3.247,90 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon HD 6570 4GB GDDR5 128bits PCYes ; R$ 505,90 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Dex Geforce 700 Series Gtx 750 Ti GTX750TI 2gb ; R$ 957,00 ;25-11-2022; Americanas
+Placa de Vídeo Pc amd Radeon 2GB DDR5 pci 3.0 200 Series R7 240 dex PV-04A ; R$ 549,80 ;25-11-2022; Americanas
+Placa video 4 gb galax geforce gtx 1650 ex 1-CLICK oc DDR6 128 bits - 65SQL8DS66E6 ; R$ 2.249,00 ;25-11-2022; Americanas
+Placa De Video Msi Nvidia Geforce Gtx 1050 Aero Itx 2gb Gddr5 128 Bits 912-v809-2455 ; R$ 1.605,90 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 3070 ti Trinity oc, 8GB, GDDR6X, 256 Bits, rgb, IceStorm 2.0, hdmi e DisplayPort - ZT-A30710J-10P ; R$ 6.211,00 ;25-11-2022; Americanas
+Placa De Video Pci-e 12gb Gddr6 Palit Dual Oc Rtx 3060 ; R$ 5.441,55 ;25-11-2022; Americanas
+Placa de Vídeo palit nvidia GeForce gtx 1050 ti stormx 4GB GDDR5 NE5105T018G1-1070F ; R$ 1.529,00 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Geforce Afox Gt 730 4gb Ddr3 128-bits AF730-4096D3L6 ; R$ 549,90 ;25-11-2022; Americanas
+Placa De Vídeo Gainward Geforce Rtx 3070 Phoenix 8Gb ; R$ 4.514,90 ;25-11-2022; Americanas
+Placa De Video Radeon 8gb Rx 580 Powercolor Red Dragon Axrx 580 8gbd5-dhdv2/oc ; R$ 4.650,00 ;25-11-2022; Americanas
+Placa de Vídeo Gainward GeForce rtx 3090 Phantom + 24GB GDDR6X ; R$ 23.000,00 ;25-11-2022; Americanas
+Placa De Vídeo Gtx1660 6gb Gddr6 Superghost Geforce Gainward ; R$ 2.199,44 ;25-11-2022; Americanas
+Placa de Vídeo Gainward Nvidia GeForce rtx 4080 16GB Phantom GDDR6X, dlss, Ray Tracing ; R$ 11.900,00 ;25-11-2022; Americanas
+Placa De Vídeo Asus Amd Radeon Rx 6600 Dual 8Gb Gddr6 ; R$ 2.695,82 ;25-11-2022; Americanas
+Placa De Video Pcyes Radeon rx 550 4gb Ddr5 hdmi/dp/dvi ; R$ 1.062,90 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte Nvidia Geforce gtx 1050 ti 4GB oc ; R$ 1.690,71 ;25-11-2022; Americanas
+Placa de video GT210 1GB DDR3 64Bits pcyes PA210G6401D3LP ; R$ 225,25 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte nvidia Geforce gtx 1660 Super oc 6GB GDDR6 hdmi/dp GV-N166SOC-6GD ; R$ 2.199,89 ;25-11-2022; Americanas
+Placa de Video Mancer Radeon rx 550, 4GB, GDDR5, 128-bit, MCR-RX5504GD5-V4 ; R$ 902,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce Gamer 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce rtx 3050 Dual Palit 8Gb GDDR6 128Bits NE63050019P1-190AD ; R$ 2.099,99 ;25-11-2022; Americanas
+Placa de Vídeo msi Nvidia rtx 3060 12Gb GDDR6 Gaming z Trio Oc 912-V390-245 ; R$ 3.715,49 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce Gtx550ti Ddr5 1gb Hdmi Vga Pci Express 2.0 Knup KP-GTX550TI ; R$ 549,90 ;25-11-2022; Americanas
+Placa de Vídeo Afox Geforce GT730 4gb Ddr3 dvi/hdmi/vga ; R$ 527,90 ;25-11-2022; Americanas
+Placa de Vídeo Afox amd Radeon RX580 8GB GDDR5 256 bits-AFRX580-8192D5H3-V2 ; R$ 3.722,77 ;25-11-2022; Americanas
+Placa de video G210 512MB DDR3 G210LP512MD3 duex ; R$ 194,79 ;25-11-2022; Americanas
+Placa de vídeo powercolor Fighter amd rx 6600 - 8GB, 128bits ; R$ 3.702,90 ;25-11-2022; Americanas
+Placa de Vídeo Gainward Nvidia rtx 2060 8Gb Super Ghost GDDR6 256 Bits - NE6206S018P2-1160X-1 ; R$ 2.534,68 ;25-11-2022; Americanas
+Placa de Vídeo rx 6500 xt Gaming oc 4G Gigabyte amd Radeon, 4GB GDDR6, amd rdna 2 - GV-R65XTGAMING OC-4GD ; R$ 1.599,92 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce rtx 3060Ti 1 Click oc lhr Galax 8Gb GDDR6 256Bits 36ISL6MD1VQW ; R$ 3.449,90 ;25-11-2022; Americanas
+Placa de Vídeo Gainward nvidia GeForce rtx 3050 Ghost, 8GB, GDDR6, dlss, Ray Tracing- 63050019P1-190AB ; R$ 2.260,91 ;25-11-2022; Americanas
+Placa de Video Powercolor Radeon red Dragon rx 6800XT 16GB GDDR6 axrx 6800XT 16GBD6-3DHR/OC ; R$ 5.917,63 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 3050 Twin Edge oc, 8GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-A30500H-10M ; R$ 3.288,78 ;25-11-2022; Americanas
+Placa De Video Nvidia Galax Gt 710 2Gb Ddr3 ; R$ 342,20 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte nvidia GeForce rtx 3070 ti Eagle oc 8GB GDDR6X hdmi/dp GV-N307TEAGLE OC-8GD ; R$ 7.299,89 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce rtx 4080 Phantom Gainward 16Gb GDDR6X 256Bits NED4080019T2-1030P ; R$ 12.679,90 ;25-11-2022; Americanas
+Placa de Vídeo Geforce gt 420 2GB DDR3 AF4202048D3L2-V- Afox ; R$ 593,01 ;25-11-2022; Americanas
+Placa de Vídeo Gainward nvidia GeForce rtx 2060 Ghost 12GB GDDR6 NE62060018k9-1160l ; R$ 2.309,00 ;25-11-2022; Americanas
+Placa de Vídeo Zotac nvidia GeForce rtx 3060 Twin Edge oc, 12GB, GDDR6, 192 Bits, IceStorm 2.0, hdmi e DisplayPort - ZT-A30600H-10M ; R$ 4.055,44 ;25-11-2022; Americanas
+Placa De Vídeo Palit Gamingpro Rtx 3080 - 12Gb, 384Bits ; R$ 6.572,94 ;25-11-2022; Americanas
+Placa De Video Power Color Radeon Axrx 6600 8Gb Gddr6 - Axrx ; R$ 2.769,45 ;25-11-2022; Americanas
+Placa de Video 8Gb RX6600 128bits 3xDisplayPort/1xHdmi RX6600-Challenger D Asrock ; R$ 2.919,45 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce rtx 3060Ti Ghost Gainward 8Gb GDDR6 256Bits ; R$ 3.799,90 ;25-11-2022; Americanas
+Placa de Vídeo nvidia Quadro K2200 GDDR5 4Gb - 765148-001 ; R$ 3.306,95 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce gtx 1660 Super gp, 6GB, GDDR6, 192bit, NE6166S018J9-1160A-1 ; R$ 2.399,00 ;25-11-2022; Americanas
+Placa de video afox geforce GT610, 2GB, DDR3, 64-BIT, AF610-2048D3L5 ; R$ 293,78 ;25-11-2022; Americanas
+Placa de vídeo powercolor amd rx 6900XT - 16GB, 256bits ; R$ 7.873,90 ;25-11-2022; Americanas
+Placa de Vídeo pny Nvidia rtx 3060 ti 8Gb G6 256 Bits Xlr8 G. Revel Epicx VCG3060T8LDFXPPB1 ; R$ 3.630,65 ;25-11-2022; Americanas
+Placa de Vídeo Galax Nvidia gtx 1650 4Gb ex 1click oc G6 128 Bits 65SQL8DS66E6 ; R$ 1.372,11 ;25-11-2022; Americanas
+Placa de Video 4Gb DDR5 GT740 128bit Vga/Dvi/Hdmi PA740GT12804D5FZ PcYes ; R$ 834,50 ;25-11-2022; Americanas
+Placa de Vídeo pny Nvidia rtx 3060 12Gb G6 192 Bits Verto VCG306012DFBPB1 ; R$ 3.177,86 ;25-11-2022; Americanas
+Placa De Video Power Color Radeon Axrx 6600 8Gb Gddr6 - Axrx ; R$ 2.769,45 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce 500 Series DDR5 gtx 550 ti PV-05 1GB Dex PV05 ; R$ 629,80 ;25-11-2022; Americanas
+Placa de Vídeo 4GB Msi GT730 Afterburner Ocv1 1006mhz 64bit Ddr3-Vga-Dvi-Hdmi N730k-4gd3/Ocv1 ; R$ 1.849,00 ;25-11-2022; Americanas
+Placa De Vídeo Msi Gaming X Gtx 1660 Super - 6Gb, 192Bits ; R$ 1.910,90 ;25-11-2022; Americanas
+Placa de Vídeo msi nvidia GeForce rtx 3060 Ventus 3X 12G oc, dlss, Ray Tracing ; R$ 3.734,90 ;25-11-2022; Americanas
+Placa de Video Asus ko NVidia Geforce rtx 3060 Ti V2 oc Gaming lhr, 8GB, GDDR6, 256bit, KO-RTX3060TI-O8G-V2-GAMING ; R$ 6.869,33 ;25-11-2022; Americanas
+Placa de Vídeo Gainward Nvidia rtx 3070 8Gb Phoenix GDDR6 256 Bits NE63070019P2-1041X ; R$ 4.656,29 ;25-11-2022; Americanas
+Placa De Vídeo Amd Sapphire Pulse Radeon Series Rx 580 8Gb ; R$ 3.780,00 ;25-11-2022; Americanas
+Placa de vídeo powercolor amd rx 6800XT - 16GB, 256bits ; R$ 6.324,90 ;25-11-2022; Americanas
+Placa De Vídeo Gigabyte Rtx 3070 Gaming 8Gb Gddr6 256 Bits ; R$ 8.411,22 ;25-11-2022; Americanas
+Placa de video 1GB Series KP-GT210 DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB Series KP-GT210 DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video Bluecase GT210 1GB DDR3 64bits BP-GT2101GD3D1 ; R$ 260,00 ;25-11-2022; Americanas
+Placa de video nvidia gt 740 GDDR5 4GB 128BIT - PA740GT12804D5FZ ; R$ 1.099,99 ;25-11-2022; Americanas
+Placa De Vídeo Afox Gt220 1gb Ddr3 128bits Hdmi/dvi/vga ; R$ 225,62 ;25-11-2022; Americanas
+Placa De Video Pcyes Geforce Gt 610 2gb Ddr3 64 Bits ; R$ 367,99 ;25-11-2022; Americanas
+Placa de Video Nvidia G210 1gb DDR3 Low Profile 64bits ; R$ 320,00 ;25-11-2022; Americanas
+Placa de video KP-GT210 1GB hdmi DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Series Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB DDR3 64 bits geforce GT610 afox pci-e 2.0 vga/dvi/hdmi ; R$ 327,80 ;25-11-2022; Americanas
+Placa de Vídeo galax rtx 2060 12GB GDDR6 192 Bit ; R$ 3.999,00 ;25-11-2022; Americanas
+Placa De Video Geforce Gtx-550Ti 1Gb Ddr5 128Bits ; R$ 629,79 ;25-11-2022; Americanas
+Placa de Vídeo NVidia GeForce 01GB DDR3 21GGF4HI00N - Galax ; R$ 310,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Afox Geforce G210 Af210-512D3L5 512Mb Ddr3 Hdmi Vga E Dvi X ; R$ 280,00 ;25-11-2022; Americanas
+Placa de video KP-GT210 1GB hdmi DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa Captura Vídeo Áudio Usb 2.0 Easycap Vhstv Dvd ; R$ 143,99 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Series Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Amd R7 240 128Bits Ddr5 2Gb Dex Pv-04A ; R$ 757,04 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Series Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Afox Radeon R5 220, 2Gb DDR3, 64bits, dvi/hdmi/vga, AFR5220-2048D3L5-V2 ; R$ 274,90 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Knup Geforce 200 Series Gt 210 Kp-gt210 1gb ; R$ 300,00 ;25-11-2022; Americanas
+Placa de video Nvidia 1GB KP-GT210 DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce 2GB GDDR5 PA750DR5128DF - Pcyes ; R$ 1.299,00 ;25-11-2022; Americanas
+Placa de Vídeo NVIDIA GeForce GTX1650 OC 4GB GDDR6 128-Bits Phoenix ASUS - PH-GTX1650-O4GD6-P ; R$ 3.833,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 hdmi Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo AFOX G210 Geforce 1GB DDR3 HDMI DVI VGA Até F210-1024D3L5-V2 ; R$ 280,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Series Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video Afox Geforce Gt610 1gb Ddr3 128-bit-af610 ; R$ 249,05 ;25-11-2022; Americanas
+Placa de vídeo galax nvidia gtx 1650 ex - 4GB, 128bits, oc ; R$ 1.806,90 ;25-11-2022; Americanas
+Placa de video GT610 2GB DDR3 64BITS PAKGT6102GBDR3SF ; R$ 271,65 ;25-11-2022; Americanas
+Placa De Vídeo Pcyes Amd Radeon Rx580 8gb Gdrr5 256bits ; R$ 4.170,00 ;25-11-2022; Americanas
+Placa De Video Pcyes Radeon R5 220 1gb Ddr3 dvi/hdmi/vga ; R$ 234,90 ;25-11-2022; Americanas
+Placa de video Geforce Nvidia 1GB KP-GT210 DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon HD 5450 1GB DDR3 PJ5450640 - PCYes ; R$ 399,00 ;25-11-2022; Americanas
+Placa de Vídeo AFR5220-2048D3L 2GB DDR3 - Afox ; R$ 529,00 ;25-11-2022; Americanas
+Placa De Video Geforce 1gb Gt220 Ddr3 128bits Afox Cooler - Low Profile ; R$ 259,95 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Geforce Gt 210 1gb Hdmi 64bits Ddr3 ; R$ 338,46 ;25-11-2022; Americanas
+Placa De Video Pci Gt210 1gb Ddr3 ; R$ 322,70 ;25-11-2022; Americanas
+Placa de vídeo amd RX6500XT 4GB GDDR6 Power Color - 1A1-G00367100G* ; R$ 2.839,71 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon R5 230 2GB DDR3 64bits PCYes ; R$ 343,90 ;25-11-2022; Americanas
+Placa Vídeo Nvidia Quadro K4200 4GB Gddr5 256 Bits 1344 Cuda ; R$ 2.014,49 ;25-11-2022; Americanas
+Geforce gtx Performance Placa de Video msi 912-v809-2272 gtx 1050ti oc 4gb ddr5 128bit 7008mhz dvi hdmi dp ; R$ 1.830,99 ;25-11-2022; Americanas
+Black Box - Placa De Video Nvidia Geforce Gtx 1660 Dual Oc Gddr5 6gb 192 Bits Dual Fan - Pp1660oc19206g5 ; R$ 8.999,90 ;25-11-2022; Americanas
+Placa de video 1GB Nvidia KP-GT210 hdmi DDR3 Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video Asus tuf Gaming GeForce gtx 1650 4GB DDR6 - TUF-GTX1650-4GD6-GAMING ; R$ 2.158,85 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce AF420-2048D3L5 02GB - Afox ; R$ 619,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce Series ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Gt 730 GDDR5 4Gb 64Bits Low Profile PAGT730DR5LP ; R$ 1.320,24 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Geforce Nvidia DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia AF220-1024D3L2 01GB - Afox ; R$ 419,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce Series ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Gt210 1Gb Ddr3 64Bits Nvidia/Dex - Ref: Pv-02 ; R$ 440,99 ;25-11-2022; Americanas
+Placa de Vídeo Geforce 04GB GV-N1656OC-4GD - Gigabyte ; R$ 3.690,00 ;25-11-2022; Americanas
+Placa de Vídeo Geforce AF730-4096D3L8 04GB - Afox ; R$ 979,00 ;25-11-2022; Americanas
+Placa de Vídeo NVIDIA GeForce GT210 1GB DDR3 64-Bits DVI HDMI VGA Galax - 21GGF4HI00NP ; R$ 339,20 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Series DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video 1GB afox pci-ex geforce GT220 DDR3 ; R$ 275,86 ;25-11-2022; Americanas
+Placa de Vídeo 1GB Galax Geforce GT210 DDR3 64 bits ; R$ 307,20 ;25-11-2022; Americanas
+Placa De Video Duex Geforce 1Gb Ddr3 64Bits Dx G210Lp-1Gd3 ; R$ 270,65 ;25-11-2022; Americanas
+Placa de Video p/ Pc Desktop 1GB DDR3 GT210 GeForce Nvidia 64bits PcYes 30675 ; R$ 339,80 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon HD 6570 4GB GDDR5 128bits PCYes ; R$ 510,90 ;25-11-2022; Americanas
+Placa De Video Radeon 1gb R5 230 Ddr3 64bits Afox - c/ Kit Low Profile ; R$ 263,26 ;25-11-2022; Americanas
+Placa de Vídeo Gigabyte GeForce GTX1660 Super - 6GB GDDR6 192 bits GV-N166SOC-6GD ; R$ 2.807,89 ;25-11-2022; Americanas
+Placa De Vídeo Afox GT240 1GB DDR3 128 bits lp -hdmi - dvi - vga - AF240-1024D3L2 ; R$ 235,20 ;25-11-2022; Americanas
+Placa de Video Afox Geforce GT220 1gb Ddr3 dvi/hdmi/vga ; R$ 233,90 ;25-11-2022; Americanas
+Placa de vídeo Colorful GeForce GT730K 4GD3 V2-V ; R$ 479,00 ;25-11-2022; Americanas
+Placa de vídeo Pcyes gtx 1650 Super 4GB GDDR6 128 Bit ; R$ 1.999,99 ;25-11-2022; Americanas
+Placa De Vídeo Afox Gt220 1gb Ddr3 128bits Hdmi/dvi/vga ; R$ 225,62 ;25-11-2022; Americanas
+Placa de Video Afox Geforce GT240 1gb Ddr3 dvi/hdmi/vga ; R$ 241,90 ;25-11-2022; Americanas
+Placa De Video Pcyes Geforce Nvidia G210 1gb Ddr3 - 64 Bits ; R$ 220,28 ;25-11-2022; Americanas
+Placa de vídeo Pcyes gtx 1650 Super 4GB GDDR6 128 Bit ; R$ 1.999,99 ;25-11-2022; Americanas
+Placa de Video 1GB afox pci-ex geforce GT220 DDR3 ; R$ 275,86 ;25-11-2022; Americanas
+Placa de Vídeo 1GB Galax Geforce GT210 DDR3 64 bits ; R$ 307,20 ;25-11-2022; Americanas
+Placa De Video Duex Geforce 1Gb Ddr3 64Bits Dx G210Lp-1Gd3 ; R$ 270,65 ;25-11-2022; Americanas
+Placa de Video p/ Pc Desktop 1GB DDR3 GT210 GeForce Nvidia 64bits PcYes 30675 ; R$ 339,80 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon HD 6570 4GB GDDR5 128bits PCYes ; R$ 510,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Series Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce G210 1Gb Ddr3 64-Bits AF210-1024D3L8 - Afox ; R$ 258,90 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce rtx 3050 Dual, lhr, 8GB, GDDR6, dlss, Ray Tracing, NE63050019P1-190AD ; R$ 3.562,92 ;25-11-2022; Americanas
+Placa de Vídeo AFR5220-2048D3L 2GB DDR3 - Afox ; R$ 529,00 ;25-11-2022; Americanas
+Placa de video 1GB Nvidia KP-GT210 hdmi DDR3 Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Da Mesa Avolight ; R$ 1.019,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 hdmi Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Geforce Nvidia DDR3 hdmi ; R$ 934,90 ;25-11-2022; Americanas
+Placa de Vídeo Palit nvidia GeForce gtx 1050 Ti StormX, 4GB, GDDR5, 128bit, NE5105T018G1-1070F ; R$ 1.413,19 ;25-11-2022; Americanas
+Placa De Vídeo Galax Geforce Gtx 1660 6gb Gddr5 Oc 60srh7dsy91c ; R$ 3.166,10 ;25-11-2022; Americanas
+Placa de video KP-GT210 1GB hdmi DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 750 4GB GDDR5 BL750-4096D5H6 Snake ; R$ 790,00 ;25-11-2022; Americanas
+Placa De Vídeo Amd Afox Radeon R5 Series R5 220 Afr5220-2048d3l9-v2 2gb ; R$ 299,90 ;25-11-2022; Americanas
+Placa de Video nv GTX1650 4GB ghost G6 128BITS Gainward NE6165001BG1-1175D ; R$ 1.619,00 ;25-11-2022; Americanas
+Placa de Video Afox Geforce GT710 2gb Ddr3 dvi/hdmi/vga ; R$ 317,90 ;25-11-2022; Americanas
+Placa de video 1GB Series KP-GT210 DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de vídeo asus DUAL-RTX2060-O12G-EVO 12G DDR6 ; R$ 4.819,63 ;25-11-2022; Americanas
+Placa de Vídeo amd Radeon 2Gb 128 bit Ddr5 Pci 3.0 200 Series R7 240 Dex PV-04A ; R$ 729,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Afox Gt420 4Gb Ddr3 Af420-4096D3L5 ; R$ 708,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Geforce Nvidia G210 1gb Ddr3 - 64 Bits Pc Yes ; R$ 259,90 ;25-11-2022; Americanas
+Placa de Video Asus GeForce rtx 3050 Dual oc Edition, lhr, 8GB, GDDR6, dlss, Ray Tracing, DUAL-RTX3050-O8G ; R$ 3.466,22 ;25-11-2022; Americanas
+Placa De Vídeo Gainward Geforce Nvidia Gtx1650 4Gb Ddr6 ; R$ 2.751,68 ;25-11-2022; Americanas
+Placa de video (gpu) GTX1050TI 4GB GDDR5 palit NE5105T018G1-1070F ; R$ 1.508,49 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Series DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video NVIDIA GT1030 2GB DDR4 64BITS - GAINWARD NEC103000646-1082F* ; R$ 1.159,06 ;25-11-2022; Americanas
+Placa de video Nvidia 1GB KP-GT210 DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Asus Gtx 1660 Super 90yv0dt0-M0na00 Ph-Gtx1660s-O6g 6gb Ddr6 ; R$ 1.999,00 ;25-11-2022; Americanas
+Placa de vídeo gigabyte amd RX6500XT G - 4GB, GDDR6, 128bits ; R$ 1.935,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce AF420-2048D3L5 02GB - Afox ; R$ 530,00 ;25-11-2022; Americanas
+Placa de video radeon HD5450 1GB DDR3 64 bit - pcyes ; R$ 299,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Series Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia rtx 3060 o. C 12GB GRRD6 192 Bits 36NOL7MD1VOC Galax ; R$ 4.315,75 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo nvidia Gainward GeForce rtx 3070 8GB DDR6 256 Bits - NE63070019P2-1041X ; R$ 5.526,34 ;25-11-2022; Americanas
+Placa De Vídeo Afox amd Radeon rx 550 4GB Dual GDDR5 128 Bits Afrx550-4096d5h4-v5 ; R$ 1.692,90 ;25-11-2022; Americanas
+Placa de Video Afox Geforce Gt610 1gb Ddr3 128-bit-af610 ; R$ 249,33 ;25-11-2022; Americanas
+Placa De Video Graphics 64bit Saidas De Video Dvi-d/hdmi/vga Kp-gt210 Kp-gt210 Knup ; R$ 299,00 ;25-11-2022; Americanas
+Placa de Video Afox Geforce Gt610 1gb Ddr3 128-bit-af610 ; R$ 249,33 ;25-11-2022; Americanas
+Placa De Video Asus Geforce Rtx 3050 Oc 8g Gddr6 128bits Dual-rtx3050-o8g ; R$ 3.499,90 ;25-11-2022; Americanas
+Placa De Video Geforce Gtx-550Ti 1Gb Ddr5 128Bits ; R$ 716,61 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Series DDR3 Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video RTX3080 sg lhr 10GB DDR6X 320BIT 19GBPS galax ; R$ 8.742,90 ;25-11-2022; Americanas
+Placa de Vídeo nvidia GeForce rtx 3060 ti Ghost V1 8GB GDDR6 lhr NE6306T019P2-190AB V1 gainward ; R$ 5.200,92 ;25-11-2022; Americanas
+Placa de Video GeForce gtx 1650 4GB GDDR6 128bit - pny ; R$ 1.199,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia GeForce rtx 3060 Dual 12GB GDDR6 rgb NE63060019K9-190AD palit ; R$ 4.427,70 ;25-11-2022; Americanas
+Placa de video pci-e 4GB 128BITS gtx 1650 DDR6 asus tuf / TUF-GTX1650-O4GD6-P-GAMING ; R$ 2.699,90 ;25-11-2022; Americanas
+Placa de Video Asus tuf GeForce rtx 3060 oc 12GB, GDDR6, 192bit, lhr, TUF-RTX3060-O12G-V2-GAMING ; R$ 6.499,00 ;25-11-2022; Americanas
+Placa de video Geforce Nvidia 1GB KP-GT210 DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo hp Quadro FX880m Mezanino 1Gb - 598040-001 ; R$ 348,10 ;25-11-2022; Americanas
+Placa de Vídeo gtx 1050 ti StormX 4Gb GDDR5 128 Bit ; R$ 2.524,25 ;25-11-2022; Americanas
+Placa de Vídeo AFOX R5 230 AFR5230 64 Bits 1024MB DDR3 PCI-E ; R$ 439,61 ;25-11-2022; Americanas
+Placa De Video Pci-e 12gb Gddr6 Gainward Ghost Rtx 3060 ; R$ 5.499,99 ;25-11-2022; Americanas
+Placa de Video Nvidia G T X 1660Ti 6GB Ghost GDDR6 192Bits NE6166T018J9-1160L ; R$ 3.037,99 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Galax Nvidia Geforce Rtx 3060 (1-Click Oc), 15 Gbps, 12gb Gddr6 36nol7md1voc ; R$ 5.699,00 ;25-11-2022; Americanas
+Placa de Video galax, GeForce rtx 3060 Ti 1-Click oc, 8GB, GDDR6, dlss, lhr, Ray Tracing, 36ISL6MD1VQW ; R$ 5.256,59 ;25-11-2022; Americanas
+Placa De Video Geforce Gtx 1660 1 Click 6Gb Gddr5 192 Bits ; R$ 1.806,95 ;25-11-2022; Americanas
+Placa de Vídeo NVidia GeForce 01GB DDR3 21GGF4HI00N - Galax ; R$ 302,82 ;25-11-2022; Americanas
+Placa de Vídeo NVIDIA GeForce GTX1650 OC 4GB GDDR6 128-Bits Phoenix ASUS - PH-GTX1650-O4GD6-P ; R$ 4.028,70 ;25-11-2022; Americanas
+Placa de Vídeo Duex GeForce GT730 4GB, DDR3, 128 Bits, Low Profile, hdmi/dvi/vga - dx GT730LP-4GD3-C ; R$ 635,67 ;25-11-2022; Americanas
+Placa de Video Colorful Series GeForce rtx 3060 Ti nb duo LHR-V2 8GB GDDR6 256bit ; R$ 5.199,00 ;25-11-2022; Americanas
+Placa de Vídeo Asus tuf Gaming GeForce gtx 1650 Super oc, 4GB, GDDR6 - TUF-GTX1650S-O4G-GAMING ; R$ 4.047,15 ;25-11-2022; Americanas
+Placa de vídeo Radeon rx 550 2GB GDDR5 axrx 550 2GBD5-DH red dragon powercolor ; R$ 559,00 ;25-11-2022; Americanas
+Placa de Vídeo AXRX-550-2GBD5-DH 02GB 128B - PowerColor ; R$ 1.899,00 ;25-11-2022; Americanas
+Placa de Vídeo GeForce rtx 3070 Phoenix 8GB GDDR6 256bit NE63070019P2-1041X gainward ; R$ 6.160,57 ;25-11-2022; Americanas
+Placa de Vídeo Colorful Geforce gt 1030 4gb Ddr4 hdmi/vga ; R$ 957,90 ;25-11-2022; Americanas
+Placa De Vídeo Afox Afrx550-4096d5h4-v5 amd Radeon rx 550 4GB Dual GDDR5 128 Bits ; R$ 1.692,90 ;25-11-2022; Americanas
+Placa De Vídeo Amd Afox Radeon R5 220 2gb GDDR3 64-bit ; R$ 289,00 ;25-11-2022; Americanas
+Placa de vídeo Nvidia Geforce gtx 1650 4GB GDDR6 GTX1650-4GD6 Snake ; R$ 1.199,00 ;25-11-2022; Americanas
+Placa de vídeo power color Hellhound amd Radeon rx 6600 8GB GDDR6 radeon - axrx 6600 8GBD6-3DHL ; R$ 4.499,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo pcyes GeForce gt 1030, 2GB, GDDR5, 64 Bits - PJGT1030DR5 ; R$ 1.295,53 ;25-11-2022; Americanas
+Placa De Vídeo Gpu Gigabyte Rtx 3080 12Gb Gddr6X 384 Bits ; R$ 13.648,95 ;25-11-2022; Americanas
+Placa de Video Afox GeForce GT730, 4GB, DDR3, 128-bit, AF730-4096D3L6 ; R$ 532,90 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Knup Geforce 200 Series Gt 210 Kp-gt210 1gb ; R$ 300,00 ;25-11-2022; Americanas
+Placa de Vídeo PCYes gt 740 4GB DDR5 128 Bits ; R$ 990,00 ;25-11-2022; Americanas
+Placa De Vídeo Afox Geforce Gt 730 1Gb Ddr3 64Bit Af730 1024D3L7 V1 ; R$ 707,06 ;25-11-2022; Americanas
+Placa De Vídeo Amd Afox Radeon R5 Series R5 220 Afr5220-2048d3l9-v2 2gb ; R$ 310,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce gtx 1650 Ex 1 Click oc Galax 4Gb GDDR6 128Bits 65SQL8DS66E6 ; R$ 2.233,33 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce Gtx550ti Ddr5 1gb Hdmi Vga Pci Express 2.0 Knup KP-GTX550TI ; R$ 549,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 hdmi Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Video para Pc Desktop 1GB DDR3 GT210 GeForce Nvidia 64bits PcYes 30675 ; R$ 339,80 ;25-11-2022; Americanas
+Placa de video afox amd radeon R5 230 1GB DDR3 64 bit lp heatsink - hdmi - dvi - vga - AFR5230-1024D ; R$ 310,96 ;25-11-2022; Americanas
+Placa De Video Gt710 2gb Ddr3 64bits ; R$ 493,70 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Video Gt710 2gb Ddr3 64bits ; R$ 493,70 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce Gtx550ti Ddr5 1gb Hdmi Vga Pci Express 2.0 Knup KP-GTX550TI ; R$ 549,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 hdmi Nvidia Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa De Vídeo Nvidia Knup Geforce 200 Series Gt 210 Kp-gt210 1gb ; R$ 300,00 ;25-11-2022; Americanas
+Placa de Vídeo PCYes gt 740 4GB DDR5 128 Bits ; R$ 990,00 ;25-11-2022; Americanas
+Placa De Vídeo Afox Geforce Gt 730 1Gb Ddr3 64Bit Af730 1024D3L7 V1 ; R$ 707,06 ;25-11-2022; Americanas
+Placa De Vídeo Amd Afox Radeon R5 Series R5 220 Afr5220-2048d3l9-v2 2gb ; R$ 310,00 ;25-11-2022; Americanas
+Placa de Vídeo Nvidia Geforce gtx 1650 Ex 1 Click oc Galax 4Gb GDDR6 128Bits 65SQL8DS66E6 ; R$ 2.233,33 ;25-11-2022; Americanas
+Placa de Vídeo pcyes Radeon R5 230, 2GB, GDDR3, 64 Bits - PA230DR364LP ; R$ 436,55 ;25-11-2022; Americanas
+Placa de vídeo nvidia Quadro T400 - pny VCNT400-PB (2GB DDR6, PCIe 3.0 x16) ; R$ 1.562,18 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Nvidia DDR3 hdmi Geforce ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo afox Geforce GT730 4GB, DDR3, 128 Bits, hdmi, dvi, vga- AF730-4096D3L6 ; R$ 546,00 ;25-11-2022; Americanas
+Placa de Vídeo Pcyes Geforce gt 730 4gb Ddr5 dvi-d/hdmi ; R$ 700,90 ;25-11-2022; Americanas
+Placa de Vídeo AFR5220-2048D3L 2GB DDR3 - Afox ; R$ 529,00 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 Geforce Nvidia DDR3 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de video 1GB KP-GT210 DDR3 Nvidia Geforce Series ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo nvidia Galax GeForce rtx 3070 8GB DDR6 256 Bits - 37NSL6MD2KCH ; R$ 5.560,34 ;25-11-2022; Americanas
+Placa de Video Asus tuf Gaming Geforce rtx 3070 Ti oc, lhr, 8GB, GDDR6X, 256Bit, TUF-RTX3070TI-O8G-GAMING ; R$ 9.999,90 ;25-11-2022; Americanas
+Placa de Video Asus tuf Gaming Geforce rtx 3090 oc, 24GB GDDR6X, 384bit, TUF-RTX3090-O24G-GAMING ; R$ 25.999,00 ;25-11-2022; Americanas
+Placa de vídeo asus rog nvidia rtx 3070 Ti - 8GB, 256bits ; R$ 11.358,90 ;25-11-2022; Americanas
+Placa de video 1GB DDR3 Nvidia Geforce KP-GT210 hdmi ; R$ 219,90 ;25-11-2022; Americanas
+Placa de Vídeo Galax GeForce rtx 2060 Super 1-Click oc 8GB GDDR6 256Bit 26ISL6HP68LD ; R$ 2.942,72 ;25-11-2022; Americanas
+Placa De Vídeo Asus Tuf Rtx 3060 Oc V2 12Gb Gaming Lhr Gddr6 ; R$ 6.604,50 ;25-11-2022; Americanas
+Placa De Video Gtx 550ti 1gb Ddr5 128bits 1500mhz Pci-e Pv-05 ; R$ 675,99 ;25-11-2022; Americanas
