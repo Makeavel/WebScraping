@@ -20,8 +20,8 @@ public class WebScrapingMagaluApplication {
 
 //             -----------------------  Lojas Americanas  --------------------
 
-        AmericanasScrapper scrapperTVAM = new AmericanasScrapper("https://www.americanas.com.br/busca/smart-tv?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=smart%20tv&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater'%2C'fixed' %3Afalse%7D&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater%7CTV'%2C'fixed'%3Afalse%7D&filter=%7B'id'%3A'condicao'%2C'value'%3A'novo'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
-        scrapperTVAM.getAllProductAM(1, 10 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasTV-" + dateFormat.format(date) +".txt" );
+      //  AmericanasScrapper scrapperTVAM = new AmericanasScrapper("https://www.americanas.com.br/busca/smart-tv?c_legionRegion=995301&c_macroRegion=MIDWEST_INTERIOR&c_mesoRegion=5301&content=smart%20tv&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater'%2C'fixed' %3Afalse%7D&filter=%7B'id'%3A'categoria'%2C'value'%3A'TV%20e%20Home%20Theater%7CTV'%2C'fixed'%3Afalse%7D&filter=%7B'id'%3A'condicao'%2C'value'%3A'novo'%2C'fixed'%3Afalse%7D&sortBy=relevance&source=nanook&testab=searchTestAB%3Dnew&limit=24&offset=");
+      //  scrapperTVAM.getAllProductAM(1, 10 , "src/main/java/com/api/webscrapingmagalu/files/AmericanasTV-" + dateFormat.format(date) +".txt" );
 
         MagaluScrapper scrapperTVMG = new MagaluScrapper("https://www.magazineluiza.com.br/busca/smart+tv/?page=");
         scrapperTVMG.getAllProductMagalu(1, 17 , "src/main/java/com/api/webscrapingmagalu/files/MagaluTV-" + dateFormat.format(date) +".txt");
